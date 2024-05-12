@@ -2,4 +2,21 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Contenidos"
     id="id-e61caa0dc3cc436aa918b17e0f565135"
-    version="4.9.0"/>
+    purpose="Proyecto...&#xA;&#xA;Historia&#xA;---&#xA;Propiedades&#xA;&#xA;"
+    version="4.9.0">
+  <properties
+      key="rutaMacMD"
+      value="/Downloads/tmpr/prymd/"/>
+  <properties
+      key="devdoc"
+      value="02n.a1.mimutual.md"/>
+  <properties
+      key="rutaMacHTML"
+      value="/Downloads/tmpr/cmvarchidoc/"/>
+  <properties
+      key="gh-pages"
+      value="https://hwong23.github.io/stef-arqcomv-arq/"/>
+  <properties
+      key="reporte"
+      value="index.html"/>
+</archimate:ArchimateModel>
