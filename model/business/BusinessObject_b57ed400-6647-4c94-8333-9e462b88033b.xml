@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="HV"
-    id="b57ed400-6647-4c94-8333-9e462b88033b"/>
+    id="b57ed400-6647-4c94-8333-9e462b88033b"
+    documentation="Esta es la hoja de vida de una persona."/>

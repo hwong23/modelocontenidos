@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Experiencias"
-    id="2ba99108-7dfd-4f1a-849d-ef63a90c6d7b"/>
+    id="2ba99108-7dfd-4f1a-849d-ef63a90c6d7b"
+    documentation="Y estas son sus experiencias.&#xA;&#xA;* Estas son sus experiencias&#xA;* Estas son sus experiencias&#xA;* Estas son sus experiencias&#xA;&#xA;"/>
