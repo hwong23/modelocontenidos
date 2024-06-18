@@ -118,4 +118,7 @@
   <properties
       key="reporte"
       value="index.html"/>
+  <properties
+      key="alias"
+      value="hv"/>
 </archimate:ArchimateDiagramModel>
