@@ -6,16 +6,15 @@
     version="4.9.0">
   <properties
       key="rutaMacMD"
-      value="/Downloads/tmp/prymd/"/>
+      value="/Downloads/tmpr/hvmd/"/>
   <properties
       key="devdoc"
-      value="02n.a1.prymd.md"/>
+      value="02n.a1.hv.md"/>
   <properties
       key="rutaMacHTML"
-      value="/Downloads/tmp/pryhtml/"/>
+      value="/Downloads/tmpr/hvhtml/"/>
   <properties
-      key="gh-pages"
-      value="https://hwong23.github.io/stef-arqcomv-arq/"/>
+      key="gh-pages"/>
   <properties
       key="reporte"
       value="index.html"/>
