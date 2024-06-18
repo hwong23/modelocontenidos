@@ -104,4 +104,18 @@
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-6e2115cecd414c00a77b32f648bfcb56.xml#id-6e2115cecd414c00a77b32f648bfcb56"/>
   </children>
+  <properties
+      key="rutaMacMD"
+      value="/Downloads/tmpr/hvmd/"/>
+  <properties
+      key="devdoc"
+      value="02n.a1.hv.md"/>
+  <properties
+      key="rutaMacHTML"
+      value="/Downloads/tmpr/hvhtml/"/>
+  <properties
+      key="gh-pages"/>
+  <properties
+      key="reporte"
+      value="index.html"/>
 </archimate:ArchimateDiagramModel>
