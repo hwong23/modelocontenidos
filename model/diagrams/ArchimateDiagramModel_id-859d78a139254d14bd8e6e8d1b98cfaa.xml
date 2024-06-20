@@ -121,4 +121,7 @@
   <properties
       key="alias"
       value="hv"/>
+  <properties
+      key="IncludeDiagram"
+      value="true"/>
 </archimate:ArchimateDiagramModel>
