@@ -18,4 +18,7 @@
   <properties
       key="reporte"
       value="index.html"/>
+  <properties
+      key="IncludeDiagram"
+      value="false"/>
 </archimate:ArchimateModel>
