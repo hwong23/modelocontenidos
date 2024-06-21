@@ -2,15 +2,23 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Contenidos"
     id="id-e61caa0dc3cc436aa918b17e0f565135"
+    purpose="Proyecto...&#xA;&#xA;Historia&#xA;---&#xA;Propiedades&#xA;&#xA;"
     version="4.9.0">
   <properties
-      key="rutaMacMD"/>
+      key="rutaMacMD"
+      value="/Downloads/tmpr/hvmd/"/>
   <properties
-      key="devdoc"/>
+      key="devdoc"
+      value="02n.a1.hv.md"/>
   <properties
-      key="rutaMacHTML"/>
+      key="rutaMacHTML"
+      value="/Downloads/tmpr/hvhtml/"/>
   <properties
       key="gh-pages"/>
   <properties
-      key="reporte"/>
+      key="reporte"
+      value="index.html"/>
+  <properties
+      key="IncludeDiagram"
+      value="false"/>
 </archimate:ArchimateModel>
