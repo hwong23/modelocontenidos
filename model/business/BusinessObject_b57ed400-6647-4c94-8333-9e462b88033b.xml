@@ -5,5 +5,5 @@
     documentation="Esta es la hoja de vida de una persona.">
   <properties
       key="ide"
-      value="hv1"/>
+      value="titulo"/>
 </archimate:BusinessObject>
