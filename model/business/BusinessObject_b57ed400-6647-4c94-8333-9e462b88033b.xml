@@ -4,6 +4,6 @@
     id="b57ed400-6647-4c94-8333-9e462b88033b"
     documentation="Esta es la hoja de vida de una persona.">
   <properties
-      key="yml-elemento"
+      key="ide"
       value="hv1"/>
 </archimate:BusinessObject>
