@@ -104,6 +104,18 @@
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-6e2115cecd414c00a77b32f648bfcb56.xml#id-6e2115cecd414c00a77b32f648bfcb56"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-002fe80fb1a14912b6c8a9bbc91dcaa5">
+    <bounds
+        x="167"
+        y="384"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_id-d15c5a854bd045ccba9a046594d94aae.xml#id-d15c5a854bd045ccba9a046594d94aae"/>
+  </children>
   <properties
       key="rutaMacMD"
       value="/Downloads/tmpr/hvmd/"/>
