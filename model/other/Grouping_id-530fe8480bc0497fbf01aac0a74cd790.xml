@@ -1,0 +1,16 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Grouping"
+    id="id-530fe8480bc0497fbf01aac0a74cd790">
+  <properties
+      key="alias"/>
+  <properties
+      key="devdoc"
+      value="02n.a2.hv.md"/>
+  <properties
+      key="rutaMacHTML"
+      value="/Downloads/tmpr/hvhtml/"/>
+  <properties
+      key="rutaMacMD"
+      value="/Downloads/tmpr/hvmd/"/>
+</archimate:Grouping>
