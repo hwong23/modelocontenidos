@@ -6,4 +6,6 @@
   <properties
       key="ide"
       value="titulo"/>
+  <properties
+      key="destino"/>
 </archimate:BusinessObject>

@@ -8,5 +8,5 @@
       value="formacion"/>
   <properties
       key="destino"
-      value="ppt"/>
+      value="ppt, doc"/>
 </archimate:BusinessObject>
