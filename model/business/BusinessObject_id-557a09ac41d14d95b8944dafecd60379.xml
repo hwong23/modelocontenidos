@@ -1,12 +1,12 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Título"
-    id="id-948007a2de754897b9c1da3a6d04cf6a"
+    name="Título (copy)"
+    id="id-557a09ac41d14d95b8944dafecd60379"
     documentation="Magister Ingeniería TI. Especializado en Arquitectura">
   <properties
       key="ide"
       value="tituloprofesional"/>
   <properties
       key="destino"
-      value="doc"/>
+      value="ppt"/>
 </archimate:BusinessObject>
