@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ppt_Formación"
     id="id-17c1b5e7c3694e68ad37bf344de54544"
-    documentation="* Diplomado de Analítica de Datos (2022), Pontificia Universidad Javeriana. Bogotá.&#xA;   * Analítica de Datos y Automatización de Procesos en Power BI y Automate. (2021). Educación Continua de la Pontificia Universidad Javeriana. Bogotá&#xA;   * Práctica de Aprendizaje Reforzado. Ciclo de Inteligencia Artificial. (2021). Universidad de los Andes. Bogotá">
+    documentation="* Diplomado de Analítica de Datos (2022), Pontificia Universidad Javeriana. Bogotá.&#xA;* Analítica de Datos y Automatización de Procesos en Power BI y Automate. (2021). Educación Continua de la Pontificia Universidad Javeriana. Bogotá&#xA;* Práctica de Aprendizaje Reforzado. Ciclo de Inteligencia Artificial. (2021). Universidad de los Andes. Bogotá">
   <properties
       key="ide"
       value="formacion"/>
