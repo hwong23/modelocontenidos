@@ -236,6 +236,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-968dce16ab3b44d1adca0b7a32424c31"
       targetConnections="id-30d93ecbd8b649b08d3351b98af892ec">
+    <features
+        name="labelExpression"
+        value="${property:destino}_${name}"/>
     <bounds
         x="444"
         y="168"
@@ -249,6 +252,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-784b928ce09a48b9a1fab315864a6a78"
       targetConnections="id-51bedadcf2e14c17afa7520000597fd6">
+    <features
+        name="labelExpression"
+        value="${property:destino}_${name}"/>
     <bounds
         x="480"
         y="240"
@@ -262,6 +268,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-d8d8567e37bb44fe9123abbd13c2e4d4"
       targetConnections="id-5fbc355ebe1747658510a2073d6554bc">
+    <features
+        name="labelExpression"
+        value="${property:destino}_${name}"/>
     <bounds
         x="444"
         y="312"
@@ -275,6 +284,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-e01cf2f950fc4536953cbc3412ee44d3"
       targetConnections="id-58144bbb4ad34e7b8ac450f20a8caaef">
+    <features
+        name="labelExpression"
+        value="${property:destino}_${name}"/>
     <bounds
         x="432"
         y="96"
@@ -288,6 +300,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-ec513cfa1e14492d85e4d11eec27222a"
       targetConnections="id-c296e4da8de04b448c413fd544dd6a97">
+    <features
+        name="labelExpression"
+        value="${property:destino}_${name}"/>
     <bounds
         x="431"
         y="384"
@@ -301,6 +316,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-0d3b093cd7114a85b26e35e3b9e5235e"
       targetConnections="id-2e160f35b49f46acb2eb97a0095e4c47">
+    <features
+        name="labelExpression"
+        value="${property:destino}_${name}"/>
     <bounds
         x="396"
         y="24"
@@ -314,6 +332,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-9cfe2611c1b34e37a814f6d0034ee75c"
       targetConnections="id-919f675019ea4f88b0139199f3175bc2">
+    <features
+        name="labelExpression"
+        value="${property:destino}_${name}"/>
     <bounds
         x="396"
         y="456"
@@ -343,4 +364,7 @@
   <properties
       key="IncludeDiagram"
       value="true"/>
+  <properties
+      key="alcanseSOA"
+      value="Fase 1.1"/>
 </archimate:ArchimateDiagramModel>
