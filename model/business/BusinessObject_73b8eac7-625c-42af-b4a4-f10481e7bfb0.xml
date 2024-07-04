@@ -8,5 +8,5 @@
       value="resumen"/>
   <properties
       key="destino"
-      value="tex"/>
+      value="doc"/>
 </archimate:BusinessObject>
