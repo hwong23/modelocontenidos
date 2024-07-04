@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="tex_Resumen"
+    id="id-b303defc05cb4e89b015a8aef7eb0d9d"
+    documentation="Ing. de Sistemas. Arquitecto TI. Magister en Tecnologías de Información para Negocio (MBIT, Uniandes). Especializado en Arquitectura de Software Empresarial (AES, Javeriana). Certificado Arquitectura de Software IASA CITAF. Certificado TOGAF 9.1 Nivel 1 y 2. Consultor Tecnologías de Información y Transformación Negocio con Tecnología. Consultor en mejoría de procesos de ingeniería. Consultor en industrialización y construcción de software y sistemas de información. Miembro de la Asociación de Arquitectos Empresariales, AEA. Miembro Global IASA, Chapter Colombia. Miembro de ACIS (Asoc. Ing. de Sistemas). Columnista independiente de Tecnología en LatinamericanPost.">
+  <properties
+      key="ide"
+      value="resumen"/>
+  <properties
+      key="destino"
+      value="tex"/>
+</archimate:BusinessObject>

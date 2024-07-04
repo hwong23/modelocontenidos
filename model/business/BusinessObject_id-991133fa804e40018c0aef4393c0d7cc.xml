@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="tex_Personal"
+    id="id-991133fa804e40018c0aef4393c0d7cc"
+    documentation="Bogotá DC. Colombia&#xA;&#xA;   K6 # 48A 27&#xA;&#xA;   Chapinero Alto&#xA;&#xA;   T: 300 2818189&#xA;&#xA;   hwong23@yahoo.com&#xA;&#xA;   www.blazdesigns.com&#xA;">
+  <properties
+      key="ide"
+      value="personal"/>
+  <properties
+      key="destino"
+      value="tex"/>
+</archimate:BusinessObject>
