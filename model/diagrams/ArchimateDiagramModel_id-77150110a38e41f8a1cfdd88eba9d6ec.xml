@@ -328,7 +328,7 @@
       value="/Downloads/tmpr/hvmd/"/>
   <properties
       key="devdoc"
-      value="02n.a1.hvdoc.md"/>
+      value="02n.a1.hvtex.md"/>
   <properties
       key="rutaMacHTML"
       value="/Downloads/tmpr/hvhtml/"/>
@@ -339,7 +339,7 @@
       value="index.html"/>
   <properties
       key="alias"
-      value="hvdoc"/>
+      value="hvtex"/>
   <properties
       key="IncludeDiagram"
       value="true"/>
