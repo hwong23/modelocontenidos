@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Formación"
+    id="id-e77ae92fe14a4f1a8f7d72ec78113333"
+    documentation="* Diplomado de Analítica de Datos (2022), Pontificia Universidad Javeriana. Bogotá.&#xA;   * Analítica de Datos y Automatización de Procesos en Power BI y Automate. (2021). Educación Continua de la Pontificia Universidad Javeriana. Bogotá&#xA;   * Práctica de Aprendizaje Reforzado. Ciclo de Inteligencia Artificial. (2021). Universidad de los Andes. Bogotá&#xA;   * Gestión de Contenidos Digitales. (2020). Educación Continua de la Pontificia Universidad Javeriana. Bogotá.&#xA;   * Diseño de Información. (2019). Centro de Estudios en Periodismo (CEPER). Universidad de los Andes. Bogotá.&#xA;   * Diplomado de Gestión y Diseño de Productos Digitales. (2019). Universidad Nacional. Bogotá.&#xA;   * Periodismo Escrito para no Periodistas. (2018). Universidad de los Andes. Bogotá&lt;&#xA;   * Maestría en Tecnologías de Información para Negocio (2015). Universidad de los Andes. Bogotá.&#xA;   * Especialización de Arquitectura Empresarial de Software (2012), Pontificia Universidad Javeriana. Bogotá.&#xA;   * IASA Core Architecture Foundation Certification. (2013). Universidad de los Andes; Colombia: Bogotá.&#xA;   * TOGAF 9 Certified, Global AEA. (2015). Colombia: Bogotá.&#xA;   * TOGAF 9 Foundation, Global AEA; (2015). Colombia: Bogotá.&#xA;   * Arquitectura TI Colombia, Global AEA; Bogotá - Colombia, 2015 &#xA;   * SOA Architect Certification Course, it-education, SOA School; Bogotá - Colombia, 2014. &#xA;   * Metodología ICES, Iniciativa de Ciudades Emergentes y Sostenibles, 2016, BID - Edx.&#xA;   * Implementing Data Warehouse / MSSQL Server 2014, Intelligent Training - Colombia, 2016&#xA;   * Desarrollo y Administración Oracle 10g, Universidad Católica Santiago de Guayaquil, Guayaquil - Ecuador, Ing. Sistemas Computacionales, 2010&#xA;   * Graduado de Ingeniería en Sistemas de Información (2000), Universidad Católica Santiago de Guayaquil">
+  <properties
+      key="ide"
+      value="formacion"/>
+  <properties
+      key="destino"
+      value="tex"/>
+</archimate:BusinessObject>
