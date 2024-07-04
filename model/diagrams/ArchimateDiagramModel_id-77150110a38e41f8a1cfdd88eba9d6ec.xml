@@ -236,6 +236,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-d2028d644e1e4e90a03f1c53337d977a"
       targetConnections="id-4510cc9296da465a81b4e18294edcd48">
+    <features
+        name="labelExpression"
+        value="${property:destino}_${name}"/>
     <bounds
         x="467"
         y="168"
@@ -249,6 +252,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-dd72a84ca78f4a9faa53ff7a8f6ad76c"
       targetConnections="id-a7abfdd670b54540b2b3946919cdfb01">
+    <features
+        name="labelExpression"
+        value="${property:destino}_${name}"/>
     <bounds
         x="503"
         y="240"
@@ -262,6 +268,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-29201edfa2d241f7878be092a38b99ad"
       targetConnections="id-e1eb76b0f97e4747aff48b734241bb04">
+    <features
+        name="labelExpression"
+        value="${property:destino}_${name}"/>
     <bounds
         x="467"
         y="312"
@@ -275,6 +284,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-a5873f98cc5d497c89192933f94bd3f1"
       targetConnections="id-4e7709dc597b4a14aa7f2659457cead1">
+    <features
+        name="labelExpression"
+        value="${property:destino}_${name}"/>
     <bounds
         x="455"
         y="96"
@@ -288,6 +300,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-e7ccde57c3d84fbcb0cc3a49af8217c8"
       targetConnections="id-9556937cb91e4efbb3a2dabc2e5be4e0">
+    <features
+        name="labelExpression"
+        value="${property:destino}_${name}"/>
     <bounds
         x="454"
         y="384"
@@ -301,6 +316,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-3aa63a6ca2914f4f8186d67a6d532075"
       targetConnections="id-78ed2f203ac844c4a3b95732b76a18fe">
+    <features
+        name="labelExpression"
+        value="${property:destino}_${name}"/>
     <bounds
         x="419"
         y="24"
@@ -314,6 +332,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-26ace32efcf34b338519d26f5749ace0"
       targetConnections="id-7c8ad56a52ba41fc9dec2991bc6ecc97">
+    <features
+        name="labelExpression"
+        value="${property:destino}_${name}"/>
     <bounds
         x="419"
         y="456"
