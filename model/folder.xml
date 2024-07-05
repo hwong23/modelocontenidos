@@ -21,4 +21,8 @@
   <properties
       key="IncludeDiagram"
       value="false"/>
+  <profiles
+      name="bo_persona"
+      id="id-48ae97a7a65c41c3b136d67c1b185815"
+      conceptType="BusinessObject"/>
 </archimate:ArchimateModel>
