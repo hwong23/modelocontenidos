@@ -6,4 +6,7 @@
   <properties
       key="ide"
       value="titulo"/>
+  <properties
+      key="destino"
+      value="doc, tex, pdf, html, ppt, pptx"/>
 </archimate:BusinessObject>
