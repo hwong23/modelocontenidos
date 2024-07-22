@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="app: Eureka admin"
+    id="id-96f9bb5506384b429f86da825a2c0fd5"
+    documentation="Contiene todas las funcionalidades relacionadas con registrar y localizar microservicios existentes, informar de su localización, su estado y datos relevantes de cada uno de ellos.&#xA;">
+  <properties
+      key="modulo"
+      value="mimutual"/>
+  <properties
+      key="alcanseSOA"
+      value="Fase 1.1"/>
+</archimate:ApplicationComponent>

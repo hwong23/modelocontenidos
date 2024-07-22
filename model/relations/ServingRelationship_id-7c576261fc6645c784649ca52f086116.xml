@@ -1,0 +1,15 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="sirve"
+    id="id-7c576261fc6645c784649ca52f086116">
+  <properties
+      key="modulo"
+      value="mimutual"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-a83d3f63be9046da9c0df3655fc1e84e.xml#id-a83d3f63be9046da9c0df3655fc1e84e"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-59058a1d456944d09418271f29248476.xml#id-59058a1d456944d09418271f29248476"/>
+</archimate:ServingRelationship>
