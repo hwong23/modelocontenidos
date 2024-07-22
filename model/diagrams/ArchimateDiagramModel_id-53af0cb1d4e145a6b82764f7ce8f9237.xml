@@ -193,7 +193,8 @@
         href="ApplicationComponent_id-96f9bb5506384b429f86da825a2c0fd5.xml#id-96f9bb5506384b429f86da825a2c0fd5"/>
   </children>
   <properties
-      key="devdoc"/>
+      key="devdoc"
+      value="02.prop.contenedores.md"/>
   <properties
       key="gh-pages"/>
   <properties
@@ -202,4 +203,7 @@
       key="rutaMacHTML"/>
   <properties
       key="rutaMacMD"/>
+  <properties
+      key="alias"
+      value="ppcontenedores"/>
 </archimate:ArchimateDiagramModel>

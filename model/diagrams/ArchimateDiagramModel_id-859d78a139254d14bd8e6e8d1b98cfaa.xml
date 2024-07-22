@@ -514,7 +514,8 @@
         href="BusinessFunction_id-00290dbe8a9d4a7c8e8e5ac0771e1491.xml#id-00290dbe8a9d4a7c8e8e5ac0771e1491"/>
   </children>
   <properties
-      key="devdoc"/>
+      key="devdoc"
+      value="01.prop.contexto.md"/>
   <properties
       key="gh-pages"/>
   <properties
@@ -523,4 +524,7 @@
       key="rutaMacHTML"/>
   <properties
       key="rutaMacMD"/>
+  <properties
+      key="alias"
+      value="ppcontexto"/>
 </archimate:ArchimateDiagramModel>
