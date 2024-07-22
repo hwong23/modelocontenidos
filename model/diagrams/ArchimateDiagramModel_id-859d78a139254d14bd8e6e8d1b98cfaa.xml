@@ -513,4 +513,14 @@
         xsi:type="archimate:BusinessFunction"
         href="BusinessFunction_id-00290dbe8a9d4a7c8e8e5ac0771e1491.xml#id-00290dbe8a9d4a7c8e8e5ac0771e1491"/>
   </children>
+  <properties
+      key="devdoc"/>
+  <properties
+      key="gh-pages"/>
+  <properties
+      key="modulo"/>
+  <properties
+      key="rutaMacHTML"/>
+  <properties
+      key="rutaMacMD"/>
 </archimate:ArchimateDiagramModel>
