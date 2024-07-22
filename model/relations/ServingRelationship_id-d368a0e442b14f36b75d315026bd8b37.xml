@@ -2,6 +2,9 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="id-d368a0e442b14f36b75d315026bd8b37">
+  <properties
+      key="destino"
+      value="doc, tex, ppt"/>
   <source
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-96f9bb5506384b429f86da825a2c0fd5.xml#id-96f9bb5506384b429f86da825a2c0fd5"/>

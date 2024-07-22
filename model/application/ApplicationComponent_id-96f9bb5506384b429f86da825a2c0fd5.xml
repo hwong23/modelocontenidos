@@ -9,4 +9,7 @@
   <properties
       key="alcanseSOA"
       value="Fase 1.1"/>
+  <properties
+      key="destino"
+      value="doc, tex, ppt"/>
 </archimate:ApplicationComponent>

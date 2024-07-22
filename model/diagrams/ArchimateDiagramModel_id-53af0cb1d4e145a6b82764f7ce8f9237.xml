@@ -99,6 +99,9 @@
     <properties
         key="modulo"
         value="mimutual"/>
+    <properties
+        key="destino"
+        value="doc, tex, ppt"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

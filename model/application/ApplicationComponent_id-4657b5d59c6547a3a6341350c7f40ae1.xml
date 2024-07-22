@@ -6,4 +6,7 @@
   <properties
       key="modulo"
       value="cotizador"/>
+  <properties
+      key="destino"
+      value="doc, tex, ppt"/>
 </archimate:ApplicationComponent>

@@ -5,6 +5,9 @@
   <properties
       key="modulo"
       value="mimutual"/>
+  <properties
+      key="destino"
+      value="doc, tex, ppt"/>
   <source
       xsi:type="archimate:ApplicationInterface"
       href="ApplicationInterface_id-af478d92ccae43a6b7856bacbd7c3bd2.xml#id-af478d92ccae43a6b7856bacbd7c3bd2"/>
