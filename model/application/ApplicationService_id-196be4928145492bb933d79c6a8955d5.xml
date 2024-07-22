@@ -5,5 +5,5 @@
     documentation="Simuladores: Funcionalidades que permiten generar las simulaciones de los diferentes planes o modificaciones (incrementos y disminuciones) a los productos del Asociado.&#xA;">
   <properties
       key="destino"
-      value="doc, tex"/>
+      value="doc, tex, ppt"/>
 </archimate:ApplicationService>

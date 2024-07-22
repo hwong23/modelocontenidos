@@ -5,5 +5,5 @@
     documentation="Gestión de Reclamaciones (Indemnización): Permite realizar la gestión, seguimiento y pago o negación de las diferentes reclamaciones de acuerdo a las coberturas y los productos que se encuentren dentro del portafolio del Asociado.&#xA;">
   <properties
       key="destino"
-      value="doc, tex"/>
+      value="doc, tex, ppt"/>
 </archimate:ApplicationFunction>

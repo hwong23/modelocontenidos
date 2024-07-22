@@ -5,5 +5,5 @@
     documentation="Unidad de Solidaridad y Seguros de la Cooperativa">
   <properties
       key="destino"
-      value="doc, tex"/>
+      value="doc, tex, ppt"/>
 </archimate:BusinessFunction>

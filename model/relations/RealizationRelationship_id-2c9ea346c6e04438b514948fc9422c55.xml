@@ -4,7 +4,7 @@
     id="id-2c9ea346c6e04438b514948fc9422c55">
   <properties
       key="destino"
-      value="doc, tex"/>
+      value="doc, tex, ppt"/>
   <source
       xsi:type="archimate:ApplicationFunction"
       href="ApplicationFunction_id-2b92e8584c39490ca1b7b24e5f8d161d.xml#id-2b92e8584c39490ca1b7b24e5f8d161d"/>

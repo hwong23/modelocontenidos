@@ -5,5 +5,5 @@
     documentation="Autorizaciones: Administración de peticiones de autorización y sus correspondientes aprobaciones mediante el servicio del flujo de procesos">
   <properties
       key="destino"
-      value="doc, tex"/>
+      value="doc, tex, ppt"/>
 </archimate:ApplicationFunction>

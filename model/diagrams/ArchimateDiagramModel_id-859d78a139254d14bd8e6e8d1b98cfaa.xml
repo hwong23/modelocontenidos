@@ -501,7 +501,7 @@
         height="121"/>
     <properties
         key="destino"
-        value="doc, tex"/>
+        value="doc, tex, ppt"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

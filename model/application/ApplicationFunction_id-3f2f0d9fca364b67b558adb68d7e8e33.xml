@@ -5,5 +5,5 @@
     documentation="Software base. ">
   <properties
       key="destino"
-      value="doc, tex"/>
+      value="doc, tex, ppt"/>
 </archimate:ApplicationFunction>

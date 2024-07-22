@@ -5,5 +5,5 @@
     documentation="Gestión de productos del fondo mutual y auxilio funerario que involucran a sus coberturas&#xA;">
   <properties
       key="destino"
-      value="doc, tex"/>
+      value="doc, tex, ppt"/>
 </archimate:ApplicationFunction>

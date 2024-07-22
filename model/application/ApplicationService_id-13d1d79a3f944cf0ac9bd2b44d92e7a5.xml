@@ -5,5 +5,5 @@
     documentation="Administración de la facturación y recaudo diario de los productos.&#xA;">
   <properties
       key="destino"
-      value="doc, tex"/>
+      value="doc, tex, ppt"/>
 </archimate:ApplicationService>
