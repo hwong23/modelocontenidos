@@ -8,5 +8,5 @@
       value="mimutual"/>
   <properties
       key="destino"
-      value="doc, tex"/>
+      value="doc, tex, ppt"/>
 </archimate:ApplicationComponent>
