@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Interoperabilidad entre sistemas Coomeva"
     id="id-191c007a452747b39a04178f8596ea51"
-    documentation="Integración con otros sistemas para facilitar los procesos de vinculación, retiro, reactivación o fallecimiento de asociados.&#xA;"/>
+    documentation="Integración con otros sistemas para facilitar los procesos de vinculación, retiro, reactivación o fallecimiento de asociados.&#xA;">
+  <properties
+      key="destino"
+      value="doc, tex"/>
+</archimate:ApplicationFunction>

@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gestión fondo mutual y auxilio funerario"
     id="id-3360a3d9b4474db3a47ceb13fd7c5838"
-    documentation="Gestión de productos del fondo mutual y auxilio funerario que involucran a sus coberturas&#xA;"/>
+    documentation="Gestión de productos del fondo mutual y auxilio funerario que involucran a sus coberturas&#xA;">
+  <properties
+      key="destino"
+      value="doc, tex"/>
+</archimate:ApplicationFunction>

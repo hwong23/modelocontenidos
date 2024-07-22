@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Administración facturación y recaudo"
     id="id-62ef43378d44485dab728897063bdfa9"
-    documentation="Administración de la facturación y recaudo diario de los productos&#xA;"/>
+    documentation="Administración de la facturación y recaudo diario de los productos&#xA;">
+  <properties
+      key="destino"
+      value="doc, tex"/>
+</archimate:ApplicationFunction>

@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Configuración factores cálculos, contribuciones"
     id="id-9dc9838b4c384c52bddea31ab52c4be4"
-    documentation="1. Configuración o parametrización de factores para realizar los cálculos de las contribuciones de los asociados a la Cooperativa para cada uno de los productos adquiridos.&#xA;"/>
+    documentation="1. Configuración o parametrización de factores para realizar los cálculos de las contribuciones de los asociados a la Cooperativa para cada uno de los productos adquiridos.&#xA;">
+  <properties
+      key="destino"
+      value="doc, tex"/>
+</archimate:ApplicationFunction>

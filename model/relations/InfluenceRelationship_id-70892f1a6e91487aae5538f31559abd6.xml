@@ -3,6 +3,9 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="sujeto a"
     id="id-70892f1a6e91487aae5538f31559abd6">
+  <properties
+      key="destino"
+      value="doc, tex"/>
   <source
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-291b20f9fdf94620b8d348250f845d23.xml#id-291b20f9fdf94620b8d348250f845d23"/>
