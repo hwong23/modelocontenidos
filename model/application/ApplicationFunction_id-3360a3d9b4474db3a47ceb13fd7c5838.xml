@@ -6,4 +6,7 @@
   <properties
       key="destino"
       value="doc, tex, ppt"/>
+  <properties
+      key="ide"
+      value="gestionfondomutual"/>
 </archimate:ApplicationFunction>
