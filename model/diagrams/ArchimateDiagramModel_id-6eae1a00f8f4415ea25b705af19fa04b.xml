@@ -5,54 +5,6 @@
     id="id-6eae1a00f8f4415ea25b705af19fa04b"
     documentation="## Contexto Mi Mutual Central&#xA;El sistema principal de fondo Mi Mutual Central es la composición de las funciones de negocio de la Unidad de Solidaridad de Coomeva. Las funciones de negocio referidas, como Gestión Beneficiarios, Certificados, Gestión Beneficiarios, aparecen dentro del componente principal en la imagen.&#xA;&#xA;Este entregable documenta los diferentes módulos y componentes que hacen parte de la estructura de una aplicación en Angular 12 y como es su interacción para conformar una arquitectura robusta y escalable para aplicaciones de gran tamaño.&#xA;&#xA;Las librerías Spring Boot Security y Spring Boot Oauth2 proveen características de seguridad entre Vista (Angular 2) y Controlador. Estas son responsables de que únicamente permita el acceso si se está autenticado. Además, para realizar el proceso de autenticación se delega a la aplicación SISPRO (Coomeva) que funciona como un servidor de autenticación.&#xA;">
   <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-29f259b08edf43ea9791ca4441736231">
-    <bounds
-        x="932"
-        y="264"
-        width="132"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationService"
-        href="ApplicationService_id-f65ebf151c144bf8acc8abeda5054afa.xml#id-f65ebf151c144bf8acc8abeda5054afa"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-8efdd41968aa41628e341d2dcb0e8c78">
-    <bounds
-        x="932"
-        y="186"
-        width="132"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationService"
-        href="ApplicationService_id-c715fd5708ee4731848199bfe6edb9d9.xml#id-c715fd5708ee4731848199bfe6edb9d9"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-4ef72da2403f4f63843e581027391a14">
-    <bounds
-        x="932"
-        y="342"
-        width="132"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationService"
-        href="ApplicationService_id-f0f28471be854e55a219af9b5d779177.xml#id-f0f28471be854e55a219af9b5d779177"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-c76f4ee26fe84dab87ee4e29afc3072e">
-    <bounds
-        x="933"
-        y="402"
-        width="132"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationService"
-        href="ApplicationService_id-8619f90948b8402183a13435bc0cc2ec.xml#id-8619f90948b8402183a13435bc0cc2ec"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelNote"
       id="id-63949f783880473d96860ada3f0f170d"
       textAlignment="1"
@@ -292,5 +244,5 @@
       value="propuesta"/>
   <properties
       key="destino"
-      value="doc, tex, ppt"/>
+      value="doc, tex, ppt, html"/>
 </archimate:ArchimateDiagramModel>

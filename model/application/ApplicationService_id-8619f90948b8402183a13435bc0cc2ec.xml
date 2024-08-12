@@ -7,6 +7,5 @@
       key="destino"
       value="doc, tex, html, ppt"/>
   <properties
-      key="ide"
-      value="$"/>
+      key="ide"/>
 </archimate:ApplicationService>
