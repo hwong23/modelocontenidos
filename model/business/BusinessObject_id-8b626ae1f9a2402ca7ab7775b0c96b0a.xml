@@ -1,10 +1,11 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Palabras clave"
-    id="id-8b626ae1f9a2402ca7ab7775b0c96b0a">
+    id="id-8b626ae1f9a2402ca7ab7775b0c96b0a"
+    documentation="MiMutual, Gestión de usuarios, Gestión reclamaciones">
   <properties
       key="ide"
-      value="$"/>
+      value="palabrasclave"/>
   <properties
       key="destino"
       value="doc, tex, html, ppt"/>
