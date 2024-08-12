@@ -1,0 +1,11 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Titulo"
+    id="id-337406cb62894e429ac656182355e7d7">
+  <properties
+      key="ide"
+      value="$"/>
+  <properties
+      key="destino"
+      value="doc, tex, html, ppt"/>
+</archimate:BusinessObject>

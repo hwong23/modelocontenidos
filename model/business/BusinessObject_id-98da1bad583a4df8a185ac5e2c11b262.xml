@@ -1,0 +1,11 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resumen"
+    id="id-98da1bad583a4df8a185ac5e2c11b262">
+  <properties
+      key="ide"
+      value="$"/>
+  <properties
+      key="destino"
+      value="doc, tex, html, ppt"/>
+</archimate:BusinessObject>

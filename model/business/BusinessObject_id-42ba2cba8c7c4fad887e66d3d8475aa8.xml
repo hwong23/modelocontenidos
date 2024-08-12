@@ -1,0 +1,11 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Conclusion"
+    id="id-42ba2cba8c7c4fad887e66d3d8475aa8">
+  <properties
+      key="ide"
+      value="$"/>
+  <properties
+      key="destino"
+      value="doc, tex, html, ppt"/>
+</archimate:BusinessObject>

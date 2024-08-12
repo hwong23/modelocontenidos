@@ -1,0 +1,11 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Impacto"
+    id="id-8c3d8c39aa7f4e51b6beaea43ea4d72f">
+  <properties
+      key="ide"
+      value="$"/>
+  <properties
+      key="destino"
+      value="doc, tex, html, ppt"/>
+</archimate:BusinessObject>

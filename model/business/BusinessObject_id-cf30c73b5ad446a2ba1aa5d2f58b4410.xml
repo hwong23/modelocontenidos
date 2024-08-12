@@ -1,0 +1,11 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Agradecimientos"
+    id="id-cf30c73b5ad446a2ba1aa5d2f58b4410">
+  <properties
+      key="ide"
+      value="$"/>
+  <properties
+      key="destino"
+      value="doc, tex, html, ppt"/>
+</archimate:BusinessObject>

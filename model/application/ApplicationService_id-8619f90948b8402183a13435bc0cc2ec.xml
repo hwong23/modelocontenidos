@@ -5,5 +5,8 @@
     documentation="Gestión de productos del fondo mutual y auxilio funerario que involucran lo relacionado a las siguientes coberturas: * Fondo de Solidaridad: Incapacidades temporales, Incapacidades Permanentes (total, parcial), Perseverancia 60, 62, 65, 70 años, Perseverancias Anticipadas, Fallecimiento Asociado (Auxilio por muerte), Desempleo, Disminución de ingresos y enfermedades graves; Rentas por hospitalización, Enfermedades de Alto Costo, Pólizas de seguros personales y patrimoniales, Planes educativos, Segunda opinión médica, Asistencias. * Auxilio Funerario: Fallecimiento de familiares directos (inscritos) del Asociado.&#xA;">
   <properties
       key="destino"
-      value="doc, tex, ppt"/>
+      value="doc, tex, html, ppt"/>
+  <properties
+      key="ide"
+      value="$"/>
 </archimate:ApplicationService>

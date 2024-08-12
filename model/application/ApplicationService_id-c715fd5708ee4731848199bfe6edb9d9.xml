@@ -5,5 +5,8 @@
     documentation="Certificados: Permite la generación de los certificados de valores de protección y contribuciones pagadas, de retención en la fuente, de pagos de perseverancia y de cobertura de auxilio funerario.&#xA;">
   <properties
       key="destino"
-      value="doc, tex, ppt"/>
+      value="doc, tex, html, ppt"/>
+  <properties
+      key="ide"
+      value="$"/>
 </archimate:ApplicationService>
