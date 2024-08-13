@@ -1,11 +1,11 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Autor 2"
-    id="id-c5f3ec3f0c99484c9156f363b9bb8c24"
-    documentation="Joseph W.">
+    name="Filial 2"
+    id="id-5423e3bcbf5c44eb917c7d36f565ee12"
+    documentation="Arq., Organization, City, Pincode, State, Country">
   <properties
       key="ide"
-      value="autor2"/>
+      value="filial2"/>
   <properties
       key="destino"
       value="doc, tex, html, ppt"/>
