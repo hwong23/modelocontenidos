@@ -7,6 +7,5 @@
       key="destino"
       value="doc, tex, ppt"/>
   <properties
-      key="ide"
-      value="gestionusuarios"/>
+      key="ide"/>
 </archimate:ApplicationFunction>

@@ -6,4 +6,6 @@
   <properties
       key="destino"
       value="doc, tex, ppt"/>
+  <properties
+      key="ide"/>
 </archimate:ApplicationFunction>

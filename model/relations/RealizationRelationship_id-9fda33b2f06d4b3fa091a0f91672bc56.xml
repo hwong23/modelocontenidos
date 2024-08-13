@@ -5,6 +5,8 @@
   <properties
       key="destino"
       value="doc, tex, ppt"/>
+  <properties
+      key="ide"/>
   <source
       xsi:type="archimate:ApplicationFunction"
       href="ApplicationFunction_id-62ef43378d44485dab728897063bdfa9.xml#id-62ef43378d44485dab728897063bdfa9"/>
