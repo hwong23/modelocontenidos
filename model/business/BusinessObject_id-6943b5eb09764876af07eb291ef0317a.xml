@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Autores"
+    id="id-6943b5eb09764876af07eb291ef0317a"
+    documentation="Wong H., Wong J., SAS.">
+  <properties
+      key="ide"
+      value="autores"/>
+  <properties
+      key="destino"
+      value="doc, tex, html, ppt"/>
+</archimate:BusinessObject>

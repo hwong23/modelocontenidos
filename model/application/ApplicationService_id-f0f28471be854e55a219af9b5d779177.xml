@@ -5,5 +5,7 @@
     documentation="Configuración o parametrización de factores para realizar los cálculos de las contribuciones de los asociados a la Cooperativa para cada uno de los productos adquiridos.&#xA;">
   <properties
       key="destino"
-      value="doc, tex, ppt"/>
+      value="doc, tex, html, ppt"/>
+  <properties
+      key="ide"/>
 </archimate:ApplicationService>
