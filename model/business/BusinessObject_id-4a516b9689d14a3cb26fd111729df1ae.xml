@@ -8,5 +8,5 @@
       value="formacion"/>
   <properties
       key="destino"
-      value="doc"/>
+      value="doc, tex"/>
 </archimate:BusinessObject>
