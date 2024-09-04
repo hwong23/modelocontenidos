@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Generalidades"
+    id="id-176359b0f90246bcae81cd163a7f75f0"
+    documentation="Antes SIPAS, Mi Mutual es una aplicación web compuesta por distintos módulos de software con arreglo a todas las actividades necesarias que soportan la operación de los productos y servicios que ofrece la Unidad de Solidaridad y Seguros de la Cooperativa.&#xA;&#xA;El despliegue es el evento que permite el inicio de las QA funcionales.&#xA;">
+  <properties
+      key="ide"
+      value="generalidades"/>
+  <properties
+      key="destino"
+      value="doc, tex, html, ppt"/>
+</archimate:BusinessObject>
