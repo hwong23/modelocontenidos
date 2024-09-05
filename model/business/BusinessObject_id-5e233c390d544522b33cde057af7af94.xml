@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Alcance"
     id="id-5e233c390d544522b33cde057af7af94"
-    documentation="Antes SIPAS, Mi Mutual es una aplicación web compuesta por distintos módulos de software con arreglo a todas las actividades necesarias que soportan la operación de los productos y servicios que ofrece la Unidad de Solidaridad y Seguros de la Cooperativa.&#xA;&#xA;El despliegue es el evento que permite el inicio de las QA funcionales.&#xA;">
+    documentation="Prestar los servicios de consultoría en Arquitectura Empresarial para la identificación y formulación de una propuesta de Modelo de Negocio y visión de solución tecnológica que responda a las necesidades de la Entidad, en relación al análisis de factibilidad de la solución de Carpeta Ciudadana.&#xA;">
   <properties
       key="ide"
       value="alcance"/>
