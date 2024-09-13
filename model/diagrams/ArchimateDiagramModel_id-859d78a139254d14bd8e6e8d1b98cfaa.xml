@@ -530,7 +530,7 @@
       key="rutaMacMD"/>
   <properties
       key="alias"
-      value="ppcontexto"/>
+      value="contexto"/>
   <properties
       key="destino"
       value="doc, tex, ppt"/>
