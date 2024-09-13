@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="2.contenedores"
+    name="2.referencia"
     id="id-53af0cb1d4e145a6b82764f7ce8f9237"
     documentation="La organización de componentes utilizada Mi Mutual, impulsada por Spring Web, antepone como interfaz de uso un API REST. La interfaz se articula con tres componentes utilitarios: Controller, Service y Repository, los cuales están mediados por el componente misional, Mi Mutual, en la imagen. &#xA;&#xA;Esta decisión de organización de los componentes de Mi Mutual, incluyendo al misional del mismo nombre, permite estructurar la aplicación de una manera ordenada y, en línea con las restricciones de arquitectura exigidas al sistema, facilita la efectividad de las extensiones y el mantenimiento.&#xA;">
   <children
@@ -92,7 +92,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-977d9e1f562644e0942d417a72859599"
       textAlignment="1"
-      content="Mi Mutual. Coomeva, 2023.&#xA;&#xA;Organización de componentes principales, Mi Mutual Central. Roles de componentes, separación responsabilidades.&#xA;&#xA;versión 0.4.2">
+      content="Integraciones JEP, 2024&#xA;&#xA;Organización de referencia. Integración JEP. Softgic. Servivcios, Componentes, Roles de servicios.&#xA;&#xA;versión 0.1.2">
     <bounds
         x="12"
         y="12"
