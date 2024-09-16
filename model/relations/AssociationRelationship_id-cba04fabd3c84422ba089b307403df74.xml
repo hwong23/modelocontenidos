@@ -1,7 +1,6 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="causa asociada"
     id="id-cba04fabd3c84422ba089b307403df74">
   <source
       xsi:type="archimate:Outcome"
