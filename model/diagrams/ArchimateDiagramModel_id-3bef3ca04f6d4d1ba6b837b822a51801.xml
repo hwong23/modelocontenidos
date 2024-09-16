@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="04.ING.1n.Propuesta Valor"
-    id="id-3bef3ca04f6d4d1ba6b837b822a51801">
+    id="id-3bef3ca04f6d4d1ba6b837b822a51801"
+    documentation="### Consultor&#xA;arquitectura de contenedores&#xA;definir y documentar soluciones&#xA;especificar interfaces&#xA;soporte paso producción&#xA;&#xA;### Arquitecto&#xA;arquitectura bus servicios&#xA;soporte desarrollo&#xA;soporte cliente&#xA;mitigar riesgos arquitectura&#xA;&#xA;### Infraestructura&#xA;definir y documentar soluciones (de infr.)&#xA;documentar componentes e interfaces (de infr.)&#xA;soporte post producción&#xA;&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-0d62d8b0556143c3be2d1a10b54b4bb1"
