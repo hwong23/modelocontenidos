@@ -686,7 +686,7 @@
     <bounds
         x="12"
         y="204"
-        width="588"
+        width="1536"
         height="55"/>
     <archimateElement
         xsi:type="archimate:CourseOfAction"
@@ -711,14 +711,19 @@
         source="id-9ee9229e94b94705a6f9e2c7abaded21"
         target="id-923c313a1d5a43748ef46746b63021ff">
       <bendpoints
-          startX="312"
+          startX="372"
           startY="-2"
-          endX="1362"
+          endX="948"
           endY="346"/>
       <bendpoints
-          startX="312"
+          startX="372"
+          startY="-182"
+          endX="948"
+          endY="166"/>
+      <bendpoints
+          startX="372"
           startY="-350"
-          endX="1362"
+          endX="948"
           endY="-2"/>
       <archimateRelationship
           xsi:type="archimate:TriggeringRelationship"
@@ -998,5 +1003,41 @@
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-f5c5fe21debf4223b13f484a5621ca15.xml#id-f5c5fe21debf4223b13f484a5621ca15"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-e5cd6210d9f14f71988a238a73ddb556">
+    <bounds
+        x="336"
+        y="113"
+        width="216"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Constraint"
+        href="Constraint_id-79a4a6173d014ec59f59ed639a637fae.xml#id-79a4a6173d014ec59f59ed639a637fae"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-2afa396bf82244f0b8101772aa686861">
+    <bounds
+        x="564"
+        y="113"
+        width="216"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Constraint"
+        href="Constraint_id-9b6bb675b8794559b39821e50624c7b0.xml#id-9b6bb675b8794559b39821e50624c7b0"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-6e57b89867e34d69a6378d03851c3f75">
+    <bounds
+        x="336"
+        y="48"
+        width="216"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Goal"
+        href="Goal_id-b615a1bc6ab94dfda5b4b8db80980db5.xml#id-b615a1bc6ab94dfda5b4b8db80980db5"/>
   </children>
 </archimate:ArchimateDiagramModel>
