@@ -3,12 +3,12 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="04.ING.3n.Modelo de Integración"
     id="id-f863abde3ea94046a77bf84d5cb0a3a8"
-    documentation="v1.1. El proyecto de integración inicia con la creación de un tramo de la planeación de producción. Esto es un ciclo de proyecto.&#xA;&#xA;(ING) Procesos de ingeniería previos a la construcción. Arrancan la serie de procesos de ingeniería de integración.&#xA;&#xA;(PRY) Planificación de historias de usuario. La porción de la planeación de producción aprobada para la construcción se planifica en historias o casos de uso, u cualquier otra forma de medición de avance.&#xA;&#xA;(ING) Creción e inicio de Iteraciones de trabajo. La planificación de HU (CU, u otra) es tareificada y asignada a desarrolladores disponibles. Además, las tareas asignadas son organizadas en ciclos de trabajo fijo (iteraciones). Esta ejecución es la línea de trabajo del proyecto JEP.&#xA;&#xA;(PRY, ING) Coordinación de líneas de trabajo. Las entregas de la línea de trabajo del proyecto JEP debe ser compasada con las líneas de trabajo de la JEP, con las que puede haber una relación de secuencia o dependencia.&#xA;&#xA;Durante la ejecución de la iteraciones determinaas, inicia nuevamente el ciclo del  proyecto desde la creación de un nuevo tramo de la planeación de producción.">
+    documentation="v1.1. This suite is defined by five major capabilities: API management, enterprise integration, events and messaging, data integration, and tooling and metadata. These capabilities and their underlying components simplify cloud-native development that connects systems.&#xA;&#xA;El proyecto de integración inicia con la creación de un tramo de la planeación de producción. Esto es un ciclo de proyecto.&#xA;&#xA;(ING) Procesos de ingeniería previos a la construcción. Arrancan la serie de procesos de ingeniería de integración.&#xA;&#xA;(PRY) Planificación de historias de usuario. La porción de la planeación de producción aprobada para la construcción se planifica en historias o casos de uso, u cualquier otra forma de medición de avance.&#xA;&#xA;(ING) Creción e inicio de Iteraciones de trabajo. La planificación de HU (CU, u otra) es tareificada y asignada a desarrolladores disponibles. Además, las tareas asignadas son organizadas en ciclos de trabajo fijo (iteraciones). Esta ejecución es la línea de trabajo del proyecto JEP.&#xA;&#xA;(PRY, ING) Coordinación de líneas de trabajo. Las entregas de la línea de trabajo del proyecto JEP debe ser compasada con las líneas de trabajo de la JEP, con las que puede haber una relación de secuencia o dependencia.&#xA;&#xA;Durante la ejecución de la iteraciones determinaas, inicia nuevamente el ciclo del  proyecto desde la creación de un nuevo tramo de la planeación de producción.">
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-75bc012f93914b83ad985247edf4da05"
       textAlignment="1"
-      content="Modelo de Integración. &#xA;Proyecto JEP, 2024. Softgic.&#xA;&#xA;Propuesta modelo de integración para la impleentación de requerimientos de interoperabilidad del proyecto Integración JEP, 2024.&#xA;&#xD;&#xA;Ver 0.1.1">
+      content="Modelo de Integración. &#xA;Proyecto JEP, 2024. Softgic.&#xA;&#xA;Capacidades del modelo de integración para la impleentación de requerimientos de interoperabilidad del proyecto Integración JEP, 2024.&#xA;&#xD;&#xA;Ver 0.1.5">
     <bounds
         x="12"
         y="12"
@@ -20,7 +20,7 @@
       id="id-8d627f6d9ffd45d9b4a91d9d88182abd">
     <bounds
         x="12"
-        y="192"
+        y="276"
         width="157"
         height="55"/>
     <archimateElement
@@ -32,7 +32,7 @@
       id="id-4c79a91288fe4e619eab03f4a81cbb04">
     <bounds
         x="12"
-        y="264"
+        y="348"
         width="157"
         height="55"/>
     <archimateElement
@@ -44,7 +44,7 @@
       id="id-fbbb41c96df84670a1aee977587209eb">
     <bounds
         x="203"
-        y="192"
+        y="276"
         width="157"
         height="55"/>
     <archimateElement
@@ -56,7 +56,7 @@
       id="id-12a22982d4274760bc0f0bb8132557d5">
     <bounds
         x="203"
-        y="264"
+        y="348"
         width="157"
         height="55"/>
     <archimateElement
@@ -68,7 +68,7 @@
       id="id-d9cc040e93e44df1a01e06300d3ed684">
     <bounds
         x="12"
-        y="348"
+        y="432"
         width="157"
         height="55"/>
     <archimateElement
@@ -80,7 +80,7 @@
       id="id-152e468837d84e6fa3676aa8e745486e">
     <bounds
         x="203"
-        y="348"
+        y="432"
         width="157"
         height="55"/>
     <archimateElement
@@ -92,7 +92,7 @@
       id="id-34fb868bcb3f4d52bb6bd451a6714f45">
     <bounds
         x="203"
-        y="432"
+        y="516"
         width="157"
         height="55"/>
     <archimateElement
@@ -104,12 +104,84 @@
       id="id-2a56a791b38e4c88b42f54c7b42f40d9">
     <bounds
         x="203"
-        y="516"
+        y="600"
         width="157"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_id-640736e6537c4bfaad773d23bde7c347.xml#id-640736e6537c4bfaad773d23bde7c347"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-2feb55739f124aa4a20378b54a406a83">
+    <bounds
+        x="12"
+        y="516"
+        width="157"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Capability"
+        href="Capability_id-899019eb21534c07b16b9c03c81d88be.xml#id-899019eb21534c07b16b9c03c81d88be"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-27f8d9a9ba8549e6b2a8692caae55dbb">
+    <bounds
+        x="12"
+        y="600"
+        width="157"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Capability"
+        href="Capability_id-eaf92faed3c54534a2ed583b769d00e6.xml#id-eaf92faed3c54534a2ed583b769d00e6"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-a4d8065bc0194a28ad440324ec489ee9">
+    <bounds
+        x="396"
+        y="276"
+        width="157"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Capability"
+        href="Capability_id-8fb0bc238c7b4c57af3582ba59a009e3.xml#id-8fb0bc238c7b4c57af3582ba59a009e3"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-5a6ec9d45bbc44749aace320599ac177">
+    <bounds
+        x="396"
+        y="348"
+        width="157"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Capability"
+        href="Capability_id-53b2e368c6664744ad77c3d662b9ada4.xml#id-53b2e368c6664744ad77c3d662b9ada4"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-e8c816e7600e483095a26f335c007110">
+    <bounds
+        x="396"
+        y="432"
+        width="157"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Capability"
+        href="Capability_id-811583c62a1a46eab8d9088fd735a038.xml#id-811583c62a1a46eab8d9088fd735a038"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-3cb5ed46c0ad480983897b56f9b3c159">
+    <bounds
+        x="12"
+        y="192"
+        width="157"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Capability"
+        href="Capability_id-e9c88338aa9a4744ae3d972b9bf26e60.xml#id-e9c88338aa9a4744ae3d972b9bf26e60"/>
   </children>
   <properties
       key="alias"
