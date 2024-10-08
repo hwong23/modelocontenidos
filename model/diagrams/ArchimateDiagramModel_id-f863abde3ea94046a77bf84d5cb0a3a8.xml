@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="04.ING.3n.Modelo de Integración"
+    id="id-f863abde3ea94046a77bf84d5cb0a3a8"
+    documentation="v1.1. El proyecto de integración inicia con la creación de un tramo de la planeación de producción. Esto es un ciclo de proyecto.&#xA;&#xA;(ING) Procesos de ingeniería previos a la construcción. Arrancan la serie de procesos de ingeniería de integración.&#xA;&#xA;(PRY) Planificación de historias de usuario. La porción de la planeación de producción aprobada para la construcción se planifica en historias o casos de uso, u cualquier otra forma de medición de avance.&#xA;&#xA;(ING) Creción e inicio de Iteraciones de trabajo. La planificación de HU (CU, u otra) es tareificada y asignada a desarrolladores disponibles. Además, las tareas asignadas son organizadas en ciclos de trabajo fijo (iteraciones). Esta ejecución es la línea de trabajo del proyecto JEP.&#xA;&#xA;(PRY, ING) Coordinación de líneas de trabajo. Las entregas de la línea de trabajo del proyecto JEP debe ser compasada con las líneas de trabajo de la JEP, con las que puede haber una relación de secuencia o dependencia.&#xA;&#xA;Durante la ejecución de la iteraciones determinaas, inicia nuevamente el ciclo del  proyecto desde la creación de un nuevo tramo de la planeación de producción.">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-75bc012f93914b83ad985247edf4da05"
+      textAlignment="1"
+      content="Modelo de Implementación Proyecto JEP, 2024. Softgic.&#xA;&#xA;Propuesta modelo de gestión y atención requerimientos de integración del proyecto de servicios de integración JEP.&#xA;&#xD;&#xA;Ver 0.1.3&#xA;">
+    <bounds
+        x="12"
+        y="12"
+        width="241"
+        height="156"/>
+  </children>
+</archimate:ArchimateDiagramModel>
