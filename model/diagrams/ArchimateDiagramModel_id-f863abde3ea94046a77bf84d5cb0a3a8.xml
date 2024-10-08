@@ -15,4 +15,13 @@
         width="241"
         height="156"/>
   </children>
+  <properties
+      key="alias"
+      value="contexto"/>
+  <properties
+      key="destino"
+      value="doc, tex, ppt"/>
+  <properties
+      key="devdoc"
+      value="01.prop.contexto.md"/>
 </archimate:ArchimateDiagramModel>
