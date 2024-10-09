@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Patrón de Integración (EIP)"
+    id="id-18b0174fd1914d6f82f93089ce2ec216"
+    documentation="Pasar de modelo integrac. EIA (intgrc directa) a EIP (integrc empresarial/bus).&#xA;&#xA;"/>
