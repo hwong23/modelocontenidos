@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Tipo de Comunicación"
     id="id-dbff4c9d47804e018758353944c10c5b"
-    documentation="Pasar llamadas síncronas a asincrónicas: analizar apps que deben cambiar comunicación"/>
+    documentation="Pasar llamadas síncronas a asincrónicas: analizar apps que deben cambiar comunicación">
+  <properties
+      key="destino"
+      value="doc, tex, ppt"/>
+</archimate:Capability>

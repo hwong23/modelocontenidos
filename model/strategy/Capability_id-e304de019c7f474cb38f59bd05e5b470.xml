@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Composición de Servicios"
     id="id-e304de019c7f474cb38f59bd05e5b470"
-    documentation="Combine together a collection of services into a larger service. Using Camel's pattern-based integration, define business functions by gathering data from multiple endpoints. Compositions typically resolve non-trivial or complex integrations.&#xA;"/>
+    documentation="Combine together a collection of services into a larger service. Using Camel's pattern-based integration, define business functions by gathering data from multiple endpoints. Compositions typically resolve non-trivial or complex integrations.&#xA;">
+  <properties
+      key="destino"
+      value="doc, tex, ppt"/>
+</archimate:Capability>

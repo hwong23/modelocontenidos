@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Transporte"
-    id="id-640736e6537c4bfaad773d23bde7c347"/>
+    id="id-640736e6537c4bfaad773d23bde7c347">
+  <properties
+      key="destino"
+      value="doc, tex, ppt"/>
+</archimate:Capability>

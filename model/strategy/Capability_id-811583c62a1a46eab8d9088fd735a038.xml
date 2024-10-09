@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Transformación de Mensajes"
     id="id-811583c62a1a46eab8d9088fd735a038"
-    documentation="Mapeos, homologaciones y correspondencias.&#xA;"/>
+    documentation="Mapeos, homologaciones y correspondencias.&#xA;">
+  <properties
+      key="destino"
+      value="doc, tex, ppt"/>
+</archimate:Capability>

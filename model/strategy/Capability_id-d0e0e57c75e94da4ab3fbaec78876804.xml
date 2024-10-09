@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Alcance de la Integración"
     id="id-d0e0e57c75e94da4ab3fbaec78876804"
-    documentation="Aplicaciones que tienen integraciones existentes: necesitamos listados de ssvc pasar al bus.&#xA;"/>
+    documentation="Aplicaciones que tienen integraciones existentes: necesitamos listados de ssvc pasar al bus.&#xA;">
+  <properties
+      key="destino"
+      value="doc, tex, ppt"/>
+</archimate:Capability>

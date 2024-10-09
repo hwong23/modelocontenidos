@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Esquema de Datos"
-    id="id-f533243ebba54122b64de654632786ac"/>
+    id="id-f533243ebba54122b64de654632786ac">
+  <properties
+      key="destino"
+      value="doc, tex, ppt"/>
+</archimate:Capability>

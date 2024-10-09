@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Herramientas"
-    id="id-899019eb21534c07b16b9c03c81d88be"/>
+    id="id-899019eb21534c07b16b9c03c81d88be">
+  <properties
+      key="destino"
+      value="doc, tex, ppt"/>
+</archimate:Capability>

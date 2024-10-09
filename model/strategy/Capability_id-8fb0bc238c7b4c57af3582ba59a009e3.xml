@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Condiciones de Despliegue"
-    id="id-8fb0bc238c7b4c57af3582ba59a009e3"/>
+    id="id-8fb0bc238c7b4c57af3582ba59a009e3">
+  <properties
+      key="destino"
+      value="doc, tex, ppt"/>
+</archimate:Capability>

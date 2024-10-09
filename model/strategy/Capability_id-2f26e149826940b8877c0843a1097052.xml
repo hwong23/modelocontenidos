@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Contratos de Interoperabilidad"
-    id="id-2f26e149826940b8877c0843a1097052"/>
+    id="id-2f26e149826940b8877c0843a1097052">
+  <properties
+      key="destino"
+      value="doc, tex, ppt"/>
+</archimate:Capability>
