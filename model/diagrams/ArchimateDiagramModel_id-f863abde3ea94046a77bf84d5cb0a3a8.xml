@@ -245,11 +245,11 @@
   </children>
   <properties
       key="alias"
-      value="contexto"/>
+      value="modintgr"/>
   <properties
       key="destino"
       value="doc, tex, ppt"/>
   <properties
       key="devdoc"
-      value="01.prop.contexto.md"/>
+      value="01.1n.modelointegracmd"/>
 </archimate:ArchimateDiagramModel>
