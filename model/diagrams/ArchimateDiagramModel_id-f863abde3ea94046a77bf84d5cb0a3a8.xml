@@ -8,7 +8,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-75bc012f93914b83ad985247edf4da05"
       textAlignment="1"
-      content="Modelo de Integración. &#xA;Proyecto JEP, 2024. Softgic.&#xA;&#xA;Capacidades del modelo de integración para la impleentación de requerimientos de interoperabilidad del proyecto Integración JEP, 2024.&#xA;&#xD;&#xA;Ver 0.1.5">
+      content="Modelo de Integración. &#xA;Proyecto JEP, 2024. Softgic.&#xA;&#xA;Capacidades del modelo de integración para la impleentación de requerimientos de interoperabilidad del proyecto Integración JEP, 2024.&#xA;&#xD;&#xA;Ver 0.1.11">
     <bounds
         x="12"
         y="12"
@@ -152,7 +152,7 @@
       id="id-e8c816e7600e483095a26f335c007110">
     <bounds
         x="396"
-        y="432"
+        y="348"
         width="157"
         height="55"/>
     <archimateElement
@@ -176,7 +176,7 @@
       id="id-e596c77dc5a24b21b6ca1d55edfe19d7">
     <bounds
         x="396"
-        y="516"
+        y="432"
         width="157"
         height="55"/>
     <archimateElement
@@ -230,6 +230,18 @@
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_id-b3b1c20e9d7243e5a7a7f3019f1bc87b.xml#id-b3b1c20e9d7243e5a7a7f3019f1bc87b"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-77d91495f39747abb3686eed84fd9cdc">
+    <bounds
+        x="203"
+        y="840"
+        width="157"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Capability"
+        href="Capability_id-96246bd329c244dabebf2b6f444229d6.xml#id-96246bd329c244dabebf2b6f444229d6"/>
   </children>
   <properties
       key="alias"
