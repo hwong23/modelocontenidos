@@ -1,4 +1,8 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CI/CD Integración JEP"
-    id="id-bfa0e69d65774f66aab8a946518796b2"/>
+    id="id-bfa0e69d65774f66aab8a946518796b2">
+  <properties
+      key="destino"
+      value="doc, tex, ppt"/>
+</archimate:TechnologyService>

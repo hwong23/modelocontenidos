@@ -1,4 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Réplica &lt;task/pod>"
-    id="id-d92c184001a842a7b9395267de1ca379"/>
+    id="id-d92c184001a842a7b9395267de1ca379">
+  <properties
+      key="destino"
+      value="doc, tex, ppt"/>
+</archimate:ApplicationService>

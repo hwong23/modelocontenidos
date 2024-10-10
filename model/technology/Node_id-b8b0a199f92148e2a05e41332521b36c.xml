@@ -1,4 +1,8 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Nodo Integración JEP"
-    id="id-b8b0a199f92148e2a05e41332521b36c"/>
+    id="id-b8b0a199f92148e2a05e41332521b36c">
+  <properties
+      key="destino"
+      value="doc, tex, ppt"/>
+</archimate:Node>

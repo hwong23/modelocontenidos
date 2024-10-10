@@ -1,4 +1,8 @@
 <archimate:Driver
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Justificación Proyecto Integración JEP"
-    id="id-985cf73eea2a40198e30ab4b38ade70b"/>
+    id="id-985cf73eea2a40198e30ab4b38ade70b">
+  <properties
+      key="destino"
+      value="doc, tex, ppt"/>
+</archimate:Driver>

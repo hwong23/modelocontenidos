@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Solución de Integración JEP"
-    id="id-b08f1ac443074ee0b182d66ef5296825"/>
+    id="id-b08f1ac443074ee0b182d66ef5296825">
+  <properties
+      key="destino"
+      value="doc, tex, ppt"/>
+</archimate:ApplicationComponent>
