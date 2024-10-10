@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="04.ING.3n.Modelo de Integración"
     id="id-f863abde3ea94046a77bf84d5cb0a3a8"
-    documentation="Características Principales del Modelo de Integración JEP&#xA;* API de integración&#xA;* Patrones de integración empresarial (EIP)&#xA;* Sistema de Mensajería entre servicios de integración y aplicaciones JEP&#xA;* Flujos de datos para integración &#xA;* Arquitectura de clusters y contenedores para integración&#xA;* Uso de infraestructura tecnológica JEP&#xA;&#xA;">
+    documentation="El modelo de integración JEP, 2024, en desarrollo de Softgic presenta las decisiones que informan la solucieón de integración y las restricciones que la definen. El modelo se presenta para aprobación y referencia.&#xA;&#xA;&#xA;## Características Principales del Modelo de Integración JEP&#xA;* API de integración&#xA;* Patrones de integración empresarial (EIP)&#xA;* Sistema de Mensajería entre servicios de integración y aplicaciones JEP&#xA;* Flujos de datos para integración &#xA;* Arquitectura de clusters y contenedores para integración&#xA;* Uso de infraestructura tecnológica JEP&#xA;&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-2f0d0bdaa6dd4150ae0fc2e8311a048f"
