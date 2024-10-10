@@ -1,8 +1,4 @@
 <archimate:ApplicationProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Proceso &lt;&lt;worker>>"
-    id="id-93ce0d926f1a449191a8a56226613dd8">
-  <properties
-      key="destino"
-      value="doc, tex, ppt"/>
-</archimate:ApplicationProcess>
+    id="id-93ce0d926f1a449191a8a56226613dd8"/>
