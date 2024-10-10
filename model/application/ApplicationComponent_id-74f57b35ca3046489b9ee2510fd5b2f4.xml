@@ -1,4 +1,9 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Contenedor"
-    id="id-74f57b35ca3046489b9ee2510fd5b2f4"/>
+    id="id-74f57b35ca3046489b9ee2510fd5b2f4"
+    documentation="Contenedores de los servicios de integración del proyecto desplegados en la infraestructura tecnológica JEP.&#xA;">
+  <properties
+      key="destino"
+      value="doc, tex, ppt"/>
+</archimate:ApplicationComponent>
