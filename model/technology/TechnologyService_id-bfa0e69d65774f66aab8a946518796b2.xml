@@ -1,6 +1,6 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="CI/CD Integración JEP"
+    name="ENTG03. CI/CD Integración JEP"
     id="id-bfa0e69d65774f66aab8a946518796b2"
     documentation="Cadenas de integración y despliegue continuo de los servicios de integración del proyecto de integración JEP, 2024.&#xA;">
   <properties

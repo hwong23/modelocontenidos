@@ -1,6 +1,6 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Nodo Integración JEP"
+    name="ENTG04. Nodo Integración JEP"
     id="id-b8b0a199f92148e2a05e41332521b36c"
     documentation="Cluster de ejecución de los nodos y procesos de (servicios) de integración del proyecto.">
   <properties

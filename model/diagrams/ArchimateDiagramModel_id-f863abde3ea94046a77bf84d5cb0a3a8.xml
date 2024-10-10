@@ -47,7 +47,7 @@
     <bounds
         x="1104"
         y="210"
-        width="228"
+        width="252"
         height="606"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -56,7 +56,7 @@
       <bounds
           x="24"
           y="60"
-          width="144"
+          width="204"
           height="55"/>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
@@ -69,7 +69,7 @@
       <bounds
           x="24"
           y="120"
-          width="144"
+          width="204"
           height="55"/>
       <archimateElement
           xsi:type="archimate:ApplicationService"
@@ -100,7 +100,7 @@
       <bounds
           x="24"
           y="336"
-          width="180"
+          width="204"
           height="252"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
@@ -119,7 +119,7 @@
         <bounds
             x="12"
             y="120"
-            width="145"
+            width="169"
             height="109"/>
         <children
             xsi:type="archimate:DiagramModelArchimateObject"
@@ -128,7 +128,7 @@
           <bounds
               x="12"
               y="36"
-              width="120"
+              width="144"
               height="55"/>
           <archimateElement
               xsi:type="archimate:ApplicationService"
@@ -144,8 +144,8 @@
           targetConnections="id-f2e5077899ee49529375a3200174d2b2">
         <bounds
             x="12"
-            y="48"
-            width="120"
+            y="60"
+            width="168"
             height="55"/>
         <archimateElement
             xsi:type="archimate:ApplicationProcess"
@@ -162,7 +162,7 @@
       <bounds
           x="24"
           y="180"
-          width="144"
+          width="204"
           height="55"/>
       <archimateElement
           xsi:type="archimate:TechnologyService"
