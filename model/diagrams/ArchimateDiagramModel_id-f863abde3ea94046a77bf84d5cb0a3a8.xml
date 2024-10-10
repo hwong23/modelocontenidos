@@ -784,18 +784,6 @@
         xsi:type="archimate:Grouping"
         href="Grouping_id-7cb4071d0d5948959846a4bc0fda7c9c.xml#id-7cb4071d0d5948959846a4bc0fda7c9c"/>
   </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-32d5bc0f25594735a73989ea14453634">
-    <bounds
-        x="760"
-        y="56"
-        width="360"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationCollaboration"
-        href="ApplicationCollaboration_id-f52c852a18544476aadaa2ad015d94ea.xml#id-f52c852a18544476aadaa2ad015d94ea"/>
-  </children>
   <properties
       key="alias"
       value="modintgr"/>
