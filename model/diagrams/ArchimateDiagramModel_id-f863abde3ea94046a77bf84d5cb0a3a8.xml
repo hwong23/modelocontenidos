@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="04.ING.3n.Modelo de Integración"
     id="id-f863abde3ea94046a77bf84d5cb0a3a8"
-    documentation="v1.1. Cinco características principales: API management, enterprise integration, events and messaging, data integration, and tooling and metadata. These capabilities and their underlying components simplify cloud-native development that connects systems.&#xA;&#xA;El proyecto de integración inicia con la creación de un tramo de la planeación de producción. Esto es un ciclo de proyecto.&#xA;&#xA;(ING) Procesos de ingeniería previos a la construcción. Arrancan la serie de procesos de ingeniería de integración.&#xA;&#xA;(PRY) Planificación de historias de usuario. La porción de la planeación de producción aprobada para la construcción se planifica en historias o casos de uso, u cualquier otra forma de medición de avance.&#xA;&#xA;(ING) Creción e inicio de Iteraciones de trabajo. La planificación de HU (CU, u otra) es tareificada y asignada a desarrolladores disponibles. Además, las tareas asignadas son organizadas en ciclos de trabajo fijo (iteraciones). Esta ejecución es la línea de trabajo del proyecto JEP.&#xA;&#xA;(PRY, ING) Coordinación de líneas de trabajo. Las entregas de la línea de trabajo del proyecto JEP debe ser compasada con las líneas de trabajo de la JEP, con las que puede haber una relación de secuencia o dependencia.&#xA;&#xA;Durante la ejecución de la iteraciones determinaas, inicia nuevamente el ciclo del  proyecto desde la creación de un nuevo tramo de la planeación de producción.">
+    documentation="Características Principales del Modelo de Integración JEP&#xA;* API de integración&#xA;* Patrones de integración empresarial (EIP)&#xA;* Sistema de Mensajería entre servicios de integración y aplicaciones JEP&#xA;* Flujos de datos para integración &#xA;* Arquitectura de clusters y contenedores para integración&#xA;* Uso de infraestructura tecnológica JEP&#xA;&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-2f0d0bdaa6dd4150ae0fc2e8311a048f"
@@ -52,7 +52,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-dd777226ddca4c0e825ec8b0856ad949"
-        targetConnections="id-12352a2380b3484ab5619a942dc177fe">
+        targetConnections="id-12352a2380b3484ab5619a942dc177fe id-efac63d405c449c398b42b58a25b5e13">
       <bounds
           x="24"
           y="60"
@@ -214,15 +214,6 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-0e634fb8bc8840fd84479151a16328b8"
-        source="id-252743beaa2b4de393b8d41513025dc5"
-        target="id-1cfb8bd40d6f46aaa791271f0cf183b4">
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_id-d2182d9794c2421298ebdb19bd608d57.xml#id-d2182d9794c2421298ebdb19bd608d57"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-b41c9d61d30f4859bcf04e8e5668f1e5"
         source="id-252743beaa2b4de393b8d41513025dc5"
         target="id-59d68bfe0791441a99d8c64ff2fdd111">
@@ -232,12 +223,21 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-e82f0dc2983f43fbbf9ec8362870908f"
+        id="id-135a152a60be445ca90ea28fd9e33913"
         source="id-252743beaa2b4de393b8d41513025dc5"
-        target="id-36684868a0a4472882eaba618f3cbdc5">
+        target="id-4c4ed7a15b3e41448b80d0f6a7fdd013">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-d2a1cf814749430e97d2b1092cce0fae.xml#id-d2a1cf814749430e97d2b1092cce0fae"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-186d0bad2017445d8874fd9560cf2936"
+        source="id-252743beaa2b4de393b8d41513025dc5"
+        target="id-097e365a97944183ac02d70c461f8392">
       <archimateRelationship
           xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_id-c5c82af5c2484baf8f215ad5e68747df.xml#id-c5c82af5c2484baf8f215ad5e68747df"/>
+          href="CompositionRelationship_id-df3a854e7b854411b9d06e97960ca1c9.xml#id-df3a854e7b854411b9d06e97960ca1c9"/>
     </sourceConnections>
     <bounds
         x="13"
@@ -249,8 +249,8 @@
         id="id-8695c1955ee94b70a647620956c00b34"
         targetConnections="id-878f96e138ba4cc4b0d24e07d8013519">
       <bounds
-          x="34"
-          y="299"
+          x="37"
+          y="360"
           width="156"
           height="55"/>
       <archimateElement
@@ -262,8 +262,8 @@
         id="id-6bdb6c6f293e49b19a2fd02e110e368a"
         targetConnections="id-09551ba17238452e8d7802db0687dd07">
       <bounds
-          x="36"
-          y="117"
+          x="37"
+          y="252"
           width="156"
           height="55"/>
       <archimateElement
@@ -275,8 +275,8 @@
         id="id-b74d481811de439fb649d10b1f3427ae"
         targetConnections="id-17d95700ed9a43439a7fb210253877cc">
       <bounds
-          x="33"
-          y="360"
+          x="37"
+          y="185"
           width="156"
           height="55"/>
       <archimateElement
@@ -288,26 +288,13 @@
         id="id-21a0e76b12624397bc4fd0b0c33ecf17"
         targetConnections="id-ea98b1c8b00b4e79879833f862414e8f">
       <bounds
-          x="35"
-          y="180"
+          x="36"
+          y="120"
           width="156"
           height="55"/>
       <archimateElement
           xsi:type="archimate:Driver"
           href="Driver_id-985cf73eea2a40198e30ab4b38ade70b.xml#id-985cf73eea2a40198e30ab4b38ade70b"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-1cfb8bd40d6f46aaa791271f0cf183b4"
-        targetConnections="id-0e634fb8bc8840fd84479151a16328b8">
-      <bounds
-          x="33"
-          y="420"
-          width="156"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:Outcome"
-          href="Outcome_id-9af7621b82e74d8abea05cda46a2d19f.xml#id-9af7621b82e74d8abea05cda46a2d19f"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -324,16 +311,16 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-36684868a0a4472882eaba618f3cbdc5"
-        targetConnections="id-e82f0dc2983f43fbbf9ec8362870908f">
+        id="id-097e365a97944183ac02d70c461f8392"
+        targetConnections="id-186d0bad2017445d8874fd9560cf2936">
       <bounds
-          x="34"
-          y="240"
+          x="37"
+          y="420"
           width="156"
           height="55"/>
       <archimateElement
-          xsi:type="archimate:Assessment"
-          href="Assessment_id-03df92fa816243dfa8f2b838148e9eb3.xml#id-03df92fa816243dfa8f2b838148e9eb3"/>
+          xsi:type="archimate:Constraint"
+          href="Constraint_id-5b818fa35a49407290324484813a8014.xml#id-5b818fa35a49407290324484813a8014"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"
@@ -343,11 +330,11 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-75bc012f93914b83ad985247edf4da05"
       textAlignment="1"
-      content="Modelo de Integración. &#xA;Proyecto JEP, 2024. Softgic.&#xA;&#xA;Capacidades del modelo de integración para la impleentación de requerimientos de interoperabilidad del proyecto Integración JEP, 2024.&#xA;&#xD;&#xA;Ver 0.2.15">
+      content="Modelo de Integración. &#xA;Proyecto JEP, 2024. Softgic.&#xA;&#xA;Capacidades del modelo de integración para la impleentación de requerimientos de interoperabilidad del proyecto Integración JEP, 2024.&#xA;&#xD;&#xA;04.ing.3n.Ver 0.2.17">
     <bounds
         x="12"
         y="12"
-        width="277"
+        width="313"
         height="157"/>
     <properties
         key="destino"
@@ -356,6 +343,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-4c4ed7a15b3e41448b80d0f6a7fdd013"
+      targetConnections="id-135a152a60be445ca90ea28fd9e33913"
       textAlignment="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -527,6 +515,15 @@
       <archimateRelationship
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_id-e4e8338577024397820558d58ae6812f.xml#id-e4e8338577024397820558d58ae6812f"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-efac63d405c449c398b42b58a25b5e13"
+        source="id-4c4ed7a15b3e41448b80d0f6a7fdd013"
+        target="id-dd777226ddca4c0e825ec8b0856ad949">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-61a1327e5ccf4595a13bb0db3b2a86d2.xml#id-61a1327e5ccf4595a13bb0db3b2a86d2"/>
     </sourceConnections>
     <bounds
         x="276"
