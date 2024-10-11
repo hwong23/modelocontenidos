@@ -369,4 +369,7 @@
         xsi:type="archimate:Outcome"
         href="Outcome_id-b6c59ba74bb54994bfa7c6abf2cbe853.xml#id-b6c59ba74bb54994bfa7c6abf2cbe853"/>
   </children>
+  <properties
+      key="titulo"
+      value="Roles y Division Trabajo del Proyecto"/>
 </archimate:ArchimateDiagramModel>
