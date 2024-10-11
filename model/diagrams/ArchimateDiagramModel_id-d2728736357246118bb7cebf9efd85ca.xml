@@ -17,8 +17,8 @@
           href="TriggeringRelationship_id-66ff377e6e2e4512bba115f6ddb00d23.xml#id-66ff377e6e2e4512bba115f6ddb00d23"/>
     </sourceConnections>
     <bounds
-        x="60"
-        y="60"
+        x="24"
+        y="24"
         width="401"
         height="132"/>
     <children
@@ -55,8 +55,8 @@
       targetConnections="id-f31232cf846049938220b820e2cdd7a5"
       textAlignment="1">
     <bounds
-        x="60"
-        y="408"
+        x="25"
+        y="204"
         width="400"
         height="140"/>
     <children
@@ -95,7 +95,7 @@
       value="1n.devdocs.md"/>
   <properties
       key="titulo"
-      value="Titulo del Documento"/>
+      value="Titulo Vista Documental (prop)"/>
   <properties
       key="rutaMac"
       value="/Downloads/tmpr/pgnmd/"/>
