@@ -692,5 +692,5 @@
   </children>
   <properties
       key="plantillaElm"
-      value="elementtabla-md,elementtabla-fila-md"/>
+      value="elementsimple-md, elementsimple-fila-md"/>
 </archimate:ArchimateDiagramModel>
