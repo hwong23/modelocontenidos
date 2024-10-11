@@ -20,7 +20,7 @@
         x="60"
         y="60"
         width="401"
-        height="228"/>
+        height="132"/>
     <children
         xsi:type="archimate:DiagramModelReference"
         id="id-c4c82245dd1746d98c11ed19d0c43fcf">
@@ -96,4 +96,7 @@
   <properties
       key="titulo"
       value="Titulo del Documento"/>
+  <properties
+      key="rutaMac"
+      value="/Downloads/tmpr/pgnmd/"/>
 </archimate:ArchimateDiagramModel>
