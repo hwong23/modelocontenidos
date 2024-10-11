@@ -690,4 +690,7 @@
         xsi:type="archimate:CourseOfAction"
         href="CourseOfAction_id-0d31656088d1432cbe5d870faf81a96a.xml#id-0d31656088d1432cbe5d870faf81a96a"/>
   </children>
+  <properties
+      key="plantillaElm"
+      value="elementtabla-md,elementtabla-fila-md"/>
 </archimate:ArchimateDiagramModel>
