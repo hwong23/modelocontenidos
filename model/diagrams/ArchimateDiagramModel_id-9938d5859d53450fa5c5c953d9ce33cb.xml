@@ -1040,4 +1040,7 @@
         xsi:type="archimate:Goal"
         href="Goal_id-b615a1bc6ab94dfda5b4b8db80980db5.xml#id-b615a1bc6ab94dfda5b4b8db80980db5"/>
   </children>
+  <properties
+      key="titulo"
+      value="Modelo de Requerimientos y Líneas de Producción"/>
 </archimate:ArchimateDiagramModel>
