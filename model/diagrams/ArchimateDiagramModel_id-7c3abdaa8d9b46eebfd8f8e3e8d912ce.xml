@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="04.ING.2n.1a.Modelo requerimientos. Proyecto Integración"
+    name="04.ING.2n.1a.Modelo requerimientos"
     id="id-7c3abdaa8d9b46eebfd8f8e3e8d912ce">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -486,6 +486,25 @@
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_id-1ee569ae897445cdb392226c01264a35.xml#id-1ee569ae897445cdb392226c01264a35"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-87d67df3280645ef87f628fea35a714a"
+        source="id-9ffac55e19c946d6bbab830fed615d6b"
+        target="id-b53fe3cc51c542b39cebc1722798da47">
+      <bendpoints
+          startX="431"
+          startY="-36"
+          endX="707"
+          endY="478"/>
+      <bendpoints
+          startX="430"
+          startY="-516"
+          endX="706"
+          endY="-3"/>
+      <archimateRelationship
+          xsi:type="archimate:TriggeringRelationship"
+          href="TriggeringRelationship_id-e1d1de208b0f434683c06cd282baf582.xml#id-e1d1de208b0f434683c06cd282baf582"/>
+    </sourceConnections>
     <bounds
         x="564"
         y="480"
@@ -653,7 +672,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-b53fe3cc51c542b39cebc1722798da47">
+      id="id-b53fe3cc51c542b39cebc1722798da47"
+      targetConnections="id-87d67df3280645ef87f628fea35a714a">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-92ecb568fd534986bb5404f86f530a3b"
@@ -684,7 +704,7 @@
     <bounds
         x="12"
         y="204"
-        width="588"
+        width="1036"
         height="55"/>
     <archimateElement
         xsi:type="archimate:CourseOfAction"
@@ -693,4 +713,7 @@
   <properties
       key="plantillaElm"
       value="elementsimple-md,elementsimple-fila-md"/>
+  <properties
+      key="titulo"
+      value="Modelo de Gestión de Requerimientos de Integración"/>
 </archimate:ArchimateDiagramModel>
