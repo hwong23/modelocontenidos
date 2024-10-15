@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="04.ING.1n.Roles, Division Trabajo"
+    name="04.ING.1n.Roles y división de trabajo"
     id="id-3bef3ca04f6d4d1ba6b837b822a51801"
     documentation="Capacidades del proyecto JEP&#xA;&#xA;### Consultor&#xA;arquitectura de contenedores&#xA;definir y documentar soluciones&#xA;especificar interfaces&#xA;soporte paso producción&#xA;&#xA;### Arquitecto&#xA;arquitectura bus servicios&#xA;soporte desarrollo&#xA;soporte cliente&#xA;mitigar riesgos arquitectura&#xA;&#xA;### Infraestructura&#xA;definir y documentar soluciones (de infr.)&#xA;documentar componentes e interfaces (de infr.)&#xA;soporte post producción&#xA;&#xA;">
   <children
