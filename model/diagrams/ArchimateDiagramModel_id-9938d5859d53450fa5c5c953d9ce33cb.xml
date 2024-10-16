@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="04.ING.2n.1b.Modelo producción"
     id="id-9938d5859d53450fa5c5c953d9ce33cb"
-    documentation="El proyecto inicia con la creación de un tramo de la planeación de producción. Esto es un ciclo de proyecto.&#xA;&#xA;(ING) Procesos de ingeniería previos a la construcción. Arrancan la serie de procesos de ingeniería de integración.&#xA;&#xA;(PRY) Planificación de historias de usuario. La porción de la planeación de producción aprobada para la construcción se planifica en historias o casos de uso, u cualquier otra forma de medición de avance.&#xA;&#xA;(ING) Creación e inicio de Iteraciones de trabajo. La planificación de HU (CU, u otra) es tareificada y asignada a desarrolladores disponibles. Además, las tareas asignadas son organizadas en ciclos de trabajo fijo (iteraciones). Esta ejecución es la línea de trabajo del proyecto JEP.&#xA;&#xA;(PRY, ING) Coordinación de líneas de trabajo. Las entregas de la línea de trabajo del proyecto JEP debe ser compasada con las líneas de trabajo de la JEP, con las que puede haber una relación de secuencia o dependencia.&#xA;&#xA;Durante la ejecución de la iteraciones determinadas, inicia nuevamente el ciclo del  proyecto desde la creación de un nuevo tramo de la planeación de producción.&#xA;&#xA;&#xA;">
+    documentation="El proyecto inicia con la creación de un tramo de la planeación de producción, esto es, un ciclo de implementación o iteración del proyecto de integración JEP.&#xA;&#xA;(ING) Procesos de ingeniería. Arrancan los procesos mínimos de ingeniería previos a la construcción de la integración.&#xA;&#xA;(PRY) Planificación de historias de usuario. La porción de la planeación de producción aprobada para la construcción se planifica en historias o casos de uso, u cualquier otra forma de medición de avance.&#xA;&#xA;(ING) Creación e inicio de iteraciones de implementción incremental. La planificación de HU (CU, u otra) es tareificada y asignada a desarrolladores disponibles. Además, las tareas asignadas son organizadas en ciclos de trabajo fijo (iteraciones). Esta ejecución es la línea de trabajo principal del proyecto JEP.&#xA;&#xA;(PRY, ING) Coordinación de líneas de trabajo. Las entregas de la línea de trabajo del proyecto JEP debe ser compasada con otras líneas de trabajo de la JEP, con las que puede haber una relación de secuencia o dependencia externa.&#xA;&#xA;Durante la ejecución de la iteraciones determinadas, inicia nuevamente el ciclo del  proyecto desde la creación de un nuevo tramo de la planeación de producción.&#xA;&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-f8589475c2af47fb851208773ee4fdf8"
@@ -331,7 +331,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-273a50b5974941d69b1d0f6e5c0d7604"
       textAlignment="1"
-      content="Modelo de Producción e Implementación Proyecto JEP, 2024. Softgic.&#xA;&#xA;Propuesta modelo de gestión y atención requerimientos de integración del proyecto de servicios de integración JEP.&#xA;&#xD;&#xA;Ver 0.1.3&#xA;">
+      content="Modelo de Producción e Implementación Proyecto JEP, 2024. Softgic.&#xA;&#xA;Propuesta modelo de gestión y atención requerimientos de integración del proyecto de servicios de integración JEP.&#xA;&#xD;&#xA;Ver 0.1.5&#xA;">
     <bounds
         x="12"
         y="12"
@@ -399,15 +399,6 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-fab2fd296831455da70605d26391ce1f"
-        source="id-9e3fb70501ee42b2b00f9a2ba1f40f2a"
-        target="id-e4352b4488934314ad94093502b45b8b">
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_id-edd17dbe3e724b879b066757abdbdf57.xml#id-edd17dbe3e724b879b066757abdbdf57"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-f8e691e977844e0caa36d91ac903d8d5"
         source="id-9e3fb70501ee42b2b00f9a2ba1f40f2a"
         target="id-881b0ff67a7944989aade54be53056e5">
@@ -442,6 +433,15 @@
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_id-f5f4221995b44451ae2d48afc0701c45.xml#id-f5f4221995b44451ae2d48afc0701c45"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-05922b1cdc63468e875e9179fc163653"
+        source="id-9e3fb70501ee42b2b00f9a2ba1f40f2a"
+        target="id-68d1b491b8f84d2aa63c110f9520938e">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-78bde3ab2c96445886ee494eeb1df3ca.xml#id-78bde3ab2c96445886ee494eeb1df3ca"/>
+    </sourceConnections>
     <bounds
         x="564"
         y="480"
@@ -472,19 +472,6 @@
       <archimateElement
           xsi:type="archimate:WorkPackage"
           href="WorkPackage_id-5d83586e629446c18a78f95eaf02e982.xml#id-5d83586e629446c18a78f95eaf02e982"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-e4352b4488934314ad94093502b45b8b"
-        targetConnections="id-fab2fd296831455da70605d26391ce1f">
-      <bounds
-          x="144"
-          y="276"
-          width="84"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:WorkPackage"
-          href="WorkPackage_id-9160430d911d430081598232c5d84f0a.xml#id-9160430d911d430081598232c5d84f0a"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -533,6 +520,19 @@
       <archimateElement
           xsi:type="archimate:WorkPackage"
           href="WorkPackage_id-e1c94f91262e4c28b85b1a8b14c5900c.xml#id-e1c94f91262e4c28b85b1a8b14c5900c"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-68d1b491b8f84d2aa63c110f9520938e"
+        targetConnections="id-05922b1cdc63468e875e9179fc163653">
+      <bounds
+          x="144"
+          y="276"
+          width="84"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:WorkPackage"
+          href="WorkPackage_id-cb6dd89ebbd749a08b7dc52b35e248d9.xml#id-cb6dd89ebbd749a08b7dc52b35e248d9"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"
