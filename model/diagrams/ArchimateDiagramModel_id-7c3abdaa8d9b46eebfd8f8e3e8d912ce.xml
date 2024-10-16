@@ -7,7 +7,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-06ed204b9c1a4e07b7261016b7d8912a"
       targetConnections="id-1be78d3252f54201bf0788de853e50da"
-      textAlignment="1">
+      textAlignment="1"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-41641e9b9d33466298e0e081eb0b2908"
@@ -79,8 +80,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-10c6c2f0d6634938bbef2e5b1d0ff33c"
-        targetConnections="id-841e05b8544b4eb180da65c97b2679ec"
-        type="1">
+        targetConnections="id-841e05b8544b4eb180da65c97b2679ec">
       <bounds
           x="24"
           y="36"
@@ -93,8 +93,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-c4025f77542e4fb1903597af77caead8"
-        targetConnections="id-4cc5b4de4ee440b697181ac6d9fb5634"
-        type="1">
+        targetConnections="id-4cc5b4de4ee440b697181ac6d9fb5634">
       <bounds
           x="24"
           y="96"
@@ -107,8 +106,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-4e6e1cd6e7a74908a3d89e80d56c5e8a"
-        targetConnections="id-c8d30cf49b3f413a8705170b62c1d9d5"
-        type="1">
+        targetConnections="id-c8d30cf49b3f413a8705170b62c1d9d5">
       <bounds
           x="276"
           y="96"
@@ -121,8 +119,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-91400bc6e17c4faea8a578b57b9dfe3e"
-        targetConnections="id-b2c5d914bda741769fa97821f2d89d23"
-        type="1">
+        targetConnections="id-b2c5d914bda741769fa97821f2d89d23">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-63b361772c31470098870365354dbad1"
@@ -153,8 +150,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-1bc4b958fb3142d9a94591fb88ab315f"
-        targetConnections="id-957e577386274753876a4a65196f00b9"
-        type="1">
+        targetConnections="id-957e577386274753876a4a65196f00b9">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-c853ca8c324341768333a8b46a8e2c2a"
@@ -194,8 +190,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-8f35b031529740c880cee5082459d60e"
-        targetConnections="id-41641e9b9d33466298e0e081eb0b2908"
-        type="1">
+        targetConnections="id-41641e9b9d33466298e0e081eb0b2908">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-5037e6109e9e481eb8901393e84a5d53"
@@ -257,8 +252,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-9185ae6f7e0d4496b9c466820dd71f13"
-        targetConnections="id-d669396513fe4d3e962b85d083482a65"
-        type="1">
+        targetConnections="id-d669396513fe4d3e962b85d083482a65">
       <bounds
           x="12"
           y="36"
@@ -302,8 +296,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-ef2e082b2b5043efadb4c67cd8357fd5"
-        targetConnections="id-53016838793141198ac93491bed919e6"
-        type="1">
+        targetConnections="id-53016838793141198ac93491bed919e6">
       <bounds
           x="12"
           y="36"
@@ -358,8 +351,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-0298b9adb5d9408c84a09915e71581d4"
-        targetConnections="id-01bec3cbe1d6430c89bd122d90f0fb8e"
-        type="1">
+        targetConnections="id-01bec3cbe1d6430c89bd122d90f0fb8e">
       <bounds
           x="12"
           y="36"
@@ -377,7 +369,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-9ffac55e19c946d6bbab830fed615d6b"
       targetConnections="id-eb7df0f270d94472903205b44a9c9ebe"
-      textAlignment="1">
+      textAlignment="1"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-0ffc40f1e888412e92e1320531df467a"
