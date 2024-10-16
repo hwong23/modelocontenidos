@@ -168,17 +168,9 @@
       key="devdoc"
       value="02.prop.contenedores.md"/>
   <properties
-      key="gh-pages"/>
-  <properties
-      key="modulo"/>
-  <properties
-      key="rutaMacHTML"/>
-  <properties
-      key="rutaMacMD"/>
-  <properties
       key="alias"
       value="contenedores"/>
   <properties
       key="titulo"
-      value="Ambientes y Herramientas. Organización de Referencia JEP &#xA;Ambientes y Herramientas de Referencia JEP&#xA;"/>
+      value="Sistema de Mensajes Integración JEP"/>
 </archimate:ArchimateDiagramModel>
