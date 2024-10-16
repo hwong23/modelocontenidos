@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Sistema de Mensajes"
     id="id-c0bf1a0124a449f89e26fb4837bc2a18"
-    documentation="Esta solución de interoperabilidad usa un sistema de mensajes de petición, respuesta y excepción.&#xA;">
+    documentation="Esta solución de interoperabilidad usa un sistema de mensajes (comandos). Los mensajes son de tipo petición, respuesta o excepción.&#xA;&#xA;La mensajería puede ser asíncrona o síncrona entre aplicaciones o servicios desacoplados. La conexión y la sesión es manejada por un agente intermediario, que puede ser una cola o un bus empresarial (para este contexto, OpenShift, Cliente Red Had Interoperabity o Apache Camel). &#xA;&#xA;La comunicación del sistema de mensajería ocurre cuando la aplicación o servicio productor emite un comando (mensaje ) de 'envío', en el cual transmite datos o peticiones de negocio en un formato predefinido, y lo envía a una cola de mensajes.&#xA;">
   <properties
       key="destino"
       value="doc, tex, ppt"/>
