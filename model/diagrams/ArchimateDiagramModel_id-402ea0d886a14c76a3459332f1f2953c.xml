@@ -8,7 +8,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-6b21962aa04743979c5e1b3ff54858c8"
       textAlignment="1"
-      content="Integraciones JEP, 2024&#xA;&#xA;Integración JEP. Softgic. Sistema de Mensajería Integración JEP. Elementos del sistema de mensajería.&#xA;&#xA;versión 0.1.2&#xA;">
+      content="Integraciones JEP, 2024&#xA;&#xA;Integración JEP. Softgic. Sistema de Mensajería Integración JEP. Elementos del sistema de mensajería.&#xA;&#xA;versión 0.1.4&#xA;">
     <bounds
         x="12"
         y="12"
@@ -67,7 +67,7 @@
     <bounds
         x="12"
         y="300"
-        width="457"
+        width="481"
         height="139"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -76,7 +76,7 @@
       <bounds
           x="144"
           y="48"
-          width="120"
+          width="145"
           height="55"/>
       <archimateElement
           xsi:type="archimate:DataObject"
@@ -87,9 +87,9 @@
         id="id-c5653b88f9024e18bbbbfbe67e09d7d1"
         targetConnections="id-07b64e38fcb548eeaa3c32dff33db3c5">
       <bounds
-          x="276"
+          x="300"
           y="48"
-          width="120"
+          width="145"
           height="55"/>
       <archimateElement
           xsi:type="archimate:DataObject"
@@ -136,7 +136,7 @@
     <bounds
         x="155"
         y="480"
-        width="120"
+        width="146"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationInterface"
@@ -158,7 +158,7 @@
     <bounds
         x="155"
         y="192"
-        width="120"
+        width="146"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationInterface"

@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Mensaje solicitud"
-    id="id-770d510003b14650993ea1d4de898325"/>
+    id="id-770d510003b14650993ea1d4de898325"
+    documentation="Formato predefinido de intercambio de datos."/>
