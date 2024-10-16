@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="04.ING.2n.1a.Modelo requerimientos"
     id="id-7c3abdaa8d9b46eebfd8f8e3e8d912ce"
-    documentation="El ciclo de entrega de requerimientos inicia con la planeación macro de los objetivos entregables del proyecto de integración organizados en el tiempo (de septiembre a dicimebre del 2024).&#xA;&#xA;Los roles técnicos convierten estos objetivos macro en requerimientos comprendidos por épicas, características e historias (o casos de uso) de integración.&#xA;&#xA;Los ingenieros convierten a su vez las historias en tareas entregables, individuales y autónomas, de tipo UT, DIS, QA, AN, CI/CD, etc. Una vez los ingenieros tengan esta división de trabajo en tareas pueden pasar a la implementación mediante iteraciones (ver Modelo de Implementación del Proyecto JEP).&#xA;&#xA;&#xA;">
+    documentation="El ciclo de entrega de requerimientos inicia con la planeación macro de los objetivos entregables del proyecto de integración organizados en el tiempo (de septiembre a diciembre del 2024).&#xA;&#xA;Los roles técnicos convierten estos objetivos macro en requerimientos comprendidos por épicas, características e historias (o casos de uso) de integración.&#xA;&#xA;Los ingenieros convierten a su vez las historias en tareas entregables, individuales y autónomas, de tipo UT, DIS, QA, AN, CI/CD, etc. Una vez los ingenieros tengan esta división de trabajo en tareas pueden pasar a la implementación mediante iteraciones (ver Modelo de Implementación del Proyecto JEP).&#xA;&#xA;&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-06ed204b9c1a4e07b7261016b7d8912a"
