@@ -1,7 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Sistema de Mensajes"
-    id="id-c0bf1a0124a449f89e26fb4837bc2a18">
+    id="id-c0bf1a0124a449f89e26fb4837bc2a18"
+    documentation="Esta solución de interoperabilidad usa un sistema de mensajes de petición, respuesta y excepción.&#xA;">
   <properties
       key="destino"
       value="doc, tex, ppt"/>
