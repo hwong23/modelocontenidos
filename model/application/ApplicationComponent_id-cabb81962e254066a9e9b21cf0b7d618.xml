@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Proveedor"
+    id="id-cabb81962e254066a9e9b21cf0b7d618"
+    documentation="Aplicación o servicio proveedor. Emite mensajes de respuesta al consumidor de datos o comandos.&#xA;"/>
