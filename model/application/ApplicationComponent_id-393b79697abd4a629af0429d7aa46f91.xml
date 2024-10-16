@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Server &lt;&lt;worker>>"
-    id="id-393b79697abd4a629af0429d7aa46f91"/>
+    id="id-393b79697abd4a629af0429d7aa46f91"
+    documentation="Definición de un proceso de trabajo.&#xA;"/>

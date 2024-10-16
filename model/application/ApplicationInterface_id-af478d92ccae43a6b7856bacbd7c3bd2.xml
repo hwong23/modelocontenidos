@@ -1,7 +1,8 @@
 <archimate:ApplicationInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Nodo"
-    id="id-af478d92ccae43a6b7856bacbd7c3bd2">
+    id="id-af478d92ccae43a6b7856bacbd7c3bd2"
+    documentation="Nodo lógico en donde corren los contenedores.&#xA;">
   <properties
       key="modulo"
       value="mimutual"/>
