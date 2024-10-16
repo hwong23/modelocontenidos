@@ -1,6 +1,7 @@
 <archimate:TriggeringRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="nuevo ciclo"
     id="id-e1d1de208b0f434683c06cd282baf582">
   <source
       xsi:type="archimate:Grouping"
