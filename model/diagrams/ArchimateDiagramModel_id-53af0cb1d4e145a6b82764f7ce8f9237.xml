@@ -171,18 +171,18 @@
           href="AssignmentRelationship_id-aac93506e30549918b69af5abd6b4b2e.xml#id-aac93506e30549918b69af5abd6b4b2e"/>
     </sourceConnections>
     <bounds
-        x="24"
+        x="12"
         y="408"
-        width="169"
+        width="181"
         height="109"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-3e617211861e4c3896cca765c652d907"
         targetConnections="id-2e64037d36b749908bf75f3aacf8d5b0">
       <bounds
-          x="12"
+          x="24"
           y="36"
-          width="144"
+          width="145"
           height="55"/>
       <archimateElement
           xsi:type="archimate:ApplicationService"
@@ -248,18 +248,18 @@
           href="AssignmentRelationship_id-aac93506e30549918b69af5abd6b4b2e.xml#id-aac93506e30549918b69af5abd6b4b2e"/>
     </sourceConnections>
     <bounds
-        x="215"
+        x="203"
         y="408"
-        width="169"
+        width="181"
         height="109"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-e84a61a9eda9440194410cb9f9df38e2"
         targetConnections="id-94d62949fafd4633a41d42dd5d96da43">
       <bounds
-          x="12"
+          x="24"
           y="36"
-          width="144"
+          width="145"
           height="55"/>
       <archimateElement
           xsi:type="archimate:ApplicationService"
@@ -283,18 +283,18 @@
           href="AssignmentRelationship_id-aac93506e30549918b69af5abd6b4b2e.xml#id-aac93506e30549918b69af5abd6b4b2e"/>
     </sourceConnections>
     <bounds
-        x="408"
+        x="401"
         y="408"
-        width="169"
+        width="181"
         height="109"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-29f63398b7bb4c06829b6e18f10d90cd"
         targetConnections="id-7edb3947aa13495c8458a3d343af348c">
       <bounds
-          x="12"
+          x="24"
           y="36"
-          width="144"
+          width="145"
           height="55"/>
       <archimateElement
           xsi:type="archimate:ApplicationService"
