@@ -13,4 +13,8 @@
       key="gh-pages"/>
   <properties
       key="reporte"/>
+  <profiles
+      name="Specialization 1"
+      id="id-438ced40f7c24a91bfaaa9a1315e7d8f"
+      conceptType="Grouping"/>
 </archimate:ArchimateModel>
