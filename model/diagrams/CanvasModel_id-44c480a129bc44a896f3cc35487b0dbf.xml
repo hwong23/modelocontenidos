@@ -1,5 +1,36 @@
 <canvas:CanvasModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:canvas="http://www.archimatetool.com/archimate/canvas"
     name="Carátula"
     id="id-44c480a129bc44a896f3cc35487b0dbf"
-    documentation="---&#xA;title: Documento de Arquitectura $APLICATIVO, $PROY_DESCR, $CLIENTE&#xA;subtitle: $APLICATIVO. $PROYECTO - $PROY_DESCR&#xA;geometry:&#xA;  - top=1in&#xA;  - bottom=1in&#xA;fignos-cleveref: True&#xA;fignos-plus-name: Fig.&#xA;fignos-caption-name: Imagen&#xA;tablenos-caption-name: Tabla&#xA;...&#xA;"/>
+    documentation="---&#xA;title: Documento de Arquitectura $APLICATIVO, $PROY_DESCR, $CLIENTE&#xA;subtitle: $APLICATIVO. $PROYECTO - $PROY_DESCR&#xA;geometry:&#xA;  - top=1in&#xA;  - bottom=1in&#xA;fignos-cleveref: True&#xA;fignos-plus-name: Fig.&#xA;fignos-caption-name: Imagen&#xA;tablenos-caption-name: Tabla&#xA;...&#xA;">
+  <children
+      xsi:type="canvas:CanvasModelImage"
+      id="id-985a817e97f745b88666b2ec619e24a5"
+      name="Image"
+      imagePath="images/_CI3MoI2cEe-ul8GTUwhrXQ.png">
+    <bounds
+        x="24"
+        y="36"
+        width="760"
+        height="384"/>
+  </children>
+  <properties
+      key="IncluyeRelaciones"
+      value="false"/>
+  <properties
+      key="IncludeRutaCompleta"
+      value="false"/>
+  <properties
+      key="IncludeProperties"
+      value="false"/>
+  <properties
+      key="IncludeViewElements"
+      value="false"/>
+  <properties
+      key="IncludeDocumentation"
+      value="true"/>
+  <properties
+      key="IncludeDiagram"
+      value="false"/>
+</canvas:CanvasModel>
