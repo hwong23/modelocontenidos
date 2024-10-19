@@ -29,7 +29,7 @@
       value="false"/>
   <properties
       key="IncludeDocumentation"
-      value="true"/>
+      value="false"/>
   <properties
       key="IncludeDiagram"
       value="false"/>
