@@ -64,7 +64,7 @@
     <bounds
         x="12"
         y="192"
-        width="732"
+        width="612"
         height="613"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -89,7 +89,7 @@
             href="AssociationRelationship_id-96b571714e414305a360ce9af28ad192.xml#id-96b571714e414305a360ce9af28ad192"/>
       </sourceConnections>
       <bounds
-          x="336"
+          x="228"
           y="183"
           width="120"
           height="55"/>
@@ -112,7 +112,7 @@
             href="AssociationRelationship_id-b2492fd4304643398f65a75136f3c323.xml#id-b2492fd4304643398f65a75136f3c323"/>
       </sourceConnections>
       <bounds
-          x="411"
+          x="303"
           y="300"
           width="120"
           height="55"/>
@@ -135,7 +135,7 @@
             href="AssociationRelationship_id-b2492fd4304643398f65a75136f3c323.xml#id-b2492fd4304643398f65a75136f3c323"/>
       </sourceConnections>
       <bounds
-          x="254"
+          x="146"
           y="300"
           width="120"
           height="55"/>
@@ -157,7 +157,7 @@
             href="AssociationRelationship_id-32aee3be3e494778bdbf55585d439769.xml#id-32aee3be3e494778bdbf55585d439769"/>
       </sourceConnections>
       <bounds
-          x="468"
+          x="360"
           y="183"
           width="72"
           height="55"/>
@@ -179,7 +179,7 @@
             href="AssociationRelationship_id-71cd7eb9685f48c6b58d6d27388ebf1f.xml#id-71cd7eb9685f48c6b58d6d27388ebf1f"/>
       </sourceConnections>
       <bounds
-          x="336"
+          x="228"
           y="60"
           width="360"
           height="55"/>
@@ -201,8 +201,8 @@
             href="AggregationRelationship_id-d17ed37b2f5242ffb4268de9f9fbabb8.xml#id-d17ed37b2f5242ffb4268de9f9fbabb8"/>
       </sourceConnections>
       <bounds
-          x="134"
-          y="384"
+          x="29"
+          y="420"
           width="240"
           height="157"/>
       <children
@@ -259,8 +259,8 @@
             href="AggregationRelationship_id-d17ed37b2f5242ffb4268de9f9fbabb8.xml#id-d17ed37b2f5242ffb4268de9f9fbabb8"/>
       </sourceConnections>
       <bounds
-          x="408"
-          y="384"
+          x="303"
+          y="420"
           width="240"
           height="157"/>
       <children
@@ -418,7 +418,7 @@
           href="CompositionRelationship_id-51bead11face40718db79edc356657be.xml#id-51bead11face40718db79edc356657be"/>
     </sourceConnections>
     <bounds
-        x="768"
+        x="648"
         y="192"
         width="816"
         height="613"/>
