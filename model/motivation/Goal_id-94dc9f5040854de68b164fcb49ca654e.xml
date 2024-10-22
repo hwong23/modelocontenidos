@@ -1,4 +1,5 @@
 <archimate:Goal
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Contractual"
-    id="id-94dc9f5040854de68b164fcb49ca654e"/>
+    id="id-94dc9f5040854de68b164fcb49ca654e"
+    documentation="1. Implementación de al menos 20 servicios de Interoperabilidad bajo un esquema de Bolsa de Horas con una cantidad de 1.960. Las horas remanentes serán utilizadas en el desarrollo de servicios adicionales&#xA;1. Los al menos 20 servicios desarrollados serán entregados documentados y contarán con una garantía de seis meses.&#xA;1. Para la implementación de los servicios de interoperabilidad con entidades externas se utilizará el modelo XROAD definido por el Ministerio de Tecnologías de la Información y Comunicaciones para intercambio de información entre entidades del estado.&#xA;"/>
