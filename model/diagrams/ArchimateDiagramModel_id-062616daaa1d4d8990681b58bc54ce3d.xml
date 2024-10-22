@@ -365,4 +365,13 @@
         xsi:type="archimate:Requirement"
         href="Requirement_id-e2409e7469d144df8fdacbc61b97fe8f.xml#id-e2409e7469d144df8fdacbc61b97fe8f"/>
   </children>
+  <properties
+      key="devdoc"
+      value="03.contd.vista.md"/>
+  <properties
+      key="alias"
+      value="requerimientos"/>
+  <properties
+      key="titulo"
+      value="Requerimientos de Integración JEP"/>
 </archimate:ArchimateDiagramModel>
