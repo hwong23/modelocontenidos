@@ -9,7 +9,7 @@
     <bounds
         x="36"
         y="24"
-        width="120"
+        width="157"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Requirement"
@@ -21,7 +21,7 @@
     <bounds
         x="36"
         y="96"
-        width="120"
+        width="157"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Requirement"
