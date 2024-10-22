@@ -1,0 +1,9 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Technology Service (copy)"
+    id="id-240f26ec92af4f6c9895c6de0dba647c"
+    documentation="1. La solución debe implementar la publicación de microservicios que generen múltiples API para plataformas y clientes específicos con las funciones específicas y protocolos requeridos por cada plataforma">
+  <properties
+      key="destino"
+      value="doc, tex, pdf, html"/>
+</archimate:TechnologyService>

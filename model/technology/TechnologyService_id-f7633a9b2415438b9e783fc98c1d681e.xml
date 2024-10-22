@@ -1,0 +1,8 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Technology Service (copy) (copy)"
+    id="id-f7633a9b2415438b9e783fc98c1d681e">
+  <properties
+      key="destino"
+      value="doc, tex, pdf, html"/>
+</archimate:TechnologyService>
