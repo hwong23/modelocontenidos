@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="REQR2. Condiciones tecnológicas JEP"
     id="id-e2409e7469d144df8fdacbc61b97fe8f"
-    documentation="...&#xA;"/>
+    documentation="...&#xA;">
+  <properties
+      key="destino"
+      value="doc, tex, pdf, html"/>
+</archimate:Requirement>

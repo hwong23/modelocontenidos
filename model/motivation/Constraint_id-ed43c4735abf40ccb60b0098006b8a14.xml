@@ -1,4 +1,8 @@
 <archimate:Constraint
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Levantamiento"
-    id="id-ed43c4735abf40ccb60b0098006b8a14"/>
+    id="id-ed43c4735abf40ccb60b0098006b8a14">
+  <properties
+      key="destino"
+      value="doc, tex, pdf, html"/>
+</archimate:Constraint>

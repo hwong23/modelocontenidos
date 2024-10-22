@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="REQR3. Integración con Sistema Conti"
     id="id-7db1139389d4454a9e4dd5de7bf83c70"
-    documentation="...&#xA;"/>
+    documentation="...&#xA;">
+  <properties
+      key="destino"
+      value="doc, tex, pdf, html"/>
+</archimate:Requirement>
