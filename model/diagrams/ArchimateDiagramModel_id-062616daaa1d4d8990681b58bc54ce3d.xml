@@ -8,8 +8,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-34bb88e58cda4f9d9f79dd4ae43ec13a"
       targetConnections="id-b9156c69427a4c5dad4153cfce8fc82b"
-      textAlignment="1"
-      type="1">
+      textAlignment="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-f6404e70044a4c72ae84e1f801391fa2"
@@ -45,7 +44,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-fc9b801afba84370a1d176a454019ada"
-        targetConnections="id-f6404e70044a4c72ae84e1f801391fa2">
+        targetConnections="id-f6404e70044a4c72ae84e1f801391fa2"
+        type="1">
       <bounds
           x="12"
           y="102"
@@ -88,8 +88,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-e18fd7585d704e9e8c94df5e2f92720b"
-      textAlignment="1"
-      type="1">
+      textAlignment="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-d5bb5969ec4247968f2914885a1cd5ac"
@@ -463,8 +462,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-2510e6be1b064af99d724cd49bdc03a4"
-      textAlignment="1"
-      type="1">
+      textAlignment="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-3877ba5c88ab4f369e85eb659457232f"
@@ -575,8 +573,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-a501445d3b8b4c2ca221414ebf3ecc08"
       targetConnections="id-6e23171be3c8457ea7b70f1e410f3352"
-      textAlignment="1"
-      type="1">
+      textAlignment="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-36ff3c0a91ca481e90bcf027c612f70e"
@@ -638,7 +635,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-2d4ba35b93f64428863385373797158b"
-        targetConnections="id-952eb3148e7a4344a89eb386638a7fb9">
+        targetConnections="id-952eb3148e7a4344a89eb386638a7fb9"
+        type="1">
       <bounds
           x="12"
           y="102"
