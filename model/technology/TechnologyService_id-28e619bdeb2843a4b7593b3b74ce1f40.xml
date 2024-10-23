@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Trazabilidad"
     id="id-28e619bdeb2843a4b7593b3b74ce1f40"
-    documentation="1. La solución debe implementar un mecanismo de hacer la trazabilidad, uso y registro de actividades de los microservicios. &#xA;1. Debe permitir la integración con un servicio de directorio corporativo que puede servir como administrador de identidad corporativa. Por lo tanto, la solución debe poder actuar como Administrador de acceso (Identity Access Manager - IaM) mientras que el Servicio de directorio sirve como Administrador e Identidades (Identity Manager - IdM).">
+    documentation="1. La solución debe implementar un mecanismo de hacer la trazabilidad, uso y registro de actividades de los microservicios. &#xA;">
   <properties
       key="destino"
       value="doc, tex, pdf, html"/>
