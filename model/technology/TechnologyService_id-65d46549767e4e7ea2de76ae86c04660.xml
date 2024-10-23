@@ -1,8 +1,8 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Technology Service (copy) (copy) (copy) (copy)"
+    name="Sistema de mensajes"
     id="id-65d46549767e4e7ea2de76ae86c04660"
-    documentation="1. Para permitir interoperabilidad debe habilitar transporte de mensajes y conectarse entre ellos. Los mecanismos de transporte deben incluir Java Messaging Service (JMS), Active MQ y asi mismo protocolos de comunicación tal como HTTP/HTTPS,SMTP, entre otros.&#xA;">
+    documentation="1. Para permitir interoperabilidad debe habilitar transporte de mensajes y conectarse entre ellos. Los mecanismos de transporte deben incluir Java Messaging Service (JMS), Active MQ y asi mismo protocolos de comunicación tal como HTTP/HTTPS, &#xA;SMTP, entre otros.&#xA;">
   <properties
       key="destino"
       value="doc, tex, pdf, html"/>

@@ -1,5 +1,5 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Node"
+    name="VM Node"
     id="id-02d04506125648468bff3d050aa3e24f"
     documentation="Nodo físico donde corren los procesos del sistema operativo.&#xA;"/>
