@@ -1,8 +1,8 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Technology Service (copy) (copy) (copy)"
+    name="Gestión de tokens de acceso"
     id="id-410d58d216ef417f93f92a109f886c0d"
-    documentation="1. Debe ser posible gestionar la creación de  un token de acceso, eligiendo su alcance, permiso y otras cualidades a nivel de autenticación.&#xA;">
+    documentation="1. Debe ser posible gestionar la creación de un token de acceso, eligiendo su alcance, permiso y otras cualidades a nivel de autenticación.&#xA;">
   <properties
       key="destino"
       value="doc, tex, pdf, html"/>
