@@ -38,8 +38,8 @@
           href="CompositionRelationship_id-2cc3d41f5376450c909152e69d44d8dd.xml#id-2cc3d41f5376450c909152e69d44d8dd"/>
     </sourceConnections>
     <bounds
-        x="12"
-        y="348"
+        x="24"
+        y="528"
         width="180"
         height="264"/>
     <children
@@ -244,8 +244,8 @@
           href="CompositionRelationship_id-2debf28d2bee4b38839ddd8682b5ff9b.xml#id-2debf28d2bee4b38839ddd8682b5ff9b"/>
     </sourceConnections>
     <bounds
-        x="414"
-        y="348"
+        x="426"
+        y="528"
         width="523"
         height="420"/>
     <children
@@ -511,8 +511,8 @@
           href="CompositionRelationship_id-c7b19213cff047adb96ad47ec48e5f7f.xml#id-c7b19213cff047adb96ad47ec48e5f7f"/>
     </sourceConnections>
     <bounds
-        x="414"
-        y="14"
+        x="426"
+        y="194"
         width="180"
         height="310"/>
     <children
@@ -605,8 +605,8 @@
           href="CompositionRelationship_id-2ee84ef797054c26bc4a3b3e3b6ee65e.xml#id-2ee84ef797054c26bc4a3b3e3b6ee65e"/>
     </sourceConnections>
     <bounds
-        x="12"
-        y="14"
+        x="24"
+        y="194"
         width="180"
         height="264"/>
     <children
@@ -666,8 +666,8 @@
           href="RealizationRelationship_id-9c66b134d46c42b087c1456ded861301.xml#id-9c66b134d46c42b087c1456ded861301"/>
     </sourceConnections>
     <bounds
-        x="228"
-        y="120"
+        x="240"
+        y="300"
         width="144"
         height="55"/>
     <archimateElement
@@ -688,13 +688,24 @@
           href="RealizationRelationship_id-d912c0cf11ac400e8d54e9d201d500f1.xml#id-d912c0cf11ac400e8d54e9d201d500f1"/>
     </sourceConnections>
     <bounds
-        x="228"
-        y="432"
+        x="240"
+        y="612"
         width="144"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Requirement"
         href="Requirement_id-e2409e7469d144df8fdacbc61b97fe8f.xml#id-e2409e7469d144df8fdacbc61b97fe8f"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-2698f2163d0b4017ac80da239bc611f0"
+      textAlignment="1"
+      content="Modelo de Requerimientos&#xA;Proyecto Integración JEP, 2024. Softgic.&#xA;&#xA;Requerimientos, condiciones técnicas, solución del proyecto Integración JEP, 2024.&#xA;&#xA;Versión 0.1.4">
+    <bounds
+        x="21"
+        y="12"
+        width="185"
+        height="80"/>
   </children>
   <properties
       key="devdoc"
