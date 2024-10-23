@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="04.ING.3n.3.a. Sistema de Mensajería Integración JEP. Ejemplo"
+    name="04.ING.3n.3n. Sistema de Mensajería Integración JEP. Ejemplo"
     id="id-ed6588a7668c4581ab4f312221f95b88"
     documentation="Comunicación entre aplicaciones o servicios desacolplados mediante mensajes de tipo solicitud, respuesta o excepción (request, response, exception).&#xA;">
   <children
