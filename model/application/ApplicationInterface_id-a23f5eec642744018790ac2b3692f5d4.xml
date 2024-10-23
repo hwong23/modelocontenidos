@@ -1,7 +1,7 @@
 <archimate:ApplicationInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Nodo Integración JEP"
-    id="id-af478d92ccae43a6b7856bacbd7c3bd2"
+    name="Nodo Intermediador"
+    id="id-a23f5eec642744018790ac2b3692f5d4"
     documentation="Nodo lógico en donde corren los contenedores.&#xA;">
   <properties
       key="modulo"
