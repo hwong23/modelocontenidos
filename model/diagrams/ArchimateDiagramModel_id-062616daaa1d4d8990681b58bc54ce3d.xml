@@ -246,16 +246,16 @@
     <bounds
         x="414"
         y="348"
-        width="439"
+        width="523"
         height="420"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-f56f80c3081a42dd9da1ca89513efa64"
         targetConnections="id-c9017a9505554fd7bdd623d1d39a0d39">
       <bounds
-          x="24"
+          x="12"
           y="36"
-          width="120"
+          width="157"
           height="55"/>
       <archimateElement
           xsi:type="archimate:TechnologyService"
@@ -266,9 +266,9 @@
         id="id-dc4267ff35bf4e65b76bca3e07b39195"
         targetConnections="id-076ccf807601457187ba2284ee6195ad">
       <bounds
-          x="24"
+          x="12"
           y="96"
-          width="120"
+          width="157"
           height="55"/>
       <archimateElement
           xsi:type="archimate:TechnologyService"
@@ -279,9 +279,9 @@
         id="id-763d1e7dc91e4480a5566ee119478404"
         targetConnections="id-e07e02a3ae65499d8dc5efc6670db5a6">
       <bounds
-          x="156"
+          x="180"
           y="36"
-          width="120"
+          width="157"
           height="55"/>
       <archimateElement
           xsi:type="archimate:TechnologyService"
@@ -292,9 +292,9 @@
         id="id-6f7491da9c6843a6a8333a738bfc4a76"
         targetConnections="id-0b9fecc6d95b472e867cdd2dde2ee078">
       <bounds
-          x="156"
+          x="180"
           y="96"
-          width="120"
+          width="157"
           height="55"/>
       <archimateElement
           xsi:type="archimate:TechnologyService"
@@ -305,9 +305,9 @@
         id="id-64980e3b97a94e72bcba381fb6cb11d0"
         targetConnections="id-360a1c3bf8bd4ee1897809aed04af93b">
       <bounds
-          x="288"
+          x="348"
           y="36"
-          width="120"
+          width="157"
           height="55"/>
       <archimateElement
           xsi:type="archimate:TechnologyService"
@@ -318,9 +318,9 @@
         id="id-ca337ae2ea674063a0c888c7f0e05c14"
         targetConnections="id-898acfff66554d1186296c3f85812207">
       <bounds
-          x="288"
+          x="348"
           y="96"
-          width="120"
+          width="157"
           height="55"/>
       <archimateElement
           xsi:type="archimate:TechnologyService"
@@ -331,9 +331,9 @@
         id="id-5ee6b23b81cb4452bb8db221a06cc7bb"
         targetConnections="id-32878a7230cd472cae95b9f85bbd9598">
       <bounds
-          x="24"
+          x="12"
           y="156"
-          width="120"
+          width="157"
           height="55"/>
       <archimateElement
           xsi:type="archimate:TechnologyService"
@@ -344,9 +344,9 @@
         id="id-ed041c2a711e4c52960194ec538db5ce"
         targetConnections="id-55f4031765984288aff86e584bb93b79">
       <bounds
-          x="156"
+          x="180"
           y="156"
-          width="120"
+          width="157"
           height="55"/>
       <archimateElement
           xsi:type="archimate:TechnologyService"
@@ -357,9 +357,9 @@
         id="id-6f259436038a4ef098565b17ed70bf73"
         targetConnections="id-7fbecf60dc8b4fd2bfa92ceb4681f555">
       <bounds
-          x="288"
+          x="348"
           y="156"
-          width="120"
+          width="157"
           height="55"/>
       <archimateElement
           xsi:type="archimate:TechnologyService"
@@ -370,9 +370,9 @@
         id="id-e243e569c49b4a8fae2fc911655d7df1"
         targetConnections="id-b076345b33ba42f9941d2ff61374bccf">
       <bounds
-          x="288"
+          x="348"
           y="216"
-          width="120"
+          width="157"
           height="55"/>
       <archimateElement
           xsi:type="archimate:TechnologyService"
@@ -383,9 +383,9 @@
         id="id-c7c4f0ee3177448a825bc923004216e2"
         targetConnections="id-00b18390cfda4043a19564a7fb866f03">
       <bounds
-          x="24"
+          x="12"
           y="216"
-          width="120"
+          width="157"
           height="55"/>
       <archimateElement
           xsi:type="archimate:TechnologyService"
@@ -396,9 +396,9 @@
         id="id-08bdd2ecb6384c96bda7880df59b8ea0"
         targetConnections="id-4ea7ffc6bc0f4904be6f1d75ce7d6f8a">
       <bounds
-          x="156"
+          x="180"
           y="216"
-          width="120"
+          width="157"
           height="55"/>
       <archimateElement
           xsi:type="archimate:TechnologyService"
@@ -409,9 +409,9 @@
         id="id-d3ff07d74adf4bc38e4871d57434c9dd"
         targetConnections="id-a80092ba563e4c8c8c4eee60f8497c8b">
       <bounds
-          x="24"
+          x="12"
           y="276"
-          width="120"
+          width="157"
           height="55"/>
       <archimateElement
           xsi:type="archimate:TechnologyService"
@@ -422,9 +422,9 @@
         id="id-7b75d2a1945b4113b6eccb8231cddb4f"
         targetConnections="id-4ceece0ada2c4a9b92db922574c74527">
       <bounds
-          x="156"
+          x="180"
           y="276"
-          width="120"
+          width="157"
           height="55"/>
       <archimateElement
           xsi:type="archimate:TechnologyService"
@@ -435,9 +435,9 @@
         id="id-f64c510fe5d249bb803a3b959a164563"
         targetConnections="id-9e4523274b474865bc40bc471562ac1a">
       <bounds
-          x="24"
+          x="12"
           y="336"
-          width="120"
+          width="157"
           height="55"/>
       <archimateElement
           xsi:type="archimate:TechnologyService"
@@ -448,9 +448,9 @@
         id="id-e938f3ffe6e74e2e82bde709e33e9d2c"
         targetConnections="id-23f56ddae724453ea071e4be6aa338c9">
       <bounds
-          x="288"
+          x="348"
           y="276"
-          width="120"
+          width="157"
           height="55"/>
       <archimateElement
           xsi:type="archimate:TechnologyService"
