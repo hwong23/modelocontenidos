@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Requerimientos integración JEP"
     id="id-b003373a7075499ab7fd88cd223a3978"
-    documentation="Gestión de requerimientos del proyecto de integración JEP, 2024&#xA;&#xA;* Implementación de 20 o más servicios de integración a 31 de diciembre del 2024.&#xA;* (no va) Pasar los servicios existntes de modelo integración directa (EIA) a integración empresarial/bus (EIP).&#xA;* Condiciones tecnológicas JEP a la solución de integración&#xA;&#xA;&#xA;**Nota**: en el Anexo Nro. 1.1 – Anexo técnico evolución plataforma de interoperabilidad – Ficha Técnica la hoja “Categorías de Cotización” contiene las necesidades a contratar en el ámbito de la evolución tecnológica del modelo de interoperabilidad y los desarrollos de interoperabilidad tanto con sistemas internos, como con entidades externas.&#xA;">
+    documentation="Del alcance del proyecto&#xA;1. Implementación de 20 o más servicios de integración al 31 de diciembre del 2024.&#xA;1. Soporte solución de integración a julio 2025.&#xA;&#xA;En donde el componente no. 1 del alcance es&#xA;&#xA;* Desarrollar úncamente nuevos servicios de integración con el patrón de integración empresarial (ESB, Camel)&#xA;* Implementar las condiciones tecnológicas JEP, entendido como requerimientos no funcionales de arquitectura, a la solución de integración del Anexo Nro. 1.1 – Anexo técnico evolución plataforma de interoperabilidad – Ficha Técnica&#xA;&#xA;&#xA;No es del alcance de este proyecto los requerimientos de migrar los servicios existentes de modelo integración directa (EIA) esta solución de integración empresarial.&#xA;">
   <properties
       key="destino"
       value="doc, tex, ppt"/>
