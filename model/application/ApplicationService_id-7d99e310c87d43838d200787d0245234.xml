@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SINT10. Xyz"
+    id="id-7d99e310c87d43838d200787d0245234"
+    documentation="Tareas de desarrollo&#xA;&#xA;* Interoperabilidad IOP1. Transporte / Entrega Consulta Negocio &#x9;&#xA;* Modelo de datos (XML, RBDMS, …)&#xA;* Esquema de datos (XSD, DTD, JSON-E…)&#xA;* Contratos de interoperabilidad (WSDL, API…)&#xA;* Mensajes petición IN (API, XML…)&#xA;* Mensajes respuesta OUT (API, XML…)&#xA;* Mensajes excepción (API, XML…)&#xA;* Transporte (REST, SOAP)&#xA;* Función lógica (JEE, …)&#xA;* Registro y envío de actividad&#xA;">
+  <properties
+      key="destino"
+      value="doc, tex, pdf, html"/>
+</archimate:ApplicationService>

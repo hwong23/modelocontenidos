@@ -1,7 +1,7 @@
 <archimate:Requirement
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="REQR3. Integración con Sistema Conti x Plani"
-    id="id-7db1139389d4454a9e4dd5de7bf83c70"
+    name="REQR11. Integración (envío de peticiones LEGALi x CONTi"
+    id="id-d032e8dbb21a4024acb34f75c10adda6"
     documentation="Reqr. nuevo, Conti Legali, 2 ssrvc&#xA;Reqr. nuevo, Legali Protecti, 2 ssrvc&#xA;&#xA;">
   <properties
       key="destino"

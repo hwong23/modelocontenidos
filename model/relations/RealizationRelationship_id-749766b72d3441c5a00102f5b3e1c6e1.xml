@@ -1,0 +1,14 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-749766b72d3441c5a00102f5b3e1c6e1">
+  <properties
+      key="destino"
+      value="doc, tex, pdf, html"/>
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-cd1812f423d9453b9e4b79d2d924b2a3.xml#id-cd1812f423d9453b9e4b79d2d924b2a3"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-d032e8dbb21a4024acb34f75c10adda6.xml#id-d032e8dbb21a4024acb34f75c10adda6"/>
+</archimate:RealizationRelationship>
