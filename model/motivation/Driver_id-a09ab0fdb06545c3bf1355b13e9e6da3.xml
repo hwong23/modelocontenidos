@@ -1,4 +1,8 @@
 <archimate:Driver
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Integrar operaciones Conti"
-    id="id-a09ab0fdb06545c3bf1355b13e9e6da3"/>
+    id="id-a09ab0fdb06545c3bf1355b13e9e6da3">
+  <properties
+      key="destino"
+      value="doc, tex, pdf, html"/>
+</archimate:Driver>

@@ -1,4 +1,8 @@
 <archimate:Deliverable
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Integración Conti"
-    id="id-83cfa05810d3482695d35ab033e6c189"/>
+    id="id-83cfa05810d3482695d35ab033e6c189">
+  <properties
+      key="destino"
+      value="doc, tex, pdf, html"/>
+</archimate:Deliverable>
