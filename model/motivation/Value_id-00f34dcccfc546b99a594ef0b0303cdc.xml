@@ -3,6 +3,5 @@
     name="Salida Versión 0.1.1"
     id="id-00f34dcccfc546b99a594ef0b0303cdc">
   <properties
-      key="destino"
-      value="doc, tex, pdf, html"/>
+      key="destino"/>
 </archimate:Value>

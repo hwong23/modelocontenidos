@@ -3,6 +3,5 @@
     name="Iteración 1"
     id="id-350ac1088f574d97ae800f5b7b58a0dc">
   <properties
-      key="destino"
-      value="doc, tex, pdf, html"/>
+      key="destino"/>
 </archimate:WorkPackage>

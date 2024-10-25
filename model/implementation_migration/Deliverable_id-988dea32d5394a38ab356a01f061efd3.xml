@@ -3,6 +3,5 @@
     name="HU01. "
     id="id-988dea32d5394a38ab356a01f061efd3">
   <properties
-      key="destino"
-      value="doc, tex, pdf, html"/>
+      key="destino"/>
 </archimate:Deliverable>
