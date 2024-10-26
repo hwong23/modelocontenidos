@@ -33,4 +33,13 @@
   <properties
       key="IncludeDiagram"
       value="false"/>
+  <properties
+      key="alias"
+      value="infodoc"/>
+  <properties
+      key="devdoc"
+      value="00.infodoc.md"/>
+  <properties
+      key="titulo"
+      value="Información del Documento"/>
 </canvas:CanvasModel>
