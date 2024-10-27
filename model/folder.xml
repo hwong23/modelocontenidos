@@ -12,7 +12,8 @@
   <properties
       key="gh-pages"/>
   <properties
-      key="reporte"/>
+      key="reporte"
+      value="JEP"/>
   <profiles
       name="Specialization 1"
       id="id-438ced40f7c24a91bfaaa9a1315e7d8f"
