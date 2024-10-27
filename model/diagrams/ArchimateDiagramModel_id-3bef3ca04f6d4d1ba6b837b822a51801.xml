@@ -372,4 +372,10 @@
   <properties
       key="titulo"
       value="Roles y Division de Trabajo del Proyecto"/>
+  <properties
+      key="alias"
+      value="roles"/>
+  <properties
+      key="devdoc"
+      value="01.roles.md"/>
 </archimate:ArchimateDiagramModel>

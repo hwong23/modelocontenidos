@@ -933,4 +933,10 @@
   <properties
       key="titulo"
       value="Modelo de Producción e Implementación de Integración JEP"/>
+  <properties
+      key="alias"
+      value="modeloprodcc"/>
+  <properties
+      key="devdoc"
+      value="02.1b.modeloprodcc.md"/>
 </archimate:ArchimateDiagramModel>

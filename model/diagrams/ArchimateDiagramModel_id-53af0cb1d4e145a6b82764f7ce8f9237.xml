@@ -845,13 +845,9 @@
   </children>
   <properties
       key="devdoc"
-      value="02.prop.contenedores.md"/>
+      value="03.2.contenedores.md"/>
   <properties
       key="gh-pages"/>
-  <properties
-      key="modulo"/>
-  <properties
-      key="rutaMacHTML"/>
   <properties
       key="rutaMacMD"/>
   <properties
