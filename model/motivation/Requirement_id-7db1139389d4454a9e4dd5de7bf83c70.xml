@@ -1,8 +1,8 @@
 <archimate:Requirement
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="REQR3. Integración con Sistema Conti"
+    name="REQR3. Integración con Sistema Conti x Plani"
     id="id-7db1139389d4454a9e4dd5de7bf83c70"
-    documentation="...&#xA;">
+    documentation="Atendiendo la necesidad de la Subdirección de Contratación de implementar el flujo de gestión precontractual en el sistema de Gestión Documental - Conti se requiere contar con la información de los ítems del Plan Anual de Adquisiciones – PAA para iniciar el proceso, la cual se encuentra gestionada en el Sistema de Gestión y Planeación Institucional PLANi.&#xA;">
   <properties
       key="destino"
       value="doc, tex, pdf, html"/>

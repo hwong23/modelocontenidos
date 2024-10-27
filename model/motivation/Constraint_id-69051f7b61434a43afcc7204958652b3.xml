@@ -1,0 +1,8 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Levantamiento (copy)"
+    id="id-69051f7b61434a43afcc7204958652b3">
+  <properties
+      key="destino"
+      value="doc, tex, pdf, html"/>
+</archimate:Constraint>

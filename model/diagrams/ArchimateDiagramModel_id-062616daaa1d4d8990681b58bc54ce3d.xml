@@ -664,9 +664,9 @@
           href="RealizationRelationship_id-9c66b134d46c42b087c1456ded861301.xml#id-9c66b134d46c42b087c1456ded861301"/>
     </sourceConnections>
     <bounds
-        x="240"
+        x="228"
         y="300"
-        width="144"
+        width="169"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Requirement"
@@ -702,8 +702,8 @@
     <bounds
         x="21"
         y="12"
-        width="185"
-        height="80"/>
+        width="244"
+        height="145"/>
   </children>
   <properties
       key="devdoc"
