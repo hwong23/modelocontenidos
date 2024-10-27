@@ -1,7 +1,8 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gestión Integración"
-    id="id-2f540f47e8f7466cbbc5177fef355ce0">
+    id="id-2f540f47e8f7466cbbc5177fef355ce0"
+    documentation="doc.">
   <properties
       key="destino"
       value="doc, tex, ppt"/>
