@@ -523,15 +523,11 @@
   <properties
       key="gh-pages"/>
   <properties
-      key="modulo"/>
-  <properties
-      key="rutaMacHTML"/>
-  <properties
       key="rutaMacMD"/>
   <properties
       key="alias"
       value="contexto"/>
   <properties
       key="destino"
-      value="doc, tex, ppt"/>
+      value="doc, tex, ppt, pdf"/>
 </archimate:ArchimateDiagramModel>
