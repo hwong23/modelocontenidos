@@ -228,6 +228,43 @@
         xsi:type="archimate:Grouping"
         href="Grouping_id-ac150dba62ec4f03b6727aa627ff29a6.xml#id-ac150dba62ec4f03b6727aa627ff29a6"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-e2e6e8f9c00f47538f7163024c7ac181"
+      textAlignment="1">
+    <bounds
+        x="660"
+        y="600"
+        width="373"
+        height="132"/>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-06c38d4e91554f18a60389f4f43cf17b">
+      <bounds
+          x="192"
+          y="48"
+          width="157"
+          height="55"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-203e737545e449e59334b47d3034d956.xml#id-203e737545e449e59334b47d3034d956"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-44d2bb5ced4944f998ee6ffd8d9e21fb">
+      <bounds
+          x="24"
+          y="48"
+          width="157"
+          height="55"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-c31668d4d5dd44309f42fdd5fb2a7a53.xml#id-c31668d4d5dd44309f42fdd5fb2a7a53"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-122c9d4bea554070bc9d001cd893b6df.xml#id-122c9d4bea554070bc9d001cd893b6df"/>
+  </children>
   <properties
       key="alias"
       value="jepdocproyecto"/>

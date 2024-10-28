@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="06.ENTRG.1n.1a.1. Despliegue"
     id="id-203e737545e449e59334b47d3034d956"
-    documentation="Documento de requerimientos, primera versión de entregas del proyecto Integraciones JEP, 2024.&#xA;&#xA;El requerimiento Integración con Sistema Conti x Plani (REQR3, en la imagen) será entregado con la primera versión que se libere de la solución de integración, actualmente en desarrollo por Softgic.&#xA;&#xA;Este requerimiento REQR3 consta de dos iteraciones (Iteración 1 y 2, en la imagen), las cuales a su vez, realizarán dos historias de integración cada una (HU01, HU02, HU03, HU04, respectivamente). &#xA;&#xA;Una vez concluidas la ejecución de las dos iteraciones, y sus historias de integración contenidas, realizaremos la entrega de los 4 primeros servicios de integración desplegables en el namespace de Openshift de desarrollo de la JEP.&#xA;">
+    documentation="Los servicios implementados contenidos en los requeriientos se pueden desplegar sobre la red de unidades de despliegue (pods) dispuesta por la JEP y acordada con el contratista.&#xA;&#xA;Así las cosas, los servicios implementados pueden ser desplegados en uno o varios contenedores y unidades de despliegue (pods) distintas.&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-6deb08e6d2fa4252bc21d90d6164f673"
@@ -254,7 +254,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-a067cc3ceb194358be19c4524686dfab"
       textAlignment="1"
-      content="Integraciones JEP, 2024&#xA;&#xA;Integración JEP. Softgic. Plan de Entregas del proyecto de integración y despliegue JEP, iteraciones y Entregables por versión.&#xA;&#xA;versión 0.1.21&#xA;">
+      content="Integraciones JEP, 2024&#xA;&#xA;Integración JEP. Softgic. Plan de Entregas del proyecto de integración y despliegue JEP, iteraciones y Entregables por versión.&#xA;&#xA;versión 0.1.11&#xA;">
     <bounds
         x="24"
         y="12"
@@ -589,5 +589,5 @@
       value="06.ENTRG.1n.modeloentregas.md"/>
   <properties
       key="titulo"
-      value="Plan de Entregas del Requerimiento"/>
+      value="Despliegue de Entregas de Requerimientos"/>
 </archimate:ArchimateDiagramModel>
