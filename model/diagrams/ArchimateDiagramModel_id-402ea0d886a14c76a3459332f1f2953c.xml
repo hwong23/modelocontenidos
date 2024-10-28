@@ -3,12 +3,12 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="04.ING.3n.3. Sistema de Mensajería Integración JEP"
     id="id-402ea0d886a14c76a3459332f1f2953c"
-    documentation="Comunicación entre aplicaciones o servicios desacolplados mediante mensajes de tipo solicitud, respuesta o excepción (request, response, exception).&#xA;">
+    documentation="Comunicación entre aplicaciones o servicios desacolplados mediante mensajes de tipo solicitud, respuesta o excepción (request, response, exception).&#xA;&#xA;El patrón principal de integración es el de Red Troncal de Comunicaciones (Nodo Intermediador en el diagrama): a medida que más y más aplicaciones de la empresa se conectan al sistema de mensajería y hacen que su funcionalidad esté disponible a través de la mensajería, el sistema de mensajería se convierte en un punto centralizado, ventanilla única, para la funcionalidad en la empresa. Una nueva aplicación simplemente necesita saber qué canales usar para solicitar funcionalidad y cuáles otros escuchar para obtener los resultados. El propio sistema de mensajería se convierte esencialmente en un bus de mensajes, una columna vertebral que proporciona acceso a todas las diversas y cambiantes aplicaciones y funcionalidades de la empresa. Puedes lograr este nirvana de integración más rápida y fácilmente si diseñas específicamente para ello desde el principio.&#xA;&#xA;">
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-6b21962aa04743979c5e1b3ff54858c8"
       textAlignment="1"
-      content="Integraciones JEP, 2024&#xA;&#xA;Integración JEP. Softgic. Sistema de Mensajería Integración JEP. Elementos del sistema de mensajería.&#xA;&#xA;versión 0.1.25&#xA;">
+      content="Integraciones JEP, 2024&#xA;&#xA;Integración JEP. Softgic. Sistema de Mensajería Integración JEP. Elementos del sistema de mensajería.&#xA;&#xA;versión 0.1.27&#xA;">
     <bounds
         x="12"
         y="12"
