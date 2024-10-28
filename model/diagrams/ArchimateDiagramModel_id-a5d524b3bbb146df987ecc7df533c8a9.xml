@@ -71,15 +71,15 @@
         height="132"/>
     <children
         xsi:type="archimate:DiagramModelReference"
-        id="id-d7565b5c959d4184a8dbeb2ea65261ff">
+        id="id-848bdba7e7d949e59350cc075041ebf0">
       <bounds
-          x="24"
+          x="48"
           y="36"
           width="120"
           height="55"/>
       <referencedModel
           xsi:type="canvas:CanvasModel"
-          href="CanvasModel_id-44c480a129bc44a896f3cc35487b0dbf.xml#id-44c480a129bc44a896f3cc35487b0dbf"/>
+          href="CanvasModel_id-3f7658eb46484025a8c20fbe993dd6e7.xml#id-3f7658eb46484025a8c20fbe993dd6e7"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"
