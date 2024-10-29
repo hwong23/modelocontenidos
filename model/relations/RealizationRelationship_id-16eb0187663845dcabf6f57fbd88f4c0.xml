@@ -1,11 +1,12 @@
-<archimate:AssociationRelationship
+<archimate:RealizationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-6e020c3b9402475cb098b32b8be9fedb">
+    name="ejecuta"
+    id="id-16eb0187663845dcabf6f57fbd88f4c0">
   <source
-      xsi:type="archimate:Plateau"
-      href="Plateau_id-ae2f7f08e94e4989a52c182640845773.xml#id-ae2f7f08e94e4989a52c182640845773"/>
+      xsi:type="archimate:WorkPackage"
+      href="WorkPackage_id-de8e4bfe41ee4146a6ae98c265a30f06.xml#id-de8e4bfe41ee4146a6ae98c265a30f06"/>
   <target
       xsi:type="archimate:ValueStream"
       href="ValueStream_id-9e3e38cae2f8407d9436935540d6a24a.xml#id-9e3e38cae2f8407d9436935540d6a24a"/>
-</archimate:AssociationRelationship>
+</archimate:RealizationRelationship>
