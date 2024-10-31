@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="05.REQR.1n.4n. Casos de Uso "
     id="id-eb0cac3ffa954ca0aa6a48e757b4d309"
-    documentation="---&#xA;title: Especificación de Integraciones (caso de uso)&#xA;subtitle: Implementación Proyecto Evolución de Interoperabilidad JEP, Softgic&#xA;subject: Implementación Proyecto&#xA;author: ${DEVDOCS_AUTOR}&#xA;date: 2024-09-16&#xA;keywords: [Integración, Interoperabilidad, JEP, Softgic]&#xA;header-left: include/jeplogo.jpg&#xA;geometry:&#xA;  - top=1in&#xA;  - bottom=1in&#xA;fignos-cleveref: True&#xA;fignos-plus-name: Fig.&#xA;fignos-caption-name: Imagen&#xA;tablenos-caption-name: Tabla&#xA;...&#xA;&#xA;Documentación de los casos de uso de integración del proyecto JEP relacionados con los requerimientos. &#xA;&#xA;Fuente: Justificativo de la Contratación Invitación Pública.&#xA;">
+    documentation="---&#xA;title: Especificación de Integraciones (caso de uso)&#xA;subtitle: Implementación Proyecto Evolución de Interoperabilidad JEP, Softgic&#xA;subject: Implementación Proyecto&#xA;author: ${DEVDOCS_AUTOR}&#xA;date: 2024-09-16&#xA;keywords: [Integración, Interoperabilidad, JEP, Softgic]&#xA;titlepage: true&#xA;header-left: include/jeplogo.jpg&#xA;geometry:&#xA;  - top=1in&#xA;  - bottom=1in&#xA;fignos-cleveref: True&#xA;fignos-plus-name: Fig.&#xA;fignos-caption-name: Imagen&#xA;tablenos-caption-name: Tabla&#xA;...&#xA;&#xA;Documentación de los casos de uso de integración del proyecto JEP relacionados con los requerimientos. &#xA;&#xA;Fuente: Justificativo de la Contratación Invitación Pública.&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-dff168e0c91d492ab9cf896897ec900b"
