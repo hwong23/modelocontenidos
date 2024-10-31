@@ -1,4 +1,8 @@
 <archimate:Deliverable
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="HU.SINT2. Integración. Consulta ítem de Conti"
-    id="id-43a0085d2add4aa38bce62f363f7a179"/>
+    id="id-43a0085d2add4aa38bce62f363f7a179">
+  <properties
+      key="destino"
+      value="doc, pdf, tex, ppt"/>
+</archimate:Deliverable>
