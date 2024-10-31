@@ -1,9 +1,0 @@
-<archimate:Requirement
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="REQR12. Integración Legali x Protecti (copy)"
-    id="id-1f0314eeaa514788b3695e6b4211c75e"
-    documentation="Reqr. nuevo, Conti Legali, 2 ssrvc&#xA;Reqr. nuevo, Legali Protecti, 2 ssrvc&#xA;&#xA;">
-  <properties
-      key="destino"
-      value="doc, tex, pdf, html"/>
-</archimate:Requirement>
