@@ -1,8 +1,0 @@
-<archimate:Value
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Entrega (copy)"
-    id="id-f681f9ccd9cf42ab8415ec07e57a22b8">
-  <properties
-      key="destino"
-      value="doc, tex, pdf, html"/>
-</archimate:Value>
