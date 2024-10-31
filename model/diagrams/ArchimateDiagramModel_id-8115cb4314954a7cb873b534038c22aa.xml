@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="05.REQR.1n.3n. Casos de Uso (copy)"
+    name="05.REQR.1n.3n. Casos de Uso"
     id="id-8115cb4314954a7cb873b534038c22aa"
     documentation="Documentación de los casos de uso de integración del proyecto JEP relacionados con los requerimientos. &#xA;&#xA;Fuente: Justificativo de la CONTRATACIÓN INVITACIÓN PÚBLICA&#xA;">
   <children
@@ -11,8 +11,8 @@
     <bounds
         x="21"
         y="180"
-        width="593"
-        height="469"/>
+        width="556"
+        height="409"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-1a0f23ea6f064439b6083cdec3f39bb4"
@@ -36,8 +36,8 @@
             href="RealizationRelationship_id-7ce831d9d2e4464dadc487cb1254e4d2.xml#id-7ce831d9d2e4464dadc487cb1254e4d2"/>
       </sourceConnections>
       <bounds
-          x="21"
-          y="96"
+          x="24"
+          y="48"
           width="244"
           height="145"/>
       <children
@@ -80,8 +80,8 @@
             href="RealizationRelationship_id-8ad536a738e14aaa8509a63d759427ef.xml#id-8ad536a738e14aaa8509a63d759427ef"/>
       </sourceConnections>
       <bounds
-          x="276"
-          y="96"
+          x="279"
+          y="48"
           width="244"
           height="145"/>
       <children
@@ -124,8 +124,8 @@
             href="RealizationRelationship_id-6bfbd27c037a4586bdc13200fe66b9ca.xml#id-6bfbd27c037a4586bdc13200fe66b9ca"/>
       </sourceConnections>
       <bounds
-          x="20"
-          y="252"
+          x="23"
+          y="204"
           width="244"
           height="145"/>
       <children
@@ -168,8 +168,8 @@
             href="RealizationRelationship_id-2ac8ac46de744de09514289c4997016f.xml#id-2ac8ac46de744de09514289c4997016f"/>
       </sourceConnections>
       <bounds
-          x="276"
-          y="252"
+          x="279"
+          y="204"
           width="244"
           height="145"/>
       <children
@@ -197,7 +197,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-440f84ce9482421190870c8b70e8a6b6"
       textAlignment="1"
-      content="Casos de Uso&#xA;Proyecto Integración JEP, 2024. Softgic.&#xA;&#xA;Requerimientos, condiciones técnicas, solución del proyecto Integración JEP, 2024.&#xA;&#xA;Versión 0.1.6">
+      content="Casos de Uso&#xA;Proyecto Integración JEP, 2024. Softgic.&#xA;&#xA;Requerimientos, condiciones técnicas, solución del proyecto Integración JEP, 2024.&#xA;&#xA;Versión 0.1.9">
     <bounds
         x="21"
         y="12"
