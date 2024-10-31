@@ -215,5 +215,5 @@
       value="Casos de Uso del Proyecto"/>
   <properties
       key="plantillaElm"
-      value="elementsimple-md,elementsimple-fila-md"/>
+      value="elementsimple-md,elementsimple-txt-md"/>
 </archimate:ArchimateDiagramModel>
