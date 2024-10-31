@@ -1,8 +1,8 @@
 <archimate:Deliverable
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Deliverable"
+    name="Caso de Uso (de integración)"
     id="id-7fa84c5764344b83b9afa79c5540efcf"
-    documentation="### Caso de Uso (de integración)&#xA;App A requiere integrar Información [I] | Funcionalidad [F] | Servicios [S] con la App B, C, D…&#xA;&#xA;&#xA;### Elementos&#xA;Elegir y describir los elementos de la actual integración.&#xA;&#xA;* [ ] App consumidora (A)&#xA;* [ ] Mensaje&#xA;* [ ] Canal&#xA;* [ ] Ruteo&#xA;* [ ] Traducción&#xA;* [ ] App proveedora (B)&#xA;* [ ] Monitoreo&#xA;&#xA;&#xA;### Diseño&#xA;Message Construct | Message Routing | Message Transformation | Messaging Endpoints | Messaging Channels | …&#xA;&#xA;&#xA;### Matriz de interoperabilidad&#xA;Detalle del intercambio entre sistemas de información o aplicaciones. &#xA;&#xA;Sistema A comparte información, funcionalidad o servicios con Sistema B.&#xA;&#xA;### Pruebas Realizables&#xA;Resultado del intercambio entre sistemas de información o aplicaciones según la Matriz de interoperabilidad.&#xA;">
+    documentation="App A requiere integrar Información [I] | Funcionalidad [F] | Servicios [S] con la App B, C, D…&#xA;&#xA;&#xA;### Elementos&#xA;Elegir y describir los elementos de la actual integración.&#xA;&#xA;* [ ] App consumidora (A)&#xA;* [ ] Mensaje&#xA;* [ ] Canal&#xA;* [ ] Ruteo&#xA;* [ ] Traducción&#xA;* [ ] App proveedora (B)&#xA;* [ ] Monitoreo&#xA;&#xA;&#xA;### Diseño&#xA;Message Construct | Message Routing | Message Transformation | Messaging Endpoints | Messaging Channels | …&#xA;&#xA;&#xA;### Matriz de interoperabilidad&#xA;Detalle del intercambio entre sistemas de información o aplicaciones. &#xA;&#xA;Sistema A comparte información, funcionalidad o servicios con Sistema B.&#xA;&#xA;### Pruebas Realizables&#xA;Resultado del intercambio entre sistemas de información o aplicaciones según la Matriz de interoperabilidad.&#xA;">
   <properties
       key="destino"
       value="doc, pdf, tex, ppt"/>
