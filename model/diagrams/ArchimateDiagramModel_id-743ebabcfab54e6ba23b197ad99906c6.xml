@@ -8,7 +8,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-1d01135f1e3549d78c7529f25c08140b"
       textAlignment="1"
-      content="Modelo de Requerimientos&#xA;Proyecto Integración JEP, 2024. Softgic.&#xA;&#xA;Requerimientos, condiciones técnicas, solución del proyecto Integración JEP, 2024.&#xA;&#xA;Versión 0.1.24">
+      content="Casos de Uso&#xA;Proyecto Integración JEP, 2024. Softgic.&#xA;&#xA;Requerimientos, condiciones técnicas, solución del proyecto Integración JEP, 2024.&#xA;&#xA;Versión 0.1.2">
     <bounds
         x="21"
         y="12"
@@ -94,8 +94,8 @@
       value="03.contd.vista.md"/>
   <properties
       key="alias"
-      value="requerimientos"/>
+      value="cu"/>
   <properties
       key="titulo"
-      value="Requerimientos de Integración JEP"/>
+      value="Casos de Uso del Proyecto"/>
 </archimate:ArchimateDiagramModel>
