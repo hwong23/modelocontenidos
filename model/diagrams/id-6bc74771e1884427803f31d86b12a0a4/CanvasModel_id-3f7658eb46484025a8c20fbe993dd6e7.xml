@@ -30,7 +30,4 @@
   <properties
       key="titulo"
       value="Versión del Documento"/>
-  <properties
-      key="plantilla"
-      value="documentation-md-vd-tex"/>
 </canvas:CanvasModel>
