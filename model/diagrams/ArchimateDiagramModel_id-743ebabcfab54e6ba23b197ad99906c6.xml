@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="05.REQR.1n.3n. Casos de Uso"
     id="id-743ebabcfab54e6ba23b197ad99906c6"
-    documentation="Para la implementación de los ítems relacionados en el Anexo Nro. 1.1 – Anexo técnico evolución plataforma de interoperabilidad – Ficha Técnica la hoja “Categorías de Cotización” contiene las necesidades a contratar en el ámbito de la evolución tecnológica del modelo de interoperabilidad y los desarrollos de interoperabilidad tanto con sistemas internos, como con entidades externas. En la hoja “Estándares Desarrollo y Producto” del archivo mencionado se indican los estándares recomendados por el fabricante, para tener en cuenta en la entrega de los servicios que se cotizan.&#xA;&#xA;El Anexo Nro. 1.2 – Acuerdos de Niveles de Servicio, explica el procedimiento con el que se dará atención a consultas o solución de incidencias, tanto en los sistemas operativos, como en los servicios de interoperabilidad existentes en la actualidad y aquellos que se contratarán en este proceso, en el sistema Bus de Interoperabilidad implementado en la Jurisdicción Especial para la Paz.&#xA;&#xA;-- Documento: JUSTIFICATIVO DE LA CONTRATACIÓN INVITACIÓN PÚBLICA&#xA;&#xA;">
+    documentation="Para la implementación de los ítems relacionados en el Anexo Nro. 1.1 – Anexo técnico evolución plataforma de interoperabilidad – Ficha Técnica la hoja “Categorías de Cotización” contiene las necesidades a contratar en el ámbito de la evolución tecnológica del modelo de interoperabilidad y los desarrollos de interoperabilidad tanto con sistemas internos, como con entidades externas. En la hoja “Estándares Desarrollo y Producto” del archivo mencionado se indican los estándares recomendados por el fabricante, para tener en cuenta en la entrega de los servicios que se cotizan.&#xA;&#xA;El Anexo Nro. 1.2 – Acuerdos de Niveles de Servicio, explica el procedimiento con el que se dará atención a consultas o solución de incidencias, tanto en los sistemas operativos, como en los servicios de interoperabilidad existentes en la actualidad y aquellos que se contratarán en este proceso, en el sistema Bus de Interoperabilidad implementado en la Jurisdicción Especial para la Paz.&#xA;&#xA;-- Documento: Justificativo de la CONTRATACIÓN INVITACIÓN PÚBLICA&#xA;&#xA;">
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-1d01135f1e3549d78c7529f25c08140b"
@@ -39,7 +39,7 @@
         targetConnections="id-87d3cb0fd5e74d0382dd0be7d18aa14a">
       <bounds
           x="96"
-          y="36"
+          y="48"
           width="120"
           height="55"/>
       <archimateElement
@@ -54,11 +54,33 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-89abc167b9c34650bd5a24c74905bf71"
       type="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-739169990d134a66bbb339c4ba1b053d"
+        source="id-89abc167b9c34650bd5a24c74905bf71"
+        target="id-794fda28bbfd466680ad3570ea898498">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-c93968e32595464f9f6001a4be7cf72a.xml#id-c93968e32595464f9f6001a4be7cf72a"/>
+    </sourceConnections>
     <bounds
-        x="21"
-        y="456"
-        width="168"
-        height="55"/>
+        x="276"
+        y="180"
+        width="244"
+        height="145"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-794fda28bbfd466680ad3570ea898498"
+        targetConnections="id-739169990d134a66bbb339c4ba1b053d">
+      <bounds
+          x="96"
+          y="48"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:Deliverable"
+          href="Deliverable_id-50a8358dc10a40cf9496597ec23a1dc8.xml#id-50a8358dc10a40cf9496597ec23a1dc8"/>
+    </children>
     <archimateElement
         xsi:type="archimate:Deliverable"
         href="Deliverable_id-43a0085d2add4aa38bce62f363f7a179.xml#id-43a0085d2add4aa38bce62f363f7a179"/>
@@ -67,11 +89,33 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-baa2398cc3594268ad26bef6b9dbc715"
       type="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-13b4c8fbaa8a4387a88a959c33bdcbdb"
+        source="id-baa2398cc3594268ad26bef6b9dbc715"
+        target="id-69e692eb75f942348d956a2631528755">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-686e362e22de48a3982eff87b44327f6.xml#id-686e362e22de48a3982eff87b44327f6"/>
+    </sourceConnections>
     <bounds
-        x="21"
-        y="520"
-        width="168"
-        height="55"/>
+        x="20"
+        y="336"
+        width="244"
+        height="145"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-69e692eb75f942348d956a2631528755"
+        targetConnections="id-13b4c8fbaa8a4387a88a959c33bdcbdb">
+      <bounds
+          x="96"
+          y="48"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:Deliverable"
+          href="Deliverable_id-7fa84c5764344b83b9afa79c5540efcf.xml#id-7fa84c5764344b83b9afa79c5540efcf"/>
+    </children>
     <archimateElement
         xsi:type="archimate:Deliverable"
         href="Deliverable_id-80e2971b5ebe483e8fe8cded7a60d849.xml#id-80e2971b5ebe483e8fe8cded7a60d849"/>
@@ -80,11 +124,33 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-9e5bb1fe9f9e41b498798fee495b0277"
       type="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-07414f03affb4720881f9b204235e307"
+        source="id-9e5bb1fe9f9e41b498798fee495b0277"
+        target="id-602da4910ad445749432ef295678d6bf">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-dc03a3415efc492d9553b8f2b0e38635.xml#id-dc03a3415efc492d9553b8f2b0e38635"/>
+    </sourceConnections>
     <bounds
-        x="21"
-        y="580"
-        width="168"
-        height="55"/>
+        x="276"
+        y="336"
+        width="244"
+        height="145"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-602da4910ad445749432ef295678d6bf"
+        targetConnections="id-07414f03affb4720881f9b204235e307">
+      <bounds
+          x="96"
+          y="48"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:Deliverable"
+          href="Deliverable_id-d84aff2030db458585e5bacac377fcf0.xml#id-d84aff2030db458585e5bacac377fcf0"/>
+    </children>
     <archimateElement
         xsi:type="archimate:Deliverable"
         href="Deliverable_id-05c706e4cea4471ea60adae358e7c07e.xml#id-05c706e4cea4471ea60adae358e7c07e"/>
