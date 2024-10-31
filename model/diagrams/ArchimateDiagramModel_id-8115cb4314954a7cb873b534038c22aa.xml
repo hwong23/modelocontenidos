@@ -212,7 +212,7 @@
       value="cu2"/>
   <properties
       key="titulo"
-      value="Casos de Uso del Proyecto"/>
+      value="Casos de Uso del Proyecto JEP"/>
   <properties
       key="plantillaElm"
       value="elementsimple-md,elementsimple-txt-md"/>
