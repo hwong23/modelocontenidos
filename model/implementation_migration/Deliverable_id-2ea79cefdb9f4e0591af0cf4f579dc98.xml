@@ -1,9 +1,4 @@
 <archimate:Deliverable
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CU &lt;&lt;integración>>"
-    id="id-2ea79cefdb9f4e0591af0cf4f579dc98"
-    documentation="## Casos de Uso del Proyecto (integración)&#xA;App A requiere integrar Información [I] | Funcionalidad [F] | Servicios [S] con la App B, C, D…&#xA;&#xA;&#xA;### Elementos&#xA;Elegir y describir los elementos de la actual integración.&#xA;&#xA;* [ ] App consumidora (A)&#xA;* [ ] Mensaje&#xA;* [ ] Canal&#xA;* [ ] Ruteo&#xA;* [ ] Traducción&#xA;* [ ] App proveedora (B)&#xA;* [ ] Monitoreo&#xA;&#xA;&#xA;### Diseño&#xA;Message Construct | Message Routing | Message Transformation | Messaging Endpoints | Messaging Channels | …&#xA;&#xA;&#xA;### Matriz de interoperabilidad&#xA;Detalle del intercambio entre sistemas de información o aplicaciones. &#xA;&#xA;&#xA;Sistema A comparte información, funcionalidad o servicios con Sistema B.&#xA;&#xA;|          | Conti   | Plani     | Sistema C |&#xA;|----------|---------|-----------|-----------|&#xA;| Conti    |         | I, S      |           |&#xA;| Plani    |         | X         |           |&#xA;&#xA;&#xA;### Pruebas Realizables&#xA;Resultado del intercambio entre sistemas de información o aplicaciones según la Matriz de interoperabilidad.&#xA;">
-  <properties
-      key="destino"
-      value="doc, tex, pdf, html"/>
-</archimate:Deliverable>
+    id="id-2ea79cefdb9f4e0591af0cf4f579dc98"/>
