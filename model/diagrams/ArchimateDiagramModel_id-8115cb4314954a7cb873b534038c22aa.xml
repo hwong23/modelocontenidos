@@ -233,6 +233,5 @@
       key="titulo"
       value="Plantilla de Casos de Uso del Proyecto JEP"/>
   <properties
-      key="plantilla"
-      value="documentation-md-vd-tex"/>
+      key="plantilla"/>
 </archimate:ArchimateDiagramModel>
