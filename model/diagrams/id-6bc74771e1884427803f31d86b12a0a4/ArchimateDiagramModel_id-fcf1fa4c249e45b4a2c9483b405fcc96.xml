@@ -2,7 +2,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     xmlns:canvas="http://www.archimatetool.com/archimate/canvas"
-    name="Doc.4n.1n. Casos de Uso"
+    name="Doc.4n. Casos de Uso"
     id="id-fcf1fa4c249e45b4a2c9483b405fcc96">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -50,15 +50,15 @@
         height="132"/>
     <children
         xsi:type="archimate:DiagramModelReference"
-        id="id-7a48c9a19f7642c9a31c8a5498d35fef">
+        id="id-dac60a8395c347bb8b3474dc1a7284b5">
       <bounds
-          x="48"
+          x="24"
           y="36"
-          width="120"
+          width="181"
           height="55"/>
       <referencedModel
           xsi:type="canvas:CanvasModel"
-          href="CanvasModel_id-3f7658eb46484025a8c20fbe993dd6e7.xml#id-3f7658eb46484025a8c20fbe993dd6e7"/>
+          href="CanvasModel_id-3e89bb723387432e816c8873edd31b43.xml#id-3e89bb723387432e816c8873edd31b43"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"
