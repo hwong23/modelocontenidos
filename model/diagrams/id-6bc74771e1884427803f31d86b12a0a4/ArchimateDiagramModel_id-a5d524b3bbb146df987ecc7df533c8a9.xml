@@ -7,7 +7,6 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-07ad51f69307478786da372c77c5aa75"
-      targetConnections="id-a82aaf7065db4febbef932e577809d71"
       textAlignment="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -55,15 +54,6 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-4e1135454fb34662ac4f6527a519e000"
       textAlignment="1">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-a82aaf7065db4febbef932e577809d71"
-        source="id-4e1135454fb34662ac4f6527a519e000"
-        target="id-07ad51f69307478786da372c77c5aa75">
-      <archimateRelationship
-          xsi:type="archimate:TriggeringRelationship"
-          href="TriggeringRelationship_id-23abffdffdc34e83923e0bedd181373d.xml#id-23abffdffdc34e83923e0bedd181373d"/>
-    </sourceConnections>
     <bounds
         x="24"
         y="36"
