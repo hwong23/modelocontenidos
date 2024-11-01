@@ -43,17 +43,52 @@
       id="id-e28b37d08b2d4f0585a1b39bc206cefa"
       targetConnections="id-e247a66ac0bc40fdbd5648d984e0c344"
       textAlignment="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-464f450860984850afc7cc350219b404"
+        source="id-e28b37d08b2d4f0585a1b39bc206cefa"
+        target="id-60edc1d8dcc7480bb8d9b7c0b3060530">
+      <archimateRelationship
+          xsi:type="archimate:TriggeringRelationship"
+          href="TriggeringRelationship_id-f36a70cbbfac41c082abfe097ecc18b4.xml#id-f36a70cbbfac41c082abfe097ecc18b4"/>
+    </sourceConnections>
     <bounds
         x="288"
-        y="32"
-        width="516"
-        height="140"/>
+        y="36"
+        width="433"
+        height="132"/>
     <children
         xsi:type="archimate:DiagramModelReference"
-        id="id-44f84cdaa7a44f68b833cc71254bc592">
+        id="id-b2e06c90ba404411b0e4fe6bfb14b97e">
+      <bounds
+          x="228"
+          y="32"
+          width="181"
+          height="55"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-eb0cac3ffa954ca0aa6a48e757b4d309.xml#id-eb0cac3ffa954ca0aa6a48e757b4d309"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-52e68baff66a4c6f9c9d168a5618d259.xml#id-52e68baff66a4c6f9c9d168a5618d259"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-60edc1d8dcc7480bb8d9b7c0b3060530"
+      targetConnections="id-464f450860984850afc7cc350219b404"
+      textAlignment="1">
+    <bounds
+        x="288"
+        y="204"
+        width="433"
+        height="132"/>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-aa673cf86d794d64839598f58cd0d0d0">
       <bounds
           x="24"
-          y="36"
+          y="32"
           width="181"
           height="55"/>
       <referencedModel
@@ -62,14 +97,14 @@
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"
-        href="Grouping_id-52e68baff66a4c6f9c9d168a5618d259.xml#id-52e68baff66a4c6f9c9d168a5618d259"/>
+        href="Grouping_id-416114683c2c47bcbb0a3d17d284beec.xml#id-416114683c2c47bcbb0a3d17d284beec"/>
   </children>
   <properties
       key="alias"
       value="jepcutemplate"/>
   <properties
       key="devdoc"
-      value="10.JEPcutemplate.md"/>
+      value="10.JEPcuproyecto.md"/>
   <properties
       key="titulo"
       value="Contenido"/>
