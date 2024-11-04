@@ -1,7 +1,7 @@
-<archimate:ApplicationInterface
+<archimate:ApplicationCollaboration
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Nodo Integración JEP &lt;&lt;worker>>"
-    id="id-af478d92ccae43a6b7856bacbd7c3bd2"
+    id="id-66acb44e69124695b075a82cf37dd430"
     documentation="Nodo lógico en donde corren los contenedores.&#xA;">
   <properties
       key="modulo"
@@ -12,4 +12,4 @@
   <properties
       key="ide"
       value="apiMimutual"/>
-</archimate:ApplicationInterface>
+</archimate:ApplicationCollaboration>
