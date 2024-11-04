@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="04.ING.3n.1. Modelo de Interoperabilidad JEP, 2024"
+    name="04.ING.3n.1. Modelo de Interoperabilidad JEP"
     id="id-f863abde3ea94046a77bf84d5cb0a3a8"
     documentation="El presente modelo de solución de interoperabilidad JEP, 2024, en desarrollo por Softgic, expone para aprobación y referencia las decisiones de la solución de integración y las restricciones que la rigen. Una vez revisado y aprobado por parte de JEP el modelo de interoperabilidad será referencia para la gestión del proyecto y de los entregables de esta solución.&#xA;&#xA;&#xA;## Características Principales del Modelo de Integración JEP&#xA;* API de integración&#xA;* Patrones de integración empresarial (EIP)&#xA;* Sistema de Mensajería entre servicios de integración y aplicaciones JEP&#xA;* Flujos de datos para integración &#xA;* Arquitectura de clusters y contenedores para integración&#xA;* Uso de infraestructura tecnológica JEP&#xA;&#xA;">
   <children
