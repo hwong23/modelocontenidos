@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="06.ENTRG.1n.1a.1. Despliegue"
+    name="06.ENTRG.1n.1a.1. Despliegue Entregas de Requerimiento"
     id="id-203e737545e449e59334b47d3034d956"
     documentation="Los servicios implementados contenidos en los requerimientos se pueden desplegar sobre la red de unidades de despliegue (pods) dispuesta por la JEP y acordada con el contratista.&#xA;&#xA;En esta organización propuesta, los servicios de integración implementados pueden ser desplegados en uno, o varios contenedores, y en unidades de despliegue (pods) distintas.&#xA;">
   <children
