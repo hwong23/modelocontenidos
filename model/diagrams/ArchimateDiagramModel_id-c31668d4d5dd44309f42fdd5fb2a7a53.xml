@@ -10,7 +10,7 @@
       targetConnections="id-d7895c76751a464fb9b4172e79e3304d"
       textPosition="1">
     <bounds
-        x="288"
+        x="336"
         y="36"
         width="120"
         height="55"/>
@@ -32,7 +32,7 @@
           href="AssociationRelationship_id-c3a8ba583d6249c194f6dc2830ff0c01.xml#id-c3a8ba583d6249c194f6dc2830ff0c01"/>
     </sourceConnections>
     <bounds
-        x="288"
+        x="336"
         y="120"
         width="120"
         height="55"/>
@@ -85,7 +85,7 @@
           href="RealizationRelationship_id-12f1906ff4eb4cf49cd012657d6292fc.xml#id-12f1906ff4eb4cf49cd012657d6292fc"/>
     </sourceConnections>
     <bounds
-        x="24"
+        x="72"
         y="288"
         width="252"
         height="55"/>
@@ -138,7 +138,7 @@
           href="RealizationRelationship_id-32467f9fbc3142278b9eb5949dc53a92.xml#id-32467f9fbc3142278b9eb5949dc53a92"/>
     </sourceConnections>
     <bounds
-        x="420"
+        x="468"
         y="288"
         width="252"
         height="55"/>
@@ -169,7 +169,7 @@
           href="RealizationRelationship_id-3a9656de80c54e578186bfb23b5336cc.xml#id-3a9656de80c54e578186bfb23b5336cc"/>
     </sourceConnections>
     <bounds
-        x="288"
+        x="336"
         y="204"
         width="120"
         height="55"/>
@@ -182,7 +182,7 @@
       id="id-a338749b46e04d2eb50428c2186fcef4"
       targetConnections="id-6fa36c49ac93499392c1c43accf9f8cf">
     <bounds
-        x="-24"
+        x="24"
         y="432"
         width="156"
         height="55"/>
@@ -195,7 +195,7 @@
       id="id-10b27d3067ab4906a8b39bd2db638e5a"
       targetConnections="id-b5612c25d76642d49d3362fda2d7b9c8">
     <bounds
-        x="169"
+        x="217"
         y="432"
         width="156"
         height="55"/>
@@ -208,7 +208,7 @@
       id="id-4d0a0a93bd18406c98086e6d5b80607c"
       targetConnections="id-2fd36ea07db04f16878920f4522059f6">
     <bounds
-        x="385"
+        x="433"
         y="432"
         width="156"
         height="55"/>
@@ -221,7 +221,7 @@
       id="id-ac08b6015a1e4e82b407c9c0a5bf0a37"
       targetConnections="id-f0bb2bc60cb84716b07104d2434d4f26">
     <bounds
-        x="577"
+        x="625"
         y="432"
         width="156"
         height="55"/>
@@ -234,7 +234,7 @@
       id="id-4a6d4536ab7b4c2db0d238c5cfab4244"
       targetConnections="id-42df46cb8649430fa1b6d9d6d5119de8">
     <bounds
-        x="503"
+        x="551"
         y="204"
         width="169"
         height="55"/>
@@ -248,7 +248,7 @@
       textAlignment="1"
       content="Integraciones JEP, 2024&#xA;&#xA;Integración JEP. Softgic. Plan de Entregas del proyecto de integración JEP, iteraciones y Entregables por versión.&#xA;&#xA;versión 0.1.4&#xA;">
     <bounds
-        x="24"
+        x="11"
         y="12"
         width="229"
         height="148"/>
@@ -292,7 +292,7 @@
           href="CompositionRelationship_id-47ac632f8714448d87e7c4eeead2a788.xml#id-47ac632f8714448d87e7c4eeead2a788"/>
     </sourceConnections>
     <bounds
-        x="204"
+        x="252"
         y="600"
         width="288"
         height="241"/>
@@ -355,7 +355,7 @@
           href="RealizationRelationship_id-829fb094fb714e9a88e85a42d4f647d8.xml#id-829fb094fb714e9a88e85a42d4f647d8"/>
     </sourceConnections>
     <bounds
-        x="204"
+        x="252"
         y="888"
         width="288"
         height="55"/>
@@ -377,7 +377,7 @@
           href="RealizationRelationship_id-3a2dc4bda70b47bc835d356d0fe926c0.xml#id-3a2dc4bda70b47bc835d356d0fe926c0"/>
     </sourceConnections>
     <bounds
-        x="-37"
+        x="11"
         y="348"
         width="181"
         height="55"/>
@@ -399,7 +399,7 @@
           href="RealizationRelationship_id-63e76466db7f4210b285f7fa12748410.xml#id-63e76466db7f4210b285f7fa12748410"/>
     </sourceConnections>
     <bounds
-        x="156"
+        x="204"
         y="348"
         width="181"
         height="55"/>
@@ -421,7 +421,7 @@
           href="RealizationRelationship_id-ba6685f0946e43e29c3435a38e4b8593.xml#id-ba6685f0946e43e29c3435a38e4b8593"/>
     </sourceConnections>
     <bounds
-        x="372"
+        x="420"
         y="348"
         width="181"
         height="55"/>
@@ -443,7 +443,7 @@
           href="RealizationRelationship_id-0a5c8144b5614c34b49309b62421af4e.xml#id-0a5c8144b5614c34b49309b62421af4e"/>
     </sourceConnections>
     <bounds
-        x="564"
+        x="612"
         y="348"
         width="181"
         height="55"/>
