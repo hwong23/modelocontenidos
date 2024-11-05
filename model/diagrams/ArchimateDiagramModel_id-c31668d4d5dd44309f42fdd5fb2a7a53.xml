@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="06.ENTRG.1n.1a. Integrar operaciones Conti"
+    name="06.ENTRG.1n.1a. Gestión Entregas de Requerimientos"
     id="id-c31668d4d5dd44309f42fdd5fb2a7a53"
     documentation="Documento de requerimientos, primera versión de entregas del proyecto Integraciones JEP, 2024.&#xA;&#xA;El requerimiento Integración con Sistema Conti x Plani (REQR3, en la imagen) será entregado con la primera versión que se libere de la solución de integración, actualmente en desarrollo por Softgic.&#xA;&#xA;Este requerimiento REQR3 consta de dos iteraciones (Iteración 1 y 2, en la imagen), las cuales a su vez, realizarán dos historias de integración cada una (HU01, HU02, HU03, HU04, respectivamente). &#xA;&#xA;Una vez concluidas la ejecución de las dos iteraciones, y sus historias de integración contenidas, realizaremos la entrega de los 4 primeros servicios de integración desplegables en el namespace de Openshift de desarrollo de la JEP.&#xA;">
   <children
@@ -459,5 +459,5 @@
       value="06.ENTRG.1n.modeloentregas.md"/>
   <properties
       key="titulo"
-      value="Plan de Entregas del Requerimiento"/>
+      value="Gestión de Entregas del Requerimiento"/>
 </archimate:ArchimateDiagramModel>
