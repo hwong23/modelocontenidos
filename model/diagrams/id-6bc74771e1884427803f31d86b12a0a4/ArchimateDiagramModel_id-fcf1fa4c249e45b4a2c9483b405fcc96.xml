@@ -111,4 +111,7 @@
   <properties
       key="rutaMac"
       value="/Downloads/tmpr/pgnmd/"/>
+  <properties
+      key="IncluyeSaltosLineaElementos"
+      value="false"/>
 </archimate:ArchimateDiagramModel>
