@@ -213,7 +213,4 @@
   <properties
       key="titulo"
       value="Casos de Uso del Proyecto JEP"/>
-  <properties
-      key="plantillaElm"
-      value="elementsimple-md,elementsimple-txt-md"/>
 </archimate:ArchimateDiagramModel>
