@@ -213,4 +213,7 @@
   <properties
       key="titulo"
       value="Casos de Uso del Proyecto JEP"/>
+  <properties
+      key="IncluyeSaltosLineaElementos"
+      value="false"/>
 </archimate:ArchimateDiagramModel>
