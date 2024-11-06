@@ -219,4 +219,7 @@
   <properties
       key="plantillaElm"
       value="elementsimple-md,elementsimple-txt-md"/>
+  <properties
+      key="IncluyeElementosSindoc"
+      value="true"/>
 </archimate:ArchimateDiagramModel>
