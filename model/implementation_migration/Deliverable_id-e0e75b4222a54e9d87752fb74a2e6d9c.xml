@@ -1,8 +1,7 @@
 <archimate:Deliverable
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="HU.SINT1. Integración. Ingreso a Conti"
-    id="id-e0e75b4222a54e9d87752fb74a2e6d9c"
-    documentation=".">
+    id="id-e0e75b4222a54e9d87752fb74a2e6d9c">
   <properties
       key="destino"
       value="doc, pdf, tex, ppt"/>
