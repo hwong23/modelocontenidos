@@ -215,5 +215,8 @@
       value="Casos de Uso del Proyecto JEP"/>
   <properties
       key="IncluyeSaltosLineaElementos"
-      value="false"/>
+      value="true"/>
+  <properties
+      key="plantillaElm"
+      value="elementsimple-md,elementsimple-txt-md"/>
 </archimate:ArchimateDiagramModel>
