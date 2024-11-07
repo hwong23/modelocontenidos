@@ -1,8 +1,8 @@
 <archimate:Requirement
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="REQR11. Integración envío de peticiones LEGALi x CONTi"
+    name=" REQR11. Integración gestión médica"
     id="id-d032e8dbb21a4024acb34f75c10adda6"
-    documentation="Documentación de Integración de Procesos. Documento técnico referente al registro de peticiones por integración.&#xA;&#xA;Fuente: Servicio de integración LEGALi - Envío de peticiones - v5 (pdf). José Carlos Schröder Júnior.&#xA;&#xA;&#xA;### Índice de la documentación (casos de uso)&#xA;&#xA;1. Autenticación&#xA;1. Proceso de integración&#xA;&#xA;">
+    documentation="Documentación de la gestión médica JEP. &#xA;&#xA;Fuente: gestionMedidaProteccion (pdf). &#xA;&#xA;&#xA;### Índice de la documentación (casos de uso)&#xA;&#xA;1. Caso de Uso 1. Integrar Radicar MP&#xA;1. Caso de Uso 2. Integrar Indexar Imagen&#xA;&#xA;">
   <properties
       key="destino"
       value="doc, tex, pdf, html"/>

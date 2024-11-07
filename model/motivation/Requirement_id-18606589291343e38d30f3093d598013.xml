@@ -1,0 +1,9 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQR13. Integración envío de peticiones LEGALi x CONTi"
+    id="id-18606589291343e38d30f3093d598013"
+    documentation="Documentación de Integración de Procesos. Documento técnico referente al registro de peticiones por integración.&#xA;&#xA;Fuente: Servicio de integración LEGALi - Envío de peticiones - v5 (pdf). José Carlos Schröder Júnior.&#xA;&#xA;&#xA;### Índice de la documentación (casos de uso)&#xA;&#xA;1. Autenticación&#xA;1. Proceso de integración&#xA;&#xA;">
+  <properties
+      key="destino"
+      value="doc, tex, pdf, html"/>
+</archimate:Requirement>

@@ -1,7 +1,7 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="SINT10. Integrar Radicar MP"
-    id="id-7d99e310c87d43838d200787d0245234"
+    name="SINT31. Proceso de integración"
+    id="id-f9a991c33bf44d8c96a8f15384139b23"
     documentation="Tareas de desarrollo&#xA;&#xA;* Interoperabilidad IOP1. Transporte / Entrega Consulta Negocio &#x9;&#xA;* Modelo de datos (XML, RBDMS, …)&#xA;* Esquema de datos (XSD, DTD, JSON-E…)&#xA;* Contratos de interoperabilidad (WSDL, API…)&#xA;* Mensajes petición IN (API, XML…)&#xA;* Mensajes respuesta OUT (API, XML…)&#xA;* Mensajes excepción (API, XML…)&#xA;* Transporte (REST, SOAP)&#xA;* Función lógica (JEE, …)&#xA;* Registro y envío de actividad&#xA;">
   <properties
       key="destino"
