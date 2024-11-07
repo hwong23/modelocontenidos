@@ -137,9 +137,9 @@
             id="id-4f0a0d00a2574463acbd783608136144"
             targetConnections="id-8ebe08512af945a3a04b012cd56eddc8">
           <bounds
-              x="12"
+              x="36"
               y="36"
-              width="144"
+              width="120"
               height="55"/>
           <archimateElement
               xsi:type="archimate:ApplicationService"
@@ -230,9 +230,9 @@
             id="id-3557f5fe06ed409882956f5357b5742c"
             targetConnections="id-c8540626fb9d4380989b57228fd3440a">
           <bounds
-              x="12"
+              x="36"
               y="36"
-              width="144"
+              width="120"
               height="55"/>
           <archimateElement
               xsi:type="archimate:ApplicationService"
