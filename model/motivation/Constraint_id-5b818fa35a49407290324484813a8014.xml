@@ -1,9 +1,0 @@
-<archimate:Constraint
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Uso de Infraestrucutra Tecnológica JEP"
-    id="id-5b818fa35a49407290324484813a8014"
-    documentation="Servivios de infraestrucgtura, almacenamiento y ceomputo de la JEP:  Openshift Platform, bus empresarial, seguridad de la empresa, tecnoglogía de clusters y contenedores.&#xA;">
-  <properties
-      key="destino"
-      value="doc, tex, ppt"/>
-</archimate:Constraint>

@@ -1,9 +1,0 @@
-<archimate:Constraint
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Monitoreo de (ssrvc) integración"
-    id="id-0b0fcd1d9b1f493aa5e20f11719d7e99"
-    documentation="* Herramientas de monitoreo y logging con las que cuenta la solución actual de orquestación de contenedores de OpenShift.&#xA; &#xA; * Monitoreo de uso de los recursos de procesamiento, red y memoria de los componentes claves de la solución haciendo uso de ServiceMesh.&#xA;&#xA;*  La solución soporta la habilitación de reglas de alertas sobre los registros de actividad y monitoreo.&#xA;&#xA;* Soluciones de EFK (Elasticsearch, FluentD, Kibana - ELKstack), a través de operadores para centralizar el proceso de logs que se generan en difrerentes espacios de trabajo.&#xA;">
-  <properties
-      key="destino"
-      value="doc, tex, ppt"/>
-</archimate:Constraint>

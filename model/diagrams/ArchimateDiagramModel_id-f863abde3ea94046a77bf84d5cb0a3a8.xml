@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="04.ING.3n.1. Modelo de Interoperabilidad JEP"
     id="id-f863abde3ea94046a77bf84d5cb0a3a8"
-    documentation="El presente modelo de solución de interoperabilidad JEP, 2024, en desarrollo por Softgic, expone para aprobación y referencia las decisiones de la solución de integración y las restricciones que la rigen. Una vez revisado y aprobado por parte de JEP el modelo de interoperabilidad será referencia para la gestión del proyecto y de los entregables de esta solución.&#xA;&#xA;&#xA;## Características Principales del Modelo de Integración JEP&#xA;* API de integración&#xA;* Patrones de integración empresarial (EIP)&#xA;* Sistema de Mensajería entre servicios de integración y aplicaciones JEP&#xA;* Flujos de datos para integración &#xA;* Arquitectura de clusters y contenedores para integración&#xA;* Uso de infraestructura tecnológica JEP&#xA;&#xA;">
+    documentation="El presente modelo de solución de interoperabilidad JEP, 2024, en desarrollo por Softgic, expone para aprobación y referencia las decisiones de la solución de integración y las restricciones que la rigen. Una vez revisado y aprobado por parte de JEP el modelo de interoperabilidad será referencia para la gestión del proyecto y de los entregables de esta solución.&#xA;&#xA;&#xA;## Características Principales del Modelo de Integración JEP&#xA;* API de integración&#xA;* Patrones de integración empresarial (EIP)&#xA;* Sistema de Mensajería entre servicios de integración y aplicaciones JEP&#xA;* Flujos de datos para integración &#xA;* Arquitectura de clusters y contenedores para integración&#xA;* Uso de infraestructura tecnológica JEP&#xA;* Articulación con el Service Mesh de JEP&#xA;&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-2f0d0bdaa6dd4150ae0fc2e8311a048f"
@@ -270,15 +270,6 @@
       type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-878f96e138ba4cc4b0d24e07d8013519"
-        source="id-252743beaa2b4de393b8d41513025dc5"
-        target="id-8695c1955ee94b70a647620956c00b34">
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_id-a2218605f3b6436980a516dec53dfc14.xml#id-a2218605f3b6436980a516dec53dfc14"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-09551ba17238452e8d7802db0687dd07"
         source="id-252743beaa2b4de393b8d41513025dc5"
         target="id-6bdb6c6f293e49b19a2fd02e110e368a">
@@ -324,31 +315,18 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-186d0bad2017445d8874fd9560cf2936"
+        id="id-921ec6d9e61445339a676e2b0a002bcd"
         source="id-252743beaa2b4de393b8d41513025dc5"
-        target="id-097e365a97944183ac02d70c461f8392">
+        target="id-250d85d7fa4c47879cb204a3cd8b5ee7">
       <archimateRelationship
           xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_id-df3a854e7b854411b9d06e97960ca1c9.xml#id-df3a854e7b854411b9d06e97960ca1c9"/>
+          href="CompositionRelationship_id-1980985f851949c489c541b3df8616d0.xml#id-1980985f851949c489c541b3df8616d0"/>
     </sourceConnections>
     <bounds
         x="13"
         y="213"
         width="240"
         height="600"/>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-8695c1955ee94b70a647620956c00b34"
-        targetConnections="id-878f96e138ba4cc4b0d24e07d8013519">
-      <bounds
-          x="37"
-          y="360"
-          width="156"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:Constraint"
-          href="Constraint_id-0b0fcd1d9b1f493aa5e20f11719d7e99.xml#id-0b0fcd1d9b1f493aa5e20f11719d7e99"/>
-    </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-6bdb6c6f293e49b19a2fd02e110e368a"
@@ -403,16 +381,16 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-097e365a97944183ac02d70c461f8392"
-        targetConnections="id-186d0bad2017445d8874fd9560cf2936">
+        id="id-250d85d7fa4c47879cb204a3cd8b5ee7"
+        targetConnections="id-921ec6d9e61445339a676e2b0a002bcd">
       <bounds
           x="37"
-          y="420"
+          y="324"
           width="156"
           height="55"/>
       <archimateElement
           xsi:type="archimate:Constraint"
-          href="Constraint_id-5b818fa35a49407290324484813a8014.xml#id-5b818fa35a49407290324484813a8014"/>
+          href="Constraint_id-d9f59246fd3a4ed19680ebe6ecf885d7.xml#id-d9f59246fd3a4ed19680ebe6ecf885d7"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"
@@ -422,7 +400,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-75bc012f93914b83ad985247edf4da05"
       textAlignment="1"
-      content="Modelo de Integración. &#xA;Proyecto JEP, 2024. Softgic.&#xA;&#xA;Capacidades del modelo de integración para la implementación de requerimientos de interoperabilidad del proyecto Integración JEP, 2024.&#xA;&#xD;&#xA;Ver 0.2.33">
+      content="Modelo de Integración. &#xA;Proyecto JEP, 2024. Softgic.&#xA;&#xA;Capacidades del modelo de integración para la implementación de requerimientos de interoperabilidad del proyecto Integración JEP, 2024.&#xA;&#xD;&#xA;Ver 0.2.44">
     <bounds
         x="12"
         y="12"

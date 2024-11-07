@@ -1,8 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Alcance de la Integración"
+    name="Condiciones técnicas de la Integración"
     id="id-d0e0e57c75e94da4ab3fbaec78876804"
-    documentation="Aplicaciones que tienen integraciones existentes: necesitamos listados de ssvc pasar al bus.&#xA;">
+    documentation="* Uso de infraestructura, almacenamiento y cómputo de la JEP:  Openshift Platform, bus empresarial, seguridad de la empresa, tecnoglogía de clusters y contenedores, y Prometheus como la herramienta de monitoreo de servicios.&#xA; &#xA;* Monitoreo de uso de los recursos de procesamiento, red y memoria de los componentes claves de la solución haciendo uso de ServiceMesh.&#xA;&#xA;*  La solución soporta la habilitación de reglas de alertas sobre los registros de actividad y monitoreo.&#xA;&#xA;* Soluciones de EFK (Elasticsearch, FluentD, Kibana - ELKstack), a través de operadores para centralizar el proceso de logs que se generan en difrerentes espacios de trabajo.&#xA;&#xA;">
   <properties
       key="destino"
       value="doc, tex, ppt"/>
