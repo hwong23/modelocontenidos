@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name=" REQR11. Integración gestión médica"
     id="id-d032e8dbb21a4024acb34f75c10adda6"
-    documentation="Documentación del requerimiento de integración de la gestión médica JEP. Exposición de las capacidades Radicar MP y Indexar Imagen.&#xA;&#xA;Fuente: gestionMedidaProteccion (pdf). &#xA;&#xA;&#xA;### Índice de la documentación (casos de uso)&#xA;&#xA;1. Caso de Uso 1. Integrar Radicar MP&#xA;1. Caso de Uso 2. Integrar Indexar Imagen&#xA;&#xA;">
+    documentation="Atendiendo la necesidad de (...) se requiere integrar la gestión médica JEP, como exposición de las capacidades Radicar MP y Indexar Imagen, las cuales se encuentran en (...).&#xA;&#xA;Fuente: gestionMedidaProteccion (pdf). &#xA;&#xA;&#xA;### Índice de la documentación (casos de uso)&#xA;&#xA;1. Caso de Uso 1. Integrar Radicar MP&#xA;1. Caso de Uso 2. Integrar Indexar Imagen&#xA;&#xA;">
   <properties
       key="destino"
       value="doc, tex, pdf, html"/>
