@@ -1,6 +1,6 @@
 <archimate:Constraint
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Levantamiento (copy)"
+    name="Levantamiento"
     id="id-e213afa5d52144faa4460926471f1443"
     documentation="Restricción: el requerimiento está condicionado por la completitud del levantamiento.&#xA;">
   <properties
