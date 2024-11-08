@@ -1,0 +1,9 @@
+<archimate:Value
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Comunicación Conti x Plani"
+    id="id-333603d94bc54228abeeb9c889653a5c"
+    documentation="Valor: el requerimientos genera entregables de valor para la integración de aplicaciones de JEP.">
+  <properties
+      key="destino"
+      value="doc, tex, pdf, html"/>
+</archimate:Value>
