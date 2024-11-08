@@ -89,6 +89,9 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-8ce95b501196487e94b6da9f0c8c3bb6"
         targetConnections="id-dc8d4c6706a14bc3a8468bb7a1463f98 id-8273981e07db403abeb5969b7b8907bd">
+      <features
+          name="labelExpression"
+          value="Requerimiento Asociado"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-280b1479f83043b1b38dc3cfffa2c1bb"
