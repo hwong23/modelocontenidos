@@ -218,7 +218,7 @@
       value="true"/>
   <properties
       key="plantillaElm"
-      value="elementsimple-md,elementsimple-tit-md"/>
+      value="elementsimple-sintit-md,elementsimple-tit-md"/>
   <properties
       key="IncluyeElementosSindoc"
       value="true"/>
