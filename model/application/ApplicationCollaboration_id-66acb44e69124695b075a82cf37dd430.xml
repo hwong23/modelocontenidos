@@ -12,4 +12,7 @@
   <properties
       key="ide"
       value="apiMimutual"/>
+  <properties
+      key="IncluyeSaltosLineaElementos"
+      value="false"/>
 </archimate:ApplicationCollaboration>
