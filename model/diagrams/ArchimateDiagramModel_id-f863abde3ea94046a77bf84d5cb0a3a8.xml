@@ -912,4 +912,7 @@
   <properties
       key="titulo"
       value="Modelo de Interoperabilidad JEP"/>
+  <properties
+      key="plantillaElm"
+      value="elementsimple-md,elementsimple-fila-md"/>
 </archimate:ArchimateDiagramModel>
