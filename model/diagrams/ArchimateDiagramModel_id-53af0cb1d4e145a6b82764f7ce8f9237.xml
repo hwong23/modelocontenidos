@@ -834,4 +834,7 @@
   <properties
       key="titulo"
       value="Ambientes y Herramientas. Organización de Referencia JEP &#xA;Ambientes y Herramientas de Referencia JEP&#xA;"/>
+  <properties
+      key="IncluyeSaltosLineaElementos"
+      value="false"/>
 </archimate:ArchimateDiagramModel>
