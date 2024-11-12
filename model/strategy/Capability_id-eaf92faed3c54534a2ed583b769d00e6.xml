@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Tecnologías"
     id="id-eaf92faed3c54534a2ed583b769d00e6"
-    documentation="* Red Hat Integration: suite de runtimes, frameworks, y servicios para aplicaciones nativas de Red Hat OpenShift.&#xA;* Camel Integration Tool&#xA;* Quarkus development framework&#xA;* Java OpenJDK 17&#xA;* EFK (Elasticsearch, FluentD, Kibana - ELKstack)&#xA;">
+    documentation="&#xA;* Red Hat Integration: suite de runtimes, frameworks, y servicios para aplicaciones nativas de Red Hat OpenShift.&#xA;* Camel Integration Tool&#xA;* Quarkus development framework&#xA;* Java OpenJDK 17&#xA;* EFK (Elasticsearch, FluentD, Kibana - ELKstack)&#xA;">
   <properties
       key="destino"
       value="doc, tex, ppt"/>
