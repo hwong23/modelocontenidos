@@ -388,4 +388,7 @@
   <properties
       key="titulo"
       value="Sistema de Mensajes Integración JEP"/>
+  <properties
+      key="IncluyeSaltosLineaElementos"
+      value="false"/>
 </archimate:ArchimateDiagramModel>

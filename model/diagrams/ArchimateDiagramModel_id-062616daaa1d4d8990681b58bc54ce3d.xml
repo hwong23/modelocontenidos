@@ -1206,4 +1206,7 @@
   <properties
       key="titulo"
       value="Requerimientos de Integración JEP"/>
+  <properties
+      key="plantillaElm"
+      value="elementsimple-md,elementsimple-filatit-md"/>
 </archimate:ArchimateDiagramModel>
