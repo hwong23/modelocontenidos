@@ -403,4 +403,7 @@
   <properties
       key="titulo"
       value="Requerimientos de Integración JEP"/>
+  <properties
+      key="plantillaElm"
+      value="elementsimple-md,elementsimple-filatxt-md"/>
 </archimate:ArchimateDiagramModel>
