@@ -64,8 +64,8 @@
         id="id-29c92e16663e4a40a4da2559b35f4f4a"
         targetConnections="id-1628d495477f488fb55e5eab26f06c8c">
       <bounds
-          x="12"
-          y="184"
+          x="324"
+          y="48"
           width="132"
           height="55"/>
       <archimateElement
@@ -99,8 +99,8 @@
             href="RealizationRelationship_id-9c66b134d46c42b087c1456ded861301.xml#id-9c66b134d46c42b087c1456ded861301"/>
       </sourceConnections>
       <bounds
-          x="204"
-          y="96"
+          x="12"
+          y="303"
           width="169"
           height="55"/>
       <archimateElement
@@ -158,8 +158,8 @@
             href="RealizationRelationship_id-26f094050b314de38ff057c1066730f0.xml#id-26f094050b314de38ff057c1066730f0"/>
       </sourceConnections>
       <bounds
-          x="432"
-          y="48"
+          x="324"
+          y="132"
           width="180"
           height="310"/>
       <children
@@ -224,8 +224,8 @@
         targetConnections="id-a3ba72a41f6b4dda96debe55200b8cc2"
         type="1">
       <bounds
-          x="12"
-          y="120"
+          x="168"
+          y="48"
           width="132"
           height="55"/>
       <archimateElement
