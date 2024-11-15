@@ -15,50 +15,6 @@
         height="409"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-133b129f29754cf0adb0c0ab3456f94b"
-        type="1">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-952fa8f491c941be9ac3119bb8e47fff"
-          source="id-133b129f29754cf0adb0c0ab3456f94b"
-          target="id-ef6ba3c1e69249fb8951d9ab1989e9cc">
-        <archimateRelationship
-            xsi:type="archimate:CompositionRelationship"
-            href="CompositionRelationship_id-306f6731b0514f6591ed5e04ba2792d1.xml#id-306f6731b0514f6591ed5e04ba2792d1"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-b84e444d2c9a4fdf87726d34795066e5"
-          source="id-133b129f29754cf0adb0c0ab3456f94b"
-          target="id-dff168e0c91d492ab9cf896897ec900b">
-        <archimateRelationship
-            xsi:type="archimate:RealizationRelationship"
-            href="RealizationRelationship_id-7ce831d9d2e4464dadc487cb1254e4d2.xml#id-7ce831d9d2e4464dadc487cb1254e4d2"/>
-      </sourceConnections>
-      <bounds
-          x="24"
-          y="48"
-          width="244"
-          height="145"/>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
-          id="id-ef6ba3c1e69249fb8951d9ab1989e9cc"
-          targetConnections="id-952fa8f491c941be9ac3119bb8e47fff">
-        <bounds
-            x="96"
-            y="48"
-            width="120"
-            height="55"/>
-        <archimateElement
-            xsi:type="archimate:Deliverable"
-            href="Deliverable_id-59deec1e2bdf48a4a2fa28addf71f0cd.xml#id-59deec1e2bdf48a4a2fa28addf71f0cd"/>
-      </children>
-      <archimateElement
-          xsi:type="archimate:Deliverable"
-          href="Deliverable_id-e0e75b4222a54e9d87752fb74a2e6d9c.xml#id-e0e75b4222a54e9d87752fb74a2e6d9c"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
         id="id-5188436c016d4c75a96a11cf4cdf7528"
         type="1">
       <sourceConnections
@@ -203,6 +159,50 @@
     <archimateElement
         xsi:type="archimate:Deliverable"
         href="Deliverable_id-43a0085d2add4aa38bce62f363f7a179.xml#id-43a0085d2add4aa38bce62f363f7a179"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-133b129f29754cf0adb0c0ab3456f94b"
+      type="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-952fa8f491c941be9ac3119bb8e47fff"
+        source="id-133b129f29754cf0adb0c0ab3456f94b"
+        target="id-ef6ba3c1e69249fb8951d9ab1989e9cc">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-306f6731b0514f6591ed5e04ba2792d1.xml#id-306f6731b0514f6591ed5e04ba2792d1"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-b84e444d2c9a4fdf87726d34795066e5"
+        source="id-133b129f29754cf0adb0c0ab3456f94b"
+        target="id-dff168e0c91d492ab9cf896897ec900b">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_id-7ce831d9d2e4464dadc487cb1254e4d2.xml#id-7ce831d9d2e4464dadc487cb1254e4d2"/>
+    </sourceConnections>
+    <bounds
+        x="324"
+        y="12"
+        width="244"
+        height="145"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-ef6ba3c1e69249fb8951d9ab1989e9cc"
+        targetConnections="id-952fa8f491c941be9ac3119bb8e47fff">
+      <bounds
+          x="96"
+          y="48"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:Deliverable"
+          href="Deliverable_id-59deec1e2bdf48a4a2fa28addf71f0cd.xml#id-59deec1e2bdf48a4a2fa28addf71f0cd"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:Deliverable"
+        href="Deliverable_id-e0e75b4222a54e9d87752fb74a2e6d9c.xml#id-e0e75b4222a54e9d87752fb74a2e6d9c"/>
   </children>
   <properties
       key="devdoc"
