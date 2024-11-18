@@ -192,7 +192,7 @@
       <bounds
           x="24"
           y="36"
-          width="120"
+          width="169"
           height="55"/>
       <referencedModel
           xsi:type="canvas:CanvasModel"
@@ -219,15 +219,15 @@
     <bounds
         x="288"
         y="600"
-        width="853"
+        width="745"
         height="144"/>
     <children
         xsi:type="archimate:DiagramModelReference"
         id="id-43e56d01ed954c93ae542f765ce9730b">
       <bounds
-          x="276"
+          x="24"
           y="48"
-          width="120"
+          width="181"
           height="55"/>
       <referencedModel
           xsi:type="archimate:ArchimateDiagramModel"
@@ -237,9 +237,9 @@
         xsi:type="archimate:DiagramModelReference"
         id="id-6f595ef690da476da92255fa59f6027e">
       <bounds
-          x="408"
+          x="228"
           y="48"
-          width="120"
+          width="181"
           height="55"/>
       <referencedModel
           xsi:type="archimate:ArchimateDiagramModel"
@@ -249,9 +249,9 @@
         xsi:type="archimate:DiagramModelReference"
         id="id-8a184aecf06c46ef939392b557197540">
       <bounds
-          x="552"
+          x="432"
           y="48"
-          width="120"
+          width="181"
           height="55"/>
       <referencedModel
           xsi:type="archimate:ArchimateDiagramModel"
@@ -269,15 +269,15 @@
     <bounds
         x="288"
         y="780"
-        width="373"
+        width="745"
         height="132"/>
     <children
         xsi:type="archimate:DiagramModelReference"
         id="id-06c38d4e91554f18a60389f4f43cf17b">
       <bounds
-          x="192"
+          x="264"
           y="48"
-          width="157"
+          width="217"
           height="55"/>
       <referencedModel
           xsi:type="archimate:ArchimateDiagramModel"
@@ -289,7 +289,7 @@
       <bounds
           x="24"
           y="48"
-          width="157"
+          width="217"
           height="55"/>
       <referencedModel
           xsi:type="archimate:ArchimateDiagramModel"
