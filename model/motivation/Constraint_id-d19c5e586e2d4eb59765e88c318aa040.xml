@@ -1,7 +1,8 @@
 <archimate:Constraint
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Complejidad"
-    id="id-d19c5e586e2d4eb59765e88c318aa040">
+    name="Restricción: Complejidad"
+    id="id-d19c5e586e2d4eb59765e88c318aa040"
+    documentation="Complejidad que las condiciones introducen en la solución y entregables.&#xA;">
   <properties
       key="destino"
       value="doc, tex, pdf, html"/>
