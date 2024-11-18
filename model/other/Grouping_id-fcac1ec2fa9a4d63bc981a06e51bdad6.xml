@@ -1,8 +1,7 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Problema 1"
-    id="id-fcac1ec2fa9a4d63bc981a06e51bdad6"
-    documentation="..">
+    id="id-fcac1ec2fa9a4d63bc981a06e51bdad6">
   <properties
       key="destino"
       value="doc, tex, pdf, html"/>
