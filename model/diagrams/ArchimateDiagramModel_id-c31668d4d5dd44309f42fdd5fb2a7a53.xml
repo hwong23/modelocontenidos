@@ -460,4 +460,7 @@
   <properties
       key="titulo"
       value="Gestión de Entregas del Requerimiento"/>
+  <properties
+      key="plantillaElm"
+      value="elementsimple-md,elementsimple-filatit-md"/>
 </archimate:ArchimateDiagramModel>
