@@ -108,7 +108,7 @@
         xsi:type="archimate:DiagramModelReference"
         id="id-b8ebb262a5de418898294bc4d2326339">
       <bounds
-          x="24"
+          x="444"
           y="48"
           width="217"
           height="55"/>
@@ -120,7 +120,7 @@
         xsi:type="archimate:DiagramModelReference"
         id="id-a8a56ec670224a1687343b4669010360">
       <bounds
-          x="444"
+          x="24"
           y="48"
           width="217"
           height="55"/>
