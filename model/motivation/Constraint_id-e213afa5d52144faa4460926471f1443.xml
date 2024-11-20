@@ -1,8 +1,8 @@
 <archimate:Constraint
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Levantamiento"
+    name="Restricción: Levantamiento"
     id="id-e213afa5d52144faa4460926471f1443"
-    documentation="Restricción: el requerimiento está condicionado por la completitud del levantamiento.&#xA;">
+    documentation="El requerimiento está condicionado por la completitud del levantamiento.&#xA;">
   <properties
       key="destino"
       value="doc, tex, pdf, html"/>
