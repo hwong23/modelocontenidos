@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="06.ENTRG.1n.1a.1. Despliegue Entregas de Requerimiento"
+    name="06.ENTRG.1n.1a.1. Despliegue Entregas de Requerimiento Version 0.1"
     id="id-203e737545e449e59334b47d3034d956"
     documentation="Los servicios implementados contenidos en los requerimientos se pueden desplegar sobre la red de unidades de despliegue (pods) dispuesta por la JEP y acordada con el contratista.&#xA;&#xA;En esta organización propuesta, los servicios de integración implementados pueden ser desplegados en uno, o varios contenedores, y en unidades de despliegue (pods) distintas.&#xA;">
   <children
@@ -154,7 +154,7 @@
       id="id-264c50c66e0c46ff8c420697db4e2d7c"
       targetConnections="id-89312b9ccd9f4750af93b01482776408">
     <bounds
-        x="563"
+        x="611"
         y="204"
         width="169"
         height="55"/>
@@ -166,7 +166,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-a067cc3ceb194358be19c4524686dfab"
       textAlignment="1"
-      content="Integraciones JEP, 2024&#xA;&#xA;Integración JEP. Softgic. Plan de Entregas del proyecto de integración y despliegue JEP, iteraciones y Entregables por versión.&#xA;&#xA;versión 0.1.14&#xA;">
+      content="Integraciones JEP, 2024&#xA;&#xA;Integración JEP. Softgic. Plan de Entregas del proyecto de integración y despliegue JEP, iteraciones y Entregables por versión.&#xA;&#xA;versión 0.1.18&#xA;">
     <bounds
         x="24"
         y="12"
@@ -263,7 +263,7 @@
     <bounds
         x="22"
         y="993"
-        width="948"
+        width="926"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationCollaboration"
@@ -283,7 +283,7 @@
           href="AggregationRelationship_id-d17ed37b2f5242ffb4268de9f9fbabb8.xml#id-d17ed37b2f5242ffb4268de9f9fbabb8"/>
     </sourceConnections>
     <bounds
-        x="467"
+        x="444"
         y="636"
         width="240"
         height="286"/>
@@ -335,7 +335,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-f8666ecd7dae45feae27efb8ded67b03"
-      targetConnections="id-bbf28000c9434d6c8c31b4f1adc49bd1 id-d8d15f0b1ef04f118afe3a464b4bac16">
+      targetConnections="id-bbf28000c9434d6c8c31b4f1adc49bd1 id-d8d15f0b1ef04f118afe3a464b4bac16 id-a9a20f58d84f4a2887c5af702f858d5d">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-f74962e9afd54749bf447c7f90c894d5"
@@ -355,7 +355,7 @@
           href="AssociationRelationship_id-849101b51aae44159312436c5692e71e.xml#id-849101b51aae44159312436c5692e71e"/>
     </sourceConnections>
     <bounds
-        x="467"
+        x="444"
         y="933"
         width="504"
         height="55"/>
@@ -409,7 +409,7 @@
           href="AggregationRelationship_id-d17ed37b2f5242ffb4268de9f9fbabb8.xml#id-d17ed37b2f5242ffb4268de9f9fbabb8"/>
     </sourceConnections>
     <bounds
-        x="731"
+        x="708"
         y="636"
         width="240"
         height="286"/>
@@ -584,6 +584,27 @@
     <archimateElement
         xsi:type="archimate:Deliverable"
         href="Deliverable_id-05c706e4cea4471ea60adae358e7c07e.xml#id-05c706e4cea4471ea60adae358e7c07e"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-5c65d09ad95e411fbd8affa6f569eef0">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-a9a20f58d84f4a2887c5af702f858d5d"
+        source="id-5c65d09ad95e411fbd8affa6f569eef0"
+        target="id-f8666ecd7dae45feae27efb8ded67b03">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-995dc5ed2a6b46368a3579b774dbe1d5.xml#id-995dc5ed2a6b46368a3579b774dbe1d5"/>
+    </sourceConnections>
+    <bounds
+        x="961"
+        y="933"
+        width="145"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Artifact"
+        href="Artifact_id-6848039081c248b2a062c8f072543ae7.xml#id-6848039081c248b2a062c8f072543ae7"/>
   </children>
   <properties
       key="alias"

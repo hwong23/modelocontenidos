@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="06.ENTRG.1n.1a. Gestión Entregas de Requerimientos"
+    name="06.ENTRG.1n.1a. Gestión Entregas de Requerimientos Version 0.1"
     id="id-c31668d4d5dd44309f42fdd5fb2a7a53"
     documentation="Documento de requerimientos, primera versión de entregas del proyecto Integraciones JEP, 2024.&#xA;&#xA;El requerimiento Integración con Sistema Conti x Plani (REQR3, en la imagen) será entregado con la primera versión que se libere de la solución de integración, actualmente en desarrollo por Softgic.&#xA;&#xA;Este requerimiento REQR3 consta de dos iteraciones (Iteración 1 y 2, en la imagen), las cuales a su vez, realizarán dos historias de integración cada una (HU01, HU02, HU03, HU04, respectivamente). &#xA;&#xA;Una vez concluidas la ejecución de las dos iteraciones, y sus historias de integración contenidas, realizaremos la entrega de los 4 primeros servicios de integración desplegables en el namespace de Openshift de desarrollo de la JEP.&#xA;">
   <children
@@ -54,20 +54,6 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-ac48bfeba9d24922a9e7c8b1d753fea8"
-        source="id-e547249e9b084e76b2ac1b4c398b8e54"
-        target="id-33397bfdcc364ffeba3bf7fb6ca4c93e">
-      <bendpoints
-          startX="114"
-          startY="153"
-          endX="-84"
-          endY="-252"/>
-      <archimateRelationship
-          xsi:type="archimate:AssociationRelationship"
-          href="AssociationRelationship_id-7aa698c34c3f4aa3aefd06a44e1ecf55.xml#id-7aa698c34c3f4aa3aefd06a44e1ecf55"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-1bb58d60035346399dcfad716d52733d"
         source="id-e547249e9b084e76b2ac1b4c398b8e54"
         target="id-3fa50bd1b59b4e43a96e20c668ca1f16">
@@ -83,6 +69,20 @@
       <archimateRelationship
           xsi:type="archimate:RealizationRelationship"
           href="RealizationRelationship_id-12f1906ff4eb4cf49cd012657d6292fc.xml#id-12f1906ff4eb4cf49cd012657d6292fc"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-ac48bfeba9d24922a9e7c8b1d753fea8"
+        source="id-e547249e9b084e76b2ac1b4c398b8e54"
+        target="id-d03b5b01b293446aaf85f5ec08110a15">
+      <bendpoints
+          startX="114"
+          startY="153"
+          endX="-84"
+          endY="-252"/>
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-7aa698c34c3f4aa3aefd06a44e1ecf55.xml#id-7aa698c34c3f4aa3aefd06a44e1ecf55"/>
     </sourceConnections>
     <bounds
         x="72"
@@ -107,20 +107,6 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-6b9258d61e314058900b8e0fe0751476"
-        source="id-e6834e0e373044abaf94efa9ab05c57c"
-        target="id-33397bfdcc364ffeba3bf7fb6ca4c93e">
-      <bendpoints
-          startX="-102"
-          startY="153"
-          endX="96"
-          endY="-252"/>
-      <archimateRelationship
-          xsi:type="archimate:AssociationRelationship"
-          href="AssociationRelationship_id-8726bc5d93e54094bf9919d80399c56c.xml#id-8726bc5d93e54094bf9919d80399c56c"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-a24cc3c7594e4fb4810436a6b9b1bb6d"
         source="id-e6834e0e373044abaf94efa9ab05c57c"
         target="id-e4f45cc8403c4f0d8617e74a57d8e245">
@@ -136,6 +122,20 @@
       <archimateRelationship
           xsi:type="archimate:RealizationRelationship"
           href="RealizationRelationship_id-32467f9fbc3142278b9eb5949dc53a92.xml#id-32467f9fbc3142278b9eb5949dc53a92"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-6b9258d61e314058900b8e0fe0751476"
+        source="id-e6834e0e373044abaf94efa9ab05c57c"
+        target="id-d03b5b01b293446aaf85f5ec08110a15">
+      <bendpoints
+          startX="-102"
+          startY="153"
+          endX="96"
+          endY="-252"/>
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-8726bc5d93e54094bf9919d80399c56c.xml#id-8726bc5d93e54094bf9919d80399c56c"/>
     </sourceConnections>
     <bounds
         x="468"
@@ -246,7 +246,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-0209db1c6b074d7394b78ad8ab65ef46"
       textAlignment="1"
-      content="Integraciones JEP, 2024&#xA;&#xA;Integración JEP. Softgic. Plan de Entregas del proyecto de integración JEP, iteraciones y Entregables por versión.&#xA;&#xA;versión 0.1.4&#xA;">
+      content="Integraciones JEP, 2024&#xA;&#xA;Integración JEP. Softgic. Plan de Entregas del proyecto de integración JEP, iteraciones y Entregables por versión.&#xA;&#xA;versión 0.1.8&#xA;">
     <bounds
         x="11"
         y="12"
@@ -262,7 +262,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-33397bfdcc364ffeba3bf7fb6ca4c93e"
-      targetConnections="id-6b9258d61e314058900b8e0fe0751476 id-ac48bfeba9d24922a9e7c8b1d753fea8 id-d2d7c1881e9e4f8698a547d057d3f23b"
+      targetConnections="id-d2d7c1881e9e4f8698a547d057d3f23b"
       textAlignment="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -293,7 +293,7 @@
     </sourceConnections>
     <bounds
         x="252"
-        y="600"
+        y="648"
         width="288"
         height="241"/>
     <children
@@ -344,7 +344,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-d03b5b01b293446aaf85f5ec08110a15">
+      id="id-d03b5b01b293446aaf85f5ec08110a15"
+      targetConnections="id-ac48bfeba9d24922a9e7c8b1d753fea8 id-6b9258d61e314058900b8e0fe0751476">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-d2d7c1881e9e4f8698a547d057d3f23b"
@@ -356,7 +357,7 @@
     </sourceConnections>
     <bounds
         x="252"
-        y="888"
+        y="528"
         width="288"
         height="55"/>
     <archimateElement
