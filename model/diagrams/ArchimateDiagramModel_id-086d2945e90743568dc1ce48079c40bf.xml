@@ -1,0 +1,74 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="05.REQR.2n.4n. Casos de Uso REQR11"
+    id="id-086d2945e90743568dc1ce48079c40bf"
+    documentation="---&#xA;subtitle: Implementación Proyecto Evolución de Interoperabilidad JEP, Softgic&#xA;subject: Implementación Proyecto JEP&#xA;author: &quot;Versión actual: 1.$COMMIT&quot;&#xA;date: 2024-11-8&#xA;keywords: [Integración, Interoperabilidad, JEP, Softgic, Caso de uso]&#xA;header-left: include/jeplogo.jpg&#xA;lang: en&#xA;titlepage: true&#xA;titlepage-rule-color: 360049&#xA;geometry:&#xA;  - top=1in&#xA;  - bottom=1in&#xA;fignos-cleveref: True&#xA;fignos-plus-name: Fig.&#xA;fignos-caption-name: Imagen&#xA;tablenos-caption-name: Tabla&#xA;...&#xA;&#xA;Documentación de los casos de uso de integración del proyecto JEP relacionados con los requerimientos. COndiciones de interoperabilidad, pruebas técnicas y entregables.&#xA;&#xA;Fuente: Acta de requerimientos Integración Plani - Proceso Precontractual_V4.pdf&#xA;">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-f335b0d3fbb24eb095c007cf44cbedd4">
+    <bounds
+        x="21"
+        y="192"
+        width="544"
+        height="313"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-65844109e9cf41f2aade62dc140d3814"
+        type="1">
+      <bounds
+          x="24"
+          y="60"
+          width="244"
+          height="145"/>
+      <archimateElement
+          xsi:type="archimate:Deliverable"
+          href="Deliverable_id-45ac017db3994978a6b42e1ecc55da84.xml#id-45ac017db3994978a6b42e1ecc55da84"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-f59c6c79bd454c7e86a75c099d52c77d"
+        type="1">
+      <bounds
+          x="276"
+          y="60"
+          width="244"
+          height="145"/>
+      <archimateElement
+          xsi:type="archimate:Deliverable"
+          href="Deliverable_id-cb80e7d570ce4b44b84ab3de9ced1153.xml#id-cb80e7d570ce4b44b84ab3de9ced1153"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:Requirement"
+        href="Requirement_id-d032e8dbb21a4024acb34f75c10adda6.xml#id-d032e8dbb21a4024acb34f75c10adda6"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-8fae8bcc855145958b54e0bd75e04d5e"
+      textAlignment="1"
+      content="Casos de Uso&#xA;Proyecto Integración JEP, 2024. Softgic.&#xA;&#xA;Especificaciones de integraciones (CU), condiciones de interoperabilidad, pruebas técnicas, entregables.&#xA;&#xA;Versión 0.1.97">
+    <bounds
+        x="21"
+        y="12"
+        width="244"
+        height="145"/>
+  </children>
+  <properties
+      key="devdoc"
+      value="03.cu2.vista.md"/>
+  <properties
+      key="alias"
+      value="cu2"/>
+  <properties
+      key="titulo"
+      value="Especificación de Integraciones (caso de uso)"/>
+  <properties
+      key="IncluyeSaltosLineaElementos"
+      value="true"/>
+  <properties
+      key="plantillaElm"
+      value="elementsimple-sintit-md,elementsimple-filatit-md"/>
+  <properties
+      key="IncluyeElementosSindoc"
+      value="true"/>
+</archimate:ArchimateDiagramModel>
