@@ -608,11 +608,11 @@
   </children>
   <properties
       key="alias"
-      value="planentrega"/>
+      value="entregav011"/>
   <properties
       key="devdoc"
       value="06.ENTRG.1n.modeloentregas.md"/>
   <properties
       key="titulo"
-      value="Despliegue de Entregas de Requerimientos"/>
+      value="Despliegue de Entrega del Requerimiento"/>
 </archimate:ArchimateDiagramModel>
