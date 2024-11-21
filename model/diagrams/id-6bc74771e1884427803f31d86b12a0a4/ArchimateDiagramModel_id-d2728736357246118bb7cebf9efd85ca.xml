@@ -311,4 +311,7 @@
   <properties
       key="rutaMac"
       value="/Downloads/tmpr/pgnmd/"/>
+  <properties
+      key="DocumentosIndividualesxVista"
+      value="true"/>
 </archimate:ArchimateDiagramModel>
