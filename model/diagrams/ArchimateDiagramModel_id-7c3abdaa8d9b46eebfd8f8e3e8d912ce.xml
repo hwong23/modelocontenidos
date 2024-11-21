@@ -621,4 +621,7 @@
   <properties
       key="titulo"
       value="Modelo de Gestión de Requerimientos de Integración"/>
+  <properties
+      key="devdoc"
+      value="02.modelorequerimientos.md"/>
 </archimate:ArchimateDiagramModel>
