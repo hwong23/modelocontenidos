@@ -6,7 +6,4 @@
   <properties
       key="destino"
       value="doc, tex, pdf, html"/>
-  <properties
-      key="titulo"
-      value="Requerimiento Integración envío de peticiones LEGALi x CONTi (REQR13)"/>
 </archimate:Requirement>

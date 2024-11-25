@@ -6,7 +6,4 @@
   <properties
       key="destino"
       value="doc, tex, pdf, html"/>
-  <properties
-      key="titulo"
-      value="Requerimiento Integración Gestión Medida Protección (REQR11)"/>
 </archimate:Requirement>
