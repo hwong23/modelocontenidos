@@ -170,9 +170,9 @@
           href="CompositionRelationship_id-70eadffa45ac47be8d98017dce82e6aa.xml#id-70eadffa45ac47be8d98017dce82e6aa"/>
     </sourceConnections>
     <bounds
-        x="36"
-        y="761"
-        width="180"
+        x="21"
+        y="768"
+        width="196"
         height="310"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -394,7 +394,7 @@
     <bounds
         x="607"
         y="300"
-        width="180"
+        width="193"
         height="310"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
