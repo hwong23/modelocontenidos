@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Valor: Integración Legali x Conti"
     id="id-6579a17d6f334e0e97ff97d35ccbc548"
-    documentation="Valor: Integración del gestor documental con el gestor de casos Legali.&#xA;">
+    documentation="Integración del gestor documental con el gestor de casos Legali.&#xA;">
   <properties
       key="destino"
       value="doc, tex, pdf, html"/>
