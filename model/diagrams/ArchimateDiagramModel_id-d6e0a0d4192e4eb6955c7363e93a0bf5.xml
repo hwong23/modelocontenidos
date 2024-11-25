@@ -122,7 +122,7 @@
       value="cu2"/>
   <properties
       key="titulo"
-      value="Especificación de Integraciones (caso de uso)"/>
+      value="Requerimiento Integración envío de peticiones LEGALi x CONTi (REQR13)"/>
   <properties
       key="IncluyeSaltosLineaElementos"
       value="true"/>
