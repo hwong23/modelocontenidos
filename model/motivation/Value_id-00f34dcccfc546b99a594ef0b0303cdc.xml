@@ -1,7 +1,8 @@
 <archimate:Value
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Entrega Versión 0.1"
-    id="id-00f34dcccfc546b99a594ef0b0303cdc">
+    name="Entrega Versión 1.0"
+    id="id-00f34dcccfc546b99a594ef0b0303cdc"
+    documentation="Versión 1. Solución integración JEP.&#xA;">
   <properties
       key="destino"/>
 </archimate:Value>
