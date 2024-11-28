@@ -686,6 +686,15 @@
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_id-506feb18764b4a23a7852bafa4608f0c.xml#id-506feb18764b4a23a7852bafa4608f0c"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-6c7062874f37419ea4ef4f04a75b59ee"
+        source="id-280fc995f54a468a8d263543e4eab49e"
+        target="id-b9376e7b34904f6b9d5831a6d93a6ba7">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-e7a69a8b97e84bfea8fe501fa9b72686.xml#id-e7a69a8b97e84bfea8fe501fa9b72686"/>
+    </sourceConnections>
     <bounds
         x="631"
         y="1212"
@@ -730,6 +739,19 @@
           xsi:type="archimate:ApplicationService"
           href="ApplicationService_id-42d565d8339e4ae991e86561c121d59c.xml#id-42d565d8339e4ae991e86561c121d59c"/>
     </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-b9376e7b34904f6b9d5831a6d93a6ba7"
+        targetConnections="id-6c7062874f37419ea4ef4f04a75b59ee">
+      <bounds
+          x="12"
+          y="216"
+          width="156"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationService"
+          href="ApplicationService_id-cb24a6c23a264a2fa854382ec99d77c0.xml#id-cb24a6c23a264a2fa854382ec99d77c0"/>
+    </children>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-a18f31bac2ab4635be4f9fc21e14d5f8.xml#id-a18f31bac2ab4635be4f9fc21e14d5f8"/>
@@ -757,18 +779,6 @@
     <archimateElement
         xsi:type="archimate:Deliverable"
         href="Deliverable_id-54fb63a0420440f590044388a24c69c5.xml#id-54fb63a0420440f590044388a24c69c5"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-b9376e7b34904f6b9d5831a6d93a6ba7">
-    <bounds
-        x="768"
-        y="1452"
-        width="156"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationService"
-        href="ApplicationService_id-cb24a6c23a264a2fa854382ec99d77c0.xml#id-cb24a6c23a264a2fa854382ec99d77c0"/>
   </children>
   <properties
       key="devdoc"
