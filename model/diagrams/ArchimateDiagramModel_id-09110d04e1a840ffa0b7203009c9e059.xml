@@ -230,12 +230,12 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-c353e21a1bd241fb92ca3417e9e1f932"
+        id="id-71db0cf3f7e24bb9baa1aa6e95bed252"
         source="id-b6137a8839d8436ea5d398c95e7148eb"
-        target="id-066999e7753f45dab5ac83d1c50eea73">
+        target="id-c983a079231343ada2bf28d4ea385f21">
       <archimateRelationship
           xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_id-ce2f9c6c5fe3486ba54b32e3b6c60e90.xml#id-ce2f9c6c5fe3486ba54b32e3b6c60e90"/>
+          href="CompositionRelationship_id-5c8e840053904d889f0a2fa9b6808e94.xml#id-5c8e840053904d889f0a2fa9b6808e94"/>
     </sourceConnections>
     <bounds
         x="276"
@@ -303,12 +303,7 @@
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-fdf6a422ead041439e1ae24ebf694701"
           source="id-2378044e35684ec5a36f92517e7e402a"
-          target="id-066999e7753f45dab5ac83d1c50eea73">
-        <bendpoints
-            startX="60"
-            startY="94"
-            endX="12"
-            endY="-86"/>
+          target="id-c983a079231343ada2bf28d4ea385f21">
         <archimateRelationship
             xsi:type="archimate:RealizationRelationship"
             href="RealizationRelationship_id-3e0323ed687a491eaf3c080d39ed9f8d.xml#id-3e0323ed687a491eaf3c080d39ed9f8d"/>
@@ -337,16 +332,16 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-066999e7753f45dab5ac83d1c50eea73"
-        targetConnections="id-c353e21a1bd241fb92ca3417e9e1f932 id-fdf6a422ead041439e1ae24ebf694701">
+        id="id-c983a079231343ada2bf28d4ea385f21"
+        targetConnections="id-71db0cf3f7e24bb9baa1aa6e95bed252 id-fdf6a422ead041439e1ae24ebf694701">
       <bounds
-          x="276"
+          x="300"
           y="198"
           width="169"
           height="55"/>
       <archimateElement
           xsi:type="archimate:Requirement"
-          href="Requirement_id-c0045aae83b243448cbf925f836bab59.xml#id-c0045aae83b243448cbf925f836bab59"/>
+          href="Requirement_id-18606589291343e38d30f3093d598013.xml#id-18606589291343e38d30f3093d598013"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"
