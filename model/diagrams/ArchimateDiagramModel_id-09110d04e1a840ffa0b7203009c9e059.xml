@@ -91,8 +91,8 @@
           href="CompositionRelationship_id-86d7052e0f4d4edba118b4d881b9884b.xml#id-86d7052e0f4d4edba118b4d881b9884b"/>
     </sourceConnections>
     <bounds
-        x="252"
-        y="67"
+        x="11"
+        y="247"
         width="1068"
         height="240"/>
     <children
@@ -279,11 +279,11 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-0ac078a40ad24a0e9982fba596e7416a"
       textAlignment="1"
-      content="Integraciones JEP, 2024&#xA;&#xA;Integración JEP. Softgic. Plan de Entregas del proyecto de integración JEP, iteraciones y Entregables por versión.&#xA;&#xA;versión 0.1.8&#xA;">
+      content="Integraciones JEP, 2024&#xA;&#xA;Integración JEP. Softgic. Plan de Entregas del proyecto de integración JEP, capacidades, nivel de progreso, iteraciones y entregables por versión.&#xA;&#xA;versión 0.2.14&#xA;">
     <bounds
         x="11"
         y="12"
-        width="229"
+        width="302"
         height="148"/>
     <properties
         key="modulo"
@@ -296,8 +296,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-39201030ae4741a9bf5f7d4ca3ad0960">
     <bounds
-        x="252"
-        y="12"
+        x="11"
+        y="192"
         width="396"
         height="55"/>
     <archimateElement
@@ -391,8 +391,8 @@
           href="CompositionRelationship_id-f57ac02a341e483f8adb5ab4cb06b27e.xml#id-f57ac02a341e483f8adb5ab4cb06b27e"/>
     </sourceConnections>
     <bounds
-        x="252"
-        y="306"
+        x="11"
+        y="486"
         width="1068"
         height="336"/>
     <children
@@ -493,7 +493,7 @@
         targetConnections="id-a16633e1232d42838d3f3c95510920f9 id-474e331d52ca439487172daa82ccd9d6">
       <bounds
           x="851"
-          y="216"
+          y="228"
           width="180"
           height="55"/>
       <archimateElement
@@ -506,7 +506,7 @@
         targetConnections="id-13588de1e52e4064aa4cb78999527b8d id-1e11ec5ea4354e36b3307ba25f8a05f8">
       <bounds
           x="672"
-          y="156"
+          y="168"
           width="180"
           height="55"/>
       <archimateElement
@@ -559,7 +559,7 @@
       </sourceConnections>
       <bounds
           x="672"
-          y="48"
+          y="60"
           width="361"
           height="55"/>
       <archimateElement
@@ -574,8 +574,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-17f0822e9ba9409fad634757cf042a71">
     <bounds
-        x="647"
-        y="12"
+        x="406"
+        y="192"
         width="278"
         height="55"/>
     <archimateElement
@@ -586,8 +586,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-5891430ed9214a2ab7bdc4dc3b97a9d0">
     <bounds
-        x="924"
-        y="12"
+        x="683"
+        y="192"
         width="396"
         height="55"/>
     <archimateElement
