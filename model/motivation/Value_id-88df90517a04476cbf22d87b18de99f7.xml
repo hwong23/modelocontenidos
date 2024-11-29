@@ -1,0 +1,14 @@
+<archimate:Value
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Entregado"
+    id="id-88df90517a04476cbf22d87b18de99f7"
+    documentation="Versión 1. Solución integración JEP.&#xA;">
+  <properties
+      key="destino"/>
+  <properties
+      key="progreso"
+      value="100"/>
+  <properties
+      key="proceso"
+      value="transición"/>
+</archimate:Value>

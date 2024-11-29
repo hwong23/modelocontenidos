@@ -6,7 +6,9 @@
   <properties
       key="destino"/>
   <properties
-      key="proceso"/>
+      key="proceso"
+      value="planeación"/>
   <properties
-      key="progreso"/>
+      key="progreso"
+      value="10"/>
 </archimate:Value>
