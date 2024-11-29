@@ -92,19 +92,24 @@
     </sourceConnections>
     <bounds
         x="11"
-        y="247"
+        y="258"
         width="1068"
-        height="240"/>
+        height="276"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-9cb00643ebc64fbc9ad76dd2302eaee6"
         targetConnections="id-ff853e0078994943b6f6396e4aefb749 id-91a19c00c0c8429e97ec1ea25cf52496"
+        textAlignment="1"
+        fillColor="#40bf60"
         textPosition="1">
+      <features
+          name="labelExpression"
+          value="${name}: &#xA;avance: ${property:progreso}%&#xA;proceso: ${property:proceso}"/>
       <bounds
           x="24"
-          y="24"
+          y="36"
           width="169"
-          height="55"/>
+          height="79"/>
       <archimateElement
           xsi:type="archimate:Value"
           href="Value_id-00f34dcccfc546b99a594ef0b0303cdc.xml#id-00f34dcccfc546b99a594ef0b0303cdc"/>
@@ -124,7 +129,7 @@
       </sourceConnections>
       <bounds
           x="24"
-          y="120"
+          y="156"
           width="169"
           height="55"/>
       <archimateElement
@@ -135,12 +140,17 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-fadc46520ef84161a32139d90772dca0"
         targetConnections="id-593f3b3a8a9f435dbf744012d3bc9cd5 id-485040f762284231a49a56f9773c7459"
+        textAlignment="1"
+        fillColor="#40bf60"
         textPosition="1">
+      <features
+          name="labelExpression"
+          value="${name}: &#xA;avance: ${property:progreso}%&#xA;proceso: ${property:proceso}"/>
       <bounds
           x="216"
-          y="24"
+          y="36"
           width="169"
-          height="55"/>
+          height="79"/>
       <archimateElement
           xsi:type="archimate:Value"
           href="Value_id-dce5d6fc1c7e421d91a844f40a74b493.xml#id-dce5d6fc1c7e421d91a844f40a74b493"/>
@@ -169,7 +179,7 @@
       </sourceConnections>
       <bounds
           x="216"
-          y="120"
+          y="156"
           width="169"
           height="55"/>
       <archimateElement
@@ -180,7 +190,11 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-11b18b8288d74f6d84c593a6f5ae0b82"
         targetConnections="id-f56efc7977944c9385672ed872e0c7a7"
+        textAlignment="1"
         textPosition="1">
+      <features
+          name="labelExpression"
+          value="${name}: &#xA;avance: ${property:progreso}%&#xA;proceso: ${property:proceso}"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-e599024ce61d4791a134e21d5b4bd878"
@@ -192,9 +206,9 @@
       </sourceConnections>
       <bounds
           x="672"
-          y="48"
+          y="60"
           width="169"
-          height="55"/>
+          height="79"/>
       <archimateElement
           xsi:type="archimate:Value"
           href="Value_id-2c3d022c57274abf9def76cb5a896141.xml#id-2c3d022c57274abf9def76cb5a896141"/>
@@ -203,12 +217,17 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-7ec8d33a98ee4705a9f52a544cefe0f0"
         targetConnections="id-80cca3ae72f945bc81bb69bb301e8666"
+        textAlignment="1"
+        fillColor="#40bf60"
         textPosition="1">
+      <features
+          name="labelExpression"
+          value="${name}: &#xA;avance: ${property:progreso}%&#xA;proceso: ${property:proceso}"/>
       <bounds
           x="420"
-          y="36"
+          y="48"
           width="169"
-          height="55"/>
+          height="79"/>
       <archimateElement
           xsi:type="archimate:Value"
           href="Value_id-1fa4f16e8f2a453abd6a767cbe21b16d.xml#id-1fa4f16e8f2a453abd6a767cbe21b16d"/>
@@ -217,7 +236,11 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-fb09df6f45984ba480df82250e178ee2"
         targetConnections="id-581a0462fda24a8eabb38b1e89ec50b0"
+        textAlignment="1"
         textPosition="1">
+      <features
+          name="labelExpression"
+          value="${name}: &#xA;avance: ${property:progreso}%&#xA;proceso: ${property:proceso}"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-0be94a9198cc4a8bb23e7ab623710641"
@@ -229,9 +252,9 @@
       </sourceConnections>
       <bounds
           x="864"
-          y="48"
+          y="60"
           width="169"
-          height="55"/>
+          height="79"/>
       <archimateElement
           xsi:type="archimate:Value"
           href="Value_id-062271a05446421f9a49295f9e9f7d26.xml#id-062271a05446421f9a49295f9e9f7d26"/>
@@ -242,7 +265,7 @@
         targetConnections="id-a60116bb85584f71805edefcf1e926c4">
       <bounds
           x="420"
-          y="132"
+          y="168"
           width="169"
           height="55"/>
       <archimateElement
@@ -264,7 +287,7 @@
       </sourceConnections>
       <bounds
           x="672"
-          y="144"
+          y="180"
           width="361"
           height="55"/>
       <archimateElement
@@ -297,7 +320,7 @@
       id="id-39201030ae4741a9bf5f7d4ca3ad0960">
     <bounds
         x="11"
-        y="192"
+        y="204"
         width="396"
         height="55"/>
     <archimateElement
@@ -392,7 +415,7 @@
     </sourceConnections>
     <bounds
         x="11"
-        y="486"
+        y="534"
         width="1068"
         height="336"/>
     <children
@@ -575,7 +598,7 @@
       id="id-17f0822e9ba9409fad634757cf042a71">
     <bounds
         x="406"
-        y="192"
+        y="204"
         width="278"
         height="55"/>
     <archimateElement
@@ -587,7 +610,7 @@
       id="id-5891430ed9214a2ab7bdc4dc3b97a9d0">
     <bounds
         x="683"
-        y="192"
+        y="204"
         width="396"
         height="55"/>
     <archimateElement

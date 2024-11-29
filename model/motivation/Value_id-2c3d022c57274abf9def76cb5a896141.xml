@@ -5,4 +5,8 @@
     documentation="Versión 1.1. Solución integración JEP.&#xA;">
   <properties
       key="destino"/>
+  <properties
+      key="proceso"/>
+  <properties
+      key="progreso"/>
 </archimate:Value>

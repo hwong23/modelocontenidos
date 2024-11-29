@@ -8,4 +8,7 @@
   <properties
       key="progreso"
       value="75"/>
+  <properties
+      key="proceso"
+      value="transición"/>
 </archimate:Value>

@@ -5,4 +5,10 @@
     documentation="Versión 2.0. Solución integración JEP.&#xA;">
   <properties
       key="destino"/>
+  <properties
+      key="proceso"
+      value="transición"/>
+  <properties
+      key="progreso"
+      value="75"/>
 </archimate:Value>
