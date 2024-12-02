@@ -1,8 +1,8 @@
 <archimate:Requirement
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="REQR14. Integracieon Unidad de Tierras"
+    name="REQR14. Integración Unidad de Tierras"
     id="id-b3ed93c7ee3e4fcf9c14eeff7930a9c9"
-    documentation="&#xA;">
+    documentation="Atendiendo la necesidad de Justicia Digital, se requiere implementar la integración de (...) como la exposición de las capacidades de la Unidad de Tierras, JEP.&#xA;&#xA;Fuente: &#xA;&#xA;&#xA;### Índice de la documentación (casos de uso)&#xA;&#xA;1. Caso de Uso 1. &#xA;&#xA;Los casos de uso se detallan en anexo más adelante.&#xA;">
   <properties
       key="destino"
       value="doc, tex, pdf, html"/>
