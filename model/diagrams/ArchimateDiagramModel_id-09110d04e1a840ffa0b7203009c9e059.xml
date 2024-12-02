@@ -224,6 +224,15 @@
       <features
           name="labelExpression"
           value="${name}: &#xA;avance: ${property:progreso}%&#xA;proceso: ${property:proceso}"/>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-58b3e7231d4644a391d26cff216be3b6"
+          source="id-7ec8d33a98ee4705a9f52a544cefe0f0"
+          target="id-abcb57b0dc9445bcb6470fffa6ec32c0">
+        <archimateRelationship
+            xsi:type="archimate:AssociationRelationship"
+            href="AssociationRelationship_id-04d63952013e488b8067b2200a71e121.xml#id-04d63952013e488b8067b2200a71e121"/>
+      </sourceConnections>
       <bounds
           x="420"
           y="48"
@@ -264,7 +273,16 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-abcb57b0dc9445bcb6470fffa6ec32c0"
-        targetConnections="id-a60116bb85584f71805edefcf1e926c4">
+        targetConnections="id-a60116bb85584f71805edefcf1e926c4 id-58b3e7231d4644a391d26cff216be3b6">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-abb8ae0110124aad9ee63708b0ba99d3"
+          source="id-abcb57b0dc9445bcb6470fffa6ec32c0"
+          target="id-06110977715a4457a33583a18d6452b2">
+        <archimateRelationship
+            xsi:type="archimate:AssociationRelationship"
+            href="AssociationRelationship_id-c6ad0cbd270a4b718defd7770a9e43d5.xml#id-c6ad0cbd270a4b718defd7770a9e43d5"/>
+      </sourceConnections>
       <bounds
           x="420"
           y="168"
@@ -304,7 +322,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-0ac078a40ad24a0e9982fba596e7416a"
       textAlignment="1"
-      content="Integraciones JEP, 2024&#xA;&#xA;Integración JEP. Softgic. Plan de Entregas del proyecto de integración JEP, capacidades, nivel de progreso, iteraciones y entregables por versión.&#xA;&#xA;versión 0.2.25&#xA;">
+      content="Integraciones JEP, 2024&#xA;&#xA;Integración JEP. Softgic. Plan de Entregas del proyecto de integración JEP, capacidades, nivel de progreso, iteraciones y entregables por versión.&#xA;&#xA;versión 0.2.31&#xA;">
     <bounds
         x="11"
         y="12"
@@ -550,7 +568,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-06110977715a4457a33583a18d6452b2"
-        targetConnections="id-5ee5eff186bd4a6da633440697656cdb">
+        targetConnections="id-5ee5eff186bd4a6da633440697656cdb id-abb8ae0110124aad9ee63708b0ba99d3">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-fdf6a422ead041439e1ae24ebf694701"
