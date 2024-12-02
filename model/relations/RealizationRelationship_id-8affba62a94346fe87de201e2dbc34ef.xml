@@ -1,6 +1,7 @@
 <archimate:RealizationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="gestiona"
     id="id-8affba62a94346fe87de201e2dbc34ef">
   <source
       xsi:type="archimate:Deliverable"
