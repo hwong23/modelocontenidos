@@ -116,10 +116,10 @@
   </children>
   <properties
       key="devdoc"
-      value="03.cu2.vista.md"/>
+      value="03.cu.reqr13.md"/>
   <properties
       key="alias"
-      value="cu2"/>
+      value="cureqr13"/>
   <properties
       key="titulo"
       value="Especificación CU Requerimiento REQR13"/>

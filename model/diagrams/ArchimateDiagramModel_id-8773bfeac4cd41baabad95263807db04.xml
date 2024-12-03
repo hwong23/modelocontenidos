@@ -224,13 +224,13 @@
   </children>
   <properties
       key="devdoc"
-      value="07.c.requerimiento.md"/>
+      value="07.d.requerimiento.md"/>
   <properties
       key="alias"
-      value="requerimiento1c"/>
+      value="requerimiento1d"/>
   <properties
       key="titulo"
-      value="Requerimiento Integración envío de peticiones LEGALi x CONTi (REQR13)"/>
+      value="Requerimiento Integración Unidad de Tierras (REQR14)"/>
   <properties
       key="plantillaElm"
       value="elementsimple-sintit-md,elementsimple-filatit-md"/>
