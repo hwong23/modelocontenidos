@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DIS.Arquitectura / diseño"
     id="id-c62e7c9d16bd40ccbbe403b26ac2b83a"
-    documentation="### KPI&#xD;&#xA;- Nivel de HU sin detalle técnico&#xD;&#xA;Fuente: (Cantidad de HU refinadas y aprobadas sin diseño de implementacion [Repo Sharepoint] / Total de cantidad de HU [Azure DevOps])&#xD;&#xA;Dato 26/10/2023: 0/44=0&#xA;"/>
+    documentation="*KPI*&#xA;&#xD;&#xA;- Nivel de HU sin detalle técnico&#xD;&#xA;Fuente: (Cantidad de HU refinadas y aprobadas sin diseño de implementacion [Repo Sharepoint] / Total de cantidad de HU [Azure DevOps])&#xD;&#xA;Dato 26/10/2023: 0/44=0&#xA;"/>
