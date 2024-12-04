@@ -809,4 +809,7 @@
   <properties
       key="devdoc"
       value="03.modeloprodcc.md"/>
+  <properties
+      key="plantillaElm"
+      value="elementsimple-md,elementsimple-fila-md"/>
 </archimate:ArchimateDiagramModel>
