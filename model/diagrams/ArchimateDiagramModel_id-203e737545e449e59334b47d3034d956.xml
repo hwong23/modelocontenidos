@@ -615,4 +615,7 @@
   <properties
       key="titulo"
       value="Despliegue de Entrega del Requerimiento"/>
+  <properties
+      key="plantillaElm"
+      value="elementsimple-md,elementsimple-fila-md"/>
 </archimate:ArchimateDiagramModel>
