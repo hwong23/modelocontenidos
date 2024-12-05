@@ -99,6 +99,18 @@
         xsi:type="archimate:Requirement"
         href="Requirement_id-873e7eb842c948199a04e8d849ee40e3.xml#id-873e7eb842c948199a04e8d849ee40e3"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-c28bfba5c34c4a32b154f71223c78354">
+    <bounds
+        x="564"
+        y="252"
+        width="169"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Requirement"
+        href="Requirement_id-0f49813b8be04c52b83deb164e3635a8.xml#id-0f49813b8be04c52b83deb164e3635a8"/>
+  </children>
   <properties
       key="devdoc"
       value="03.contd.vista.md"/>
