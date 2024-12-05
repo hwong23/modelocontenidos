@@ -131,13 +131,13 @@
   </children>
   <properties
       key="devdoc"
-      value="03.cu.reqr14.md"/>
+      value="03.cu.reqr15.md"/>
   <properties
       key="alias"
-      value="cureqr14"/>
+      value="cureqr15"/>
   <properties
       key="titulo"
-      value="Especificación CU Requerimiento REQR14"/>
+      value="Especificación CU Requerimiento REQR15"/>
   <properties
       key="IncluyeSaltosLineaElementos"
       value="true"/>
