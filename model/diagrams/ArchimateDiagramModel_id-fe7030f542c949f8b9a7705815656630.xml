@@ -181,10 +181,10 @@
   </children>
   <properties
       key="devdoc"
-      value="07.c.requerimiento.md"/>
+      value="07.h.requerimiento.md"/>
   <properties
       key="alias"
-      value="requerimiento1c"/>
+      value="requerimiento1h"/>
   <properties
       key="titulo"
       value="Requerimiento Integración envío de peticiones LEGALi x CONTi (REQR13)"/>

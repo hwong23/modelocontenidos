@@ -95,10 +95,10 @@
   </children>
   <properties
       key="devdoc"
-      value="07.c.requerimiento.md"/>
+      value="07.g.requerimiento.md"/>
   <properties
       key="alias"
-      value="requerimiento1c"/>
+      value="requerimiento1g"/>
   <properties
       key="titulo"
       value="Requerimiento Integración envío de peticiones LEGALi x CONTi (REQR13)"/>
