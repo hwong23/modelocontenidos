@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SINT80. Integrar"
+    id="id-1bc35543f84d460697cdc08ba1df07cc"
+    documentation="Url: /mercurio/apiRest/PlaniServices/getNumeroProceso&#xA;&#xA;Tareas de desarrollo&#xA;&#xA;* Interoperabilidad IOP1. Transporte / Entrega Consulta Negocio &#x9;&#xA;* Modelo de datos (XML, RBDMS, …)&#xA;* Esquema de datos (XSD, DTD, JSON-E…)&#xA;* Contratos de interoperabilidad (WSDL, API…)&#xA;* Mensajes petición IN (API, XML…)&#xA;* Mensajes respuesta OUT (API, XML…)&#xA;* Mensajes excepción (API, XML…)&#xA;* Transporte (REST, SOAP)&#xA;* Función lógica (JEE, …)&#xA;* Registro y envío de actividad&#xA;">
+  <properties
+      key="destino"
+      value="doc, tex, pdf, html"/>
+</archimate:ApplicationService>

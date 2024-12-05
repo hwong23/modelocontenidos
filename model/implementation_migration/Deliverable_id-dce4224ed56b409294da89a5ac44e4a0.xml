@@ -1,0 +1,8 @@
+<archimate:Deliverable
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HU.SINT82. Integración"
+    id="id-dce4224ed56b409294da89a5ac44e4a0">
+  <properties
+      key="destino"
+      value="doc, pdf, tex, ppt"/>
+</archimate:Deliverable>
