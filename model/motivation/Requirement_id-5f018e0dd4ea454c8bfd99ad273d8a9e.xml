@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="REQR15. Integración Webservices Plani"
     id="id-5f018e0dd4ea454c8bfd99ad273d8a9e"
-    documentation="Atendiendo la necesidad de Justicia Digital, se requiere implementar la integración de (...) como la exposición de las capacidades de la Unidad de Tierras, JEP.&#xA;&#xA;Fuente: webservicesPlani (pdf).&#xA;&#xA;&#xA;### Índice de la documentación (casos de uso)&#xA;&#xA;1. Caso de Uso 1. &#xA;&#xA;Los casos de uso se detallan en anexo más adelante.&#xA;">
+    documentation="Atendiendo la necesidad de Justicia Digital, se requiere implementar la integración de Webservices Plani como la exposición de las capacidades del módulo Plani.&#xA;&#xA;Fuente: webservicesPlani (pdf).&#xA;&#xA;### Índice de la documentación (casos de uso)&#xA;&#xA;1. Integrar Obtener Numero Proceso&#xA;1. Integrar Obtener Numero Contrato&#xA;1. Integrar Obtener Datos del Contrato&#xA;&#xA;Los casos de uso se detallan en anexo más adelante.&#xA;">
   <properties
       key="destino"
       value="doc, tex, pdf, html"/>
