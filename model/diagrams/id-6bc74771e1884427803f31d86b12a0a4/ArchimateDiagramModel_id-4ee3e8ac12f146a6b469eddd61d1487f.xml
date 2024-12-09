@@ -83,7 +83,7 @@
     <bounds
         x="24"
         y="372"
-        width="744"
+        width="516"
         height="157"/>
     <children
         xsi:type="archimate:DiagramModelReference"
@@ -155,7 +155,7 @@
       value="jeprequerimiento13"/>
   <properties
       key="devdoc"
-      value="01.1n.3.JEP.requerimiento13.md"/>
+      value="05.13.JEP.requerimiento13.md"/>
   <properties
       key="titulo"
       value="Contenido"/>
