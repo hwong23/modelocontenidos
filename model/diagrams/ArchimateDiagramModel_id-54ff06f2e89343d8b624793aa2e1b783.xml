@@ -246,7 +246,7 @@
         id="id-b0ec58025b894fa8a906d5bfc73c3fbc"
         targetConnections="id-21b80854922f4370accc91769c626402"
         textAlignment="1"
-        fillColor="#e61a0d"
+        fillColor="#40bf60"
         textPosition="1">
       <features
           name="labelExpression"
@@ -331,7 +331,7 @@
         id="id-c93d89502c5c49b3ab60ac47d3f71591"
         targetConnections="id-170c4b939f0840d1af4f0d41410c4677"
         textAlignment="1"
-        fillColor="#e61a0d"
+        fillColor="#40bf60"
         textPosition="1">
       <features
           name="labelExpression"
@@ -375,7 +375,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-bda350d0214b4292afb1b10db3913d72"
       textAlignment="1"
-      content="Integraciones JEP, 2024&#xA;&#xA;Integración JEP. Softgic. Plan de Entregas del proyecto de integración JEP, capacidades, nivel de progreso, iteraciones y entregables por versión.&#xA;&#xA;versión 0.2.31&#xA;">
+      content="Integraciones JEP, 2024&#xA;&#xA;Integración JEP. Softgic. Plan de Entregas del proyecto de integración JEP, capacidades, nivel de progreso, iteraciones y entregables por versión.&#xA;&#xA;versión 0.2.33&#xA;">
     <bounds
         x="11"
         y="12"
