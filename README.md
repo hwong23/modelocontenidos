@@ -1,7 +1,3 @@
-Proyecto documental.
-DevDocs
+Proyecto documental. DevDocs
 
-Ramas:
-2-hv
-4-propuesta
-5-clusterswarm
+Rama actual: 5-clusterswarm
