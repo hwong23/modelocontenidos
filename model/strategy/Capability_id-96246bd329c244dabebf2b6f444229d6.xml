@@ -1,0 +1,9 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Plano de Administración"
+    id="id-96246bd329c244dabebf2b6f444229d6"
+    documentation="Monitoreo de rendimiento de ssvc de integración.&#xA;">
+  <properties
+      key="destino"
+      value="doc, tex, ppt"/>
+</archimate:Capability>

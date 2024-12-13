@@ -1,0 +1,9 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Observabilidad de API"
+    id="id-f7633a9b2415438b9e783fc98c1d681e"
+    documentation="1. Debe permitir ver las llamadas a la API y separar los códigos de retorno HTTP.&#xA;">
+  <properties
+      key="destino"
+      value="doc, tex, pdf, html"/>
+</archimate:TechnologyService>

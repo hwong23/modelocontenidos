@@ -1,0 +1,9 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Transformación y enrutamiento"
+    id="id-85ef738e3f5e4fae8be1c919e56454df"
+    documentation="1. Debe admitir la transformación y el enrutamiento hacia / desde SOAP / HTTP a los servicios REST.">
+  <properties
+      key="destino"
+      value="doc, tex, pdf, html"/>
+</archimate:TechnologyService>

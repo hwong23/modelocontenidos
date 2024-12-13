@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Integración de Procesos"
+    id="id-415a2d8c3cea48f181b88aebac3830b4">
+  <properties
+      key="destino"
+      value="doc, tex, ppt"/>
+</archimate:Capability>

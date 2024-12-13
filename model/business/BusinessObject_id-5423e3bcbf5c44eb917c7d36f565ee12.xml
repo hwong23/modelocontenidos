@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Filial 2"
+    id="id-5423e3bcbf5c44eb917c7d36f565ee12"
+    documentation="Arq., Organization, City, Pincode, State, Country">
+  <properties
+      key="ide"
+      value="filial2"/>
+  <properties
+      key="destino"
+      value="doc, tex, html, ppt"/>
+</archimate:BusinessObject>

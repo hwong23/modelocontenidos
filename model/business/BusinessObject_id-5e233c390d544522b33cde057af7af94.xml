@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Alcance"
+    id="id-5e233c390d544522b33cde057af7af94"
+    documentation="Prestar los servicios de consultoría en Arquitectura Empresarial para la identificación y formulación de una propuesta de Modelo de Negocio y visión de solución tecnológica que responda a las necesidades de la Entidad, en relación al análisis de factibilidad de la solución de Carpeta Ciudadana.&#xA;">
+  <properties
+      key="ide"
+      value="alcance"/>
+  <properties
+      key="destino"
+      value="doc, tex, html, ppt"/>
+</archimate:BusinessObject>

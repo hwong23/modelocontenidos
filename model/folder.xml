@@ -12,5 +12,18 @@
   <properties
       key="gh-pages"/>
   <properties
-      key="reporte"/>
+      key="reporte"
+      value="IntegracionJEP.html"/>
+  <profiles
+      name="Specialization 1"
+      id="id-438ced40f7c24a91bfaaa9a1315e7d8f"
+      conceptType="Grouping"/>
+  <profiles
+      href="archive:file:////Users/hwo/gh/model/modelocontenidos/.git/temp.archimate!/org.archicontribs.modelrepository.tmp/model/other/folder.xml#id-438ced40f7c24a91bfaaa9a1315e7d8f"/>
+  <profiles
+      href="archive:file:////Users/hwo/gh/model/modelocontenidos/.git/temp.archimate!/org.archicontribs.modelrepository.tmp/model/other/folder.xml#id-438ced40f7c24a91bfaaa9a1315e7d8f"/>
+  <profiles
+      href="archive:file:////Users/hwo/gh/model/modelocontenidos/.git/temp.archimate!/org.archicontribs.modelrepository.tmp/model/other/folder.xml#id-438ced40f7c24a91bfaaa9a1315e7d8f"/>
+  <profiles
+      href="archive:file:////Users/hwo/gh/model/modelocontenidos/.git/temp.archimate!/org.archicontribs.modelrepository.tmp/model/other/folder.xml#id-438ced40f7c24a91bfaaa9a1315e7d8f"/>
 </archimate:ArchimateModel>

@@ -1,0 +1,8 @@
+<archimate:Deliverable
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HU.SINT70. Integración Obtener Numero Proceso"
+    id="id-d7207dbde74347209c531314007e84d8">
+  <properties
+      key="destino"
+      value="doc, pdf, tex, ppt"/>
+</archimate:Deliverable>

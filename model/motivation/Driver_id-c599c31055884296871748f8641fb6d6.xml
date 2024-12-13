@@ -1,0 +1,9 @@
+<archimate:Driver
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Capacidad: Integrar operaciones Medida Protección"
+    id="id-c599c31055884296871748f8641fb6d6"
+    documentation="Característica de integración de Conti contenido en la solución de integración JEP, 2024.&#xA;">
+  <properties
+      key="destino"
+      value="doc, tex, pdf, html"/>
+</archimate:Driver>

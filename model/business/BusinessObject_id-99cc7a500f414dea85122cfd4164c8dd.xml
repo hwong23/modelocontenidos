@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MET.DEC"
+    id="id-99cc7a500f414dea85122cfd4164c8dd"
+    documentation="*Meta DEC*&#xA;&#xA;Nombre indicador: Decisiones de diseño, justificaciones, validaciones&#xA;Uso: Estabildad de requerimientos. Control de alineación desarrollo-demanda&#xA;Proceso:&#x9;DIS&#xA;Calculo de medición: Cantidad de HU refinadas y aprobadas por cliente / Total de cantidad de HU&#xA;Fuente: [Repo Sharepoint], [Azure DevOps])&#xA;&#xA;"/>

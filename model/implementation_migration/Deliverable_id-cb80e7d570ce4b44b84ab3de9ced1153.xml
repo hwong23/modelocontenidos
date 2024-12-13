@@ -1,0 +1,8 @@
+<archimate:Deliverable
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HU.SINT11. Integración. Indexar Imagen"
+    id="id-cb80e7d570ce4b44b84ab3de9ced1153">
+  <properties
+      key="destino"
+      value="doc, pdf, tex, ppt"/>
+</archimate:Deliverable>

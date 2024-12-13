@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Objetivo: No Funcional"
+    id="id-f44f6ba8fb924871ba1b69aab11d1811"
+    documentation="Condiciones técnicas que debe cumplir la solución de interoperabilidad JEP.&#xA;">
+  <properties
+      key="destino"
+      value="doc, tex, pdf, html"/>
+</archimate:Goal>

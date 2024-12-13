@@ -1,0 +1,11 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Unidad de Solidaridad y Seguros"
+    id="id-00290dbe8a9d4a7c8e8e5ac0771e1491"
+    documentation="Unidad de Solidaridad y Seguros de la Cooperativa">
+  <properties
+      key="destino"
+      value="doc, tex, ppt"/>
+  <properties
+      key="ide"/>
+</archimate:BusinessFunction>

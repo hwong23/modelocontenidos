@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Carta de Presentación"
+    id="id-bbb868db1e844924881a06648683af88"
+    documentation="Señores&#xA;&#xA;SERVICIOS PORTALES NACIONALES S.A. Diagonal 25G No. 95A - 55&#xA;&#xA;Ciudad&#xA;&#xA;Referencia: Propuesta para la contratación de los servicios de consultoría en Arquitectura Empresarial&#xA;Respetados Señores:&#xA;&#xA;A nombre de Heinsohn Business Technology S.A. les damos las gracias por tenernos en cuenta para tan importante proyecto.&#xA;A continuación presentamos a su consideración nuestra propuesta técnica y económica para la realización de Servicios de Consultoría en Arquitectura Empresarial y que tiene como objetivo general la Formulación de la primera versión de un Modelo de Negocio para el servicio de Carpeta Ciudadana, de acuerdo a las necesidades manifestadas por ustedes.&#xA;Esperamos que la información suministrada sea un aporte importante al proceso que están adelantando y reiteramos nuestro interés en apoyarlos.&#xA;Atentamente,&#xA;HEINSOHN BUSINESS TECHNOLOGY S.A.&#xA;NIT DIRECCION TELEFONO CONTACTO E-MAIL&#xA;800046226-8&#xA;Carrera 13 No. 82-49 Piso 6 Bogotá D.C. 6337070&#xA;Jimena Gardeazabal jgardeazabal@heinsohn.com.co&#xA;">
+  <properties
+      key="ide"
+      value="presentacion"/>
+  <properties
+      key="destino"
+      value="doc, tex, html, ppt"/>
+</archimate:BusinessObject>

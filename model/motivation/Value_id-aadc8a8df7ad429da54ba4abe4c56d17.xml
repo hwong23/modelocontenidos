@@ -1,0 +1,14 @@
+<archimate:Value
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Plan/Desarrollo"
+    id="id-aadc8a8df7ad429da54ba4abe4c56d17"
+    documentation="Versión 2.1. Solución integración JEP.&#xA;">
+  <properties
+      key="destino"/>
+  <properties
+      key="proceso"
+      value="transición"/>
+  <properties
+      key="progreso"
+      value="0"/>
+</archimate:Value>

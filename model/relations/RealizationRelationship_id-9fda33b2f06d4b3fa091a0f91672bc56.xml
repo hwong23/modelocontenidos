@@ -1,0 +1,16 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-9fda33b2f06d4b3fa091a0f91672bc56">
+  <properties
+      key="destino"
+      value="doc, tex, ppt"/>
+  <properties
+      key="ide"/>
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_id-62ef43378d44485dab728897063bdfa9.xml#id-62ef43378d44485dab728897063bdfa9"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-13d1d79a3f944cf0ac9bd2b44d92e7a5.xml#id-13d1d79a3f944cf0ac9bd2b44d92e7a5"/>
+</archimate:RealizationRelationship>

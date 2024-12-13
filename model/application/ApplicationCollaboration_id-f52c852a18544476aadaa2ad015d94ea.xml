@@ -1,0 +1,5 @@
+<archimate:ApplicationCollaboration
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cluster"
+    id="id-f52c852a18544476aadaa2ad015d94ea"
+    documentation="Orquestador de nodos y servicios (contendores) de la JEP.&#xA;"/>

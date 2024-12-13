@@ -1,0 +1,9 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Modelo de Seguridad"
+    id="id-b3b1c20e9d7243e5a7a7f3019f1bc87b"
+    documentation="Autenticación mixta: JWS y tradicional (usuario, contraseña).&#xA;">
+  <properties
+      key="destino"
+      value="doc, tex, ppt"/>
+</archimate:Capability>

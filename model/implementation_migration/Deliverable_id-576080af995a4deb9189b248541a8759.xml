@@ -1,0 +1,8 @@
+<archimate:Deliverable
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HU.SINT72. Integración Obtener Datos del Contrato"
+    id="id-576080af995a4deb9189b248541a8759">
+  <properties
+      key="destino"
+      value="doc, pdf, tex, ppt"/>
+</archimate:Deliverable>

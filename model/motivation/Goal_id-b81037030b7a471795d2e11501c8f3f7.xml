@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Alcance Proyecto Integración"
+    id="id-b81037030b7a471795d2e11501c8f3f7"
+    documentation="Es del alcance del proyecto&#xA;&#xA;1. Implementación de 20 o más servicios de integración al 31 de diciembre del 2024.&#xA;1. Soporte solución de integración a julio 2025.&#xA;&#xA;No es del alcance del proyecto el desarrollo a la medida de soluciones de las aplicaciones y sistemas de software de la JEP. &#xA;&#xA;No es del alcance de este proyecto los requerimientos de migración de los servicios de integración existentes de la JEP (hayan sido o no implementados bajo el modelo integración directa --EIA).&#xA;&#xA;">
+  <properties
+      key="destino"
+      value="doc, tex, ppt"/>
+</archimate:Goal>
