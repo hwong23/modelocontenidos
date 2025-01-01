@@ -3,10 +3,10 @@ on: [push]
 jobs:
   hello_world_job:
     runs-on: ubuntu-latest
-    name: A job to say hello
+    name: Generate model documentation
     steps:
-      - name: Hello world action step
-        id: hello
+      - name: Run model documentation
+        id: devdoc
         uses: hwong23/git_hwo-action@v1
         with:
           archi-args: 'Mona the Octocat'
