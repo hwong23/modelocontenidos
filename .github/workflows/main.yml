@@ -7,7 +7,7 @@ jobs:
     steps:
       - name: Run model documentation
         id: devdoc
-        uses: hwong23/git_hwo-action@v1
+        uses: hwong23/git_hwo-action@v2
         with:
           archi-args: 'Mona the Octocat'
       # Use the output from the `hello` step
