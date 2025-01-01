@@ -9,7 +9,7 @@ jobs:
         id: devdoc
         uses: hwong23/git_hwo-action@v2.2
         with:
-          archi-args: 'Mona the Octocat'
+          archi-args: 'Harry the Octocat'
       # Use the output from the `hello` step
       - name: Get the output time
         run: echo "The time was ${{ steps.hello.outputs.time }}"
