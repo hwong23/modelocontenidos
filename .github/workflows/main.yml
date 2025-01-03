@@ -19,7 +19,7 @@ jobs:
         id: devdoc
         uses: hwong23/git_hwo-action@v2
         with:
-          archi-args: 'archi --pluginDir /data/plugins'
+          archi-args: 'archi --pluginDir ./plugins'
       # Use the output from the `hello` step
       - name: Get the output time
         run: echo "The time was ${{ steps.devdoc.outputs.time }}"
