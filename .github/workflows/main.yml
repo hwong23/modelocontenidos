@@ -23,5 +23,5 @@ jobs:
       # Use the output from the `hello` step
       - name: Get the output time
         run: echo "The time was ${{ steps.devdoc.outputs.time }}"
-      - name: list workspc
-        run: ls -l ${{github.WORKSPACE}}
+      - name: make test
+        run: make -h
