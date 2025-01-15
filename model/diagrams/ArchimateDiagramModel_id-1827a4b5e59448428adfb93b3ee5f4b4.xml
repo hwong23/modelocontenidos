@@ -1,4 +1,5 @@
 <archimate:ArchimateDiagramModel
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Vista1"
-    id="id-1827a4b5e59448428adfb93b3ee5f4b4"/>
+    name="01.Trii.co"
+    id="id-1827a4b5e59448428adfb93b3ee5f4b4"
+    documentation="---&#xA;title: Propuesta de Certificación Operativa Plataforma de Software Trii.co (borrador)&#xA;subtitle: Borrador&#xA;subject: Implementación Proyecto&#xA;author: ${DEVDOCS_AUTOR}&#xA;date: 2025-01-15&#xA;keywords: [Rendimiento, Métodos pruebas, Pruebas software, QA]&#xA;header-right: &#xA;geometry:&#xA;  - top=1.3in&#xA;  - bottom=1in&#xA;fignos-cleveref: True&#xA;fignos-plus-name: Fig.&#xA;fignos-caption-name: Imagen&#xA;tablenos-caption-name: Tabla&#xA;...&#xA;&#xA;## Control de Cambios&#xA;Historia de cambios de la propuesta.&#xA;&#xA;"/>
