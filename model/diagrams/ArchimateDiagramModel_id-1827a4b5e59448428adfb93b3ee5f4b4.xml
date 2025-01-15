@@ -15,4 +15,10 @@
   <properties
       key="IncludeDiagram"
       value="false"/>
+  <properties
+      key="IncluyeRelaciones"
+      value="false"/>
+  <properties
+      key="IncludeViewElements"
+      value="false"/>
 </archimate:ArchimateDiagramModel>
