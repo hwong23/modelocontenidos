@@ -84,5 +84,5 @@
       key="titulo"/>
   <properties
       key="plantillaElm"
-      value="elementsimple-sintit-md.tpl,elementsimple-filatit-md.tpl"/>
+      value="elementsimple-sintit-md,elementsimple-filatit-md"/>
 </archimate:ArchimateDiagramModel>
