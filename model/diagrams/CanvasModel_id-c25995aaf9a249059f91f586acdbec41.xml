@@ -1,7 +1,7 @@
 <canvas:CanvasModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:canvas="http://www.archimatetool.com/archimate/canvas"
-    name="03.Cronograma"
+    name="cronograma"
     id="id-c25995aaf9a249059f91f586acdbec41">
   <children
       xsi:type="canvas:CanvasModelImage"
