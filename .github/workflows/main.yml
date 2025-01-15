@@ -1,0 +1,27 @@
+on: [push, workflow_dispatch]
+
+jobs:
+  devdoc:
+    runs-on: ubuntu-latest
+    name: Generate model documentation
+    steps:
+      - name: Set environment variables
+        run: | 
+            TRIGGERING_SHA=${GITHUB_PULL_REQUEST_SHA:-$GITHUB_SHA}
+            echo "TRIGGERING_SHA_7=${TRIGGERING_SHA::7}" >> $GITHUB_ENV
+            echo "TRIGGERING_SHA: $TRIGGERING_SHA"
+            echo "COMPILATION_DATE=$(date +'%d %b %Y')" >> $GITHUB_ENV
+      - uses: actions/checkout@v4
+        # with:
+        #   ref: ${{ github.event.pull_request.head.sha }}
+        #   ref: ${{github.ref}}
+      - name: Run model documentation
+        id: devdoc
+        uses: hwong23/git_hwo-action@v2
+        with:
+          archi-args: 'archi -m ./ --pluginDir ./plugins --script ./scripts/list_concepts.ajs'
+      # Use the output from the `hello` step
+      - name: Get the output time
+        run: echo "The time was ${{ steps.devdoc.outputs.time }}"
+      - name: make test
+        run: make -h
