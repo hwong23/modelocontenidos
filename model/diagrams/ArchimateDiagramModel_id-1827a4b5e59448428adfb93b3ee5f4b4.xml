@@ -12,4 +12,7 @@
   <properties
       key="titulo"
       value="Versión del Documento"/>
+  <properties
+      key="IncludeDiagram"
+      value="false"/>
 </archimate:ArchimateDiagramModel>
