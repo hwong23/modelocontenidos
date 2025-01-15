@@ -1,5 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Business Object (copy)"
+    name="Metas de la Propuesta"
     id="id-9787a8aa301d4e65ac37337028f2ae0d"
-    documentation="## Control de Cambios&#xA;Historia de cambios de la propuesta.&#xA;&#xA;"/>
+    documentation="&#xA;1. En cuanto al método de la propuesta: presentar un plan de pruebas de rendimiento suficiente y acotado a la corroboración operativa en términos de rendimiento exigida a la plataforma Trii.co&#xA;1. En cuanto a la necesidad: alinear el plan de pruebas de rendimiento con los condiciones requeridas de tiempo y entregables resultantes con las exigencias de los interesados de la propuesta&#xA;"/>

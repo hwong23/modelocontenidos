@@ -1,5 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Business Object"
+    name="Entregables de la Propuesta"
     id="id-0a2ffe5b6c8648c9a4af1b58791c4a7b"
-    documentation="## Control de Cambios&#xA;Historia de cambios de la propuesta.&#xA;&#xA;"/>
+    documentation="&#xA;1. Informe de línea base del rendimiento de la plataforma Trii.co/&#xA;1. Informe ejecutivo de refrendo de la plataforma Trii.co.&#xA;1. Informe técnico de las pruebas de rendimiento de la plataforma Trii.co.&#xA;"/>

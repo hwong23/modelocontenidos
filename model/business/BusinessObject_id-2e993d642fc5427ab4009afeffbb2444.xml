@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Propuesta Económica"
+    id="id-2e993d642fc5427ab4009afeffbb2444"
+    documentation="&#xA;La presente propuesta, en los términos consignados aquí, presenta el costo de&#xA;&#xA;&#xA;| Ítem                                                | Costo      | Impuestos |&#xA;|:----------------------------------------------------|:-----------|:----------|&#xA;| Definición, ejecución y entregables plan de pruebas | $1.150 USD | Sí        |&#xA;&#xA;&#xA;Nota: los valores del costo de la propuesta se mantienen durante los siguientes 3 días laborales luego de su presentación a los interesados.&#xA;&#xA;&#xA;## Forma de Pago de la Propuesta&#xA;&#xA;| Pagos        | Fracción | Hito del Plan              |&#xA;|:-------------|:---------|:---------------------------|&#xA;| Primer pago  | 50%      | Planificación, Preparación |&#xA;| Segundo pago | 50%      | Ejecución                  |&#xA;&#xA;"/>
