@@ -82,4 +82,7 @@
       key="devdoc"/>
   <properties
       key="titulo"/>
+  <properties
+      key="plantillaElm"
+      value="elementsimple-sintit-md.tpl,elementsimple-filatit-md.tpl"/>
 </archimate:ArchimateDiagramModel>
