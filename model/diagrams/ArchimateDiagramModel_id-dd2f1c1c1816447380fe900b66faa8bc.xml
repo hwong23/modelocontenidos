@@ -76,4 +76,10 @@
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-9787a8aa301d4e65ac37337028f2ae0d.xml#id-9787a8aa301d4e65ac37337028f2ae0d"/>
   </children>
+  <properties
+      key="alias"/>
+  <properties
+      key="devdoc"/>
+  <properties
+      key="titulo"/>
 </archimate:ArchimateDiagramModel>

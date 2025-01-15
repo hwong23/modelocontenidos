@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Doc.5n. Complemento"
+    name="Doc.1n. Trii Propuesta"
     id="id-9911022eb2494974941d85e81d79f3cc">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -21,6 +21,18 @@
         y="36"
         width="229"
         height="132"/>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-cca3038f358d41e0a8abf5839e6a58d1">
+      <bounds
+          x="24"
+          y="36"
+          width="120"
+          height="55"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-1827a4b5e59448428adfb93b3ee5f4b4.xml#id-1827a4b5e59448428adfb93b3ee5f4b4"/>
+    </children>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-463ff912f57f43c9a45c3d0ef27cffe3.xml#id-463ff912f57f43c9a45c3d0ef27cffe3"/>
@@ -46,15 +58,15 @@
         height="132"/>
     <children
         xsi:type="archimate:DiagramModelReference"
-        id="id-cca3038f358d41e0a8abf5839e6a58d1">
+        id="id-ee38f723c73c41ad88baa82eeba53c03">
       <bounds
           x="24"
           y="36"
-          width="120"
+          width="145"
           height="55"/>
       <referencedModel
           xsi:type="archimate:ArchimateDiagramModel"
-          href="ArchimateDiagramModel_id-1827a4b5e59448428adfb93b3ee5f4b4.xml#id-1827a4b5e59448428adfb93b3ee5f4b4"/>
+          href="ArchimateDiagramModel_id-dd2f1c1c1816447380fe900b66faa8bc.xml#id-dd2f1c1c1816447380fe900b66faa8bc"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"
@@ -76,14 +88,11 @@
   </children>
   <properties
       key="alias"
-      value="jepdoccomplemento"/>
+      value="triipropuesta"/>
   <properties
       key="devdoc"
-      value="11.JEPcomplemento.md"/>
+      value="03.triipropuesta.md"/>
   <properties
       key="titulo"
       value="Contenido"/>
-  <properties
-      key="rutaMac"
-      value="/Downloads/tmpr/pgnmd/"/>
 </archimate:ArchimateDiagramModel>
