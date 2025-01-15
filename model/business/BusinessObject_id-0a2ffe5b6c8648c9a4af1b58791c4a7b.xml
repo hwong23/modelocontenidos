@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Business Object"
-    id="id-0a2ffe5b6c8648c9a4af1b58791c4a7b"/>
+    id="id-0a2ffe5b6c8648c9a4af1b58791c4a7b"
+    documentation="## Control de Cambios&#xA;Historia de cambios de la propuesta.&#xA;&#xA;"/>
