@@ -1,7 +1,6 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    xmlns:canvas="http://www.archimatetool.com/archimate/canvas"
     name="Doc.5n. Complemento"
     id="id-9911022eb2494974941d85e81d79f3cc">
   <children
@@ -22,18 +21,6 @@
         y="36"
         width="229"
         height="132"/>
-    <children
-        xsi:type="archimate:DiagramModelReference"
-        id="id-3163a835d14c43a68dce9d525ae95907">
-      <bounds
-          x="12"
-          y="36"
-          width="133"
-          height="55"/>
-      <referencedModel
-          xsi:type="canvas:CanvasModel"
-          href="CanvasModel_id-3e89bb723387432e816c8873edd31b43.xml#id-3e89bb723387432e816c8873edd31b43"/>
-    </children>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-463ff912f57f43c9a45c3d0ef27cffe3.xml#id-463ff912f57f43c9a45c3d0ef27cffe3"/>
@@ -59,15 +46,15 @@
         height="132"/>
     <children
         xsi:type="archimate:DiagramModelReference"
-        id="id-e59c34dd15d94f2bb8b81c6a8d2b5b72">
+        id="id-cca3038f358d41e0a8abf5839e6a58d1">
       <bounds
           x="24"
           y="36"
-          width="205"
+          width="120"
           height="55"/>
       <referencedModel
           xsi:type="archimate:ArchimateDiagramModel"
-          href="ArchimateDiagramModel_id-062616daaa1d4d8990681b58bc54ce3d.xml#id-062616daaa1d4d8990681b58bc54ce3d"/>
+          href="ArchimateDiagramModel_id-1827a4b5e59448428adfb93b3ee5f4b4.xml#id-1827a4b5e59448428adfb93b3ee5f4b4"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"
