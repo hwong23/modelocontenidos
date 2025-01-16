@@ -2,8 +2,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="02.Propuesta"
-    id="id-dd2f1c1c1816447380fe900b66faa8bc"
-    documentation="---&#xA;title: Propuesta de Certificación Operativa Plataforma de Software Trii.co (borrador)&#xA;subtitle: Borrador&#xA;subject: Implementación Proyecto&#xA;author: ${DEVDOCS_AUTOR}&#xA;date: 2025-01-15&#xA;keywords: [Rendimiento, Métodos pruebas, Pruebas software, QA]&#xA;header-right: &#xA;geometry:&#xA;  - top=1.3in&#xA;  - bottom=1in&#xA;fignos-cleveref: True&#xA;fignos-plus-name: Fig.&#xA;fignos-caption-name: Imagen&#xA;tablenos-caption-name: Tabla&#xA;...&#xA;">
+    id="id-dd2f1c1c1816447380fe900b66faa8bc">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-740fbb5e9c4b4a178c176e307aa44e0d">
