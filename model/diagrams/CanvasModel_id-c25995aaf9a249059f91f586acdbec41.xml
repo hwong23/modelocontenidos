@@ -27,8 +27,8 @@
       value="false"/>
   <properties
       key="IncludeProperties"
-      value="true"/>
+      value="false"/>
   <properties
       key="IncludeDiagram"
-      value="false"/>
+      value="true"/>
 </canvas:CanvasModel>
