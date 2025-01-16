@@ -1,0 +1,34 @@
+<canvas:CanvasModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:canvas="http://www.archimatetool.com/archimate/canvas"
+    name="plan"
+    id="id-49930878d254405eba38b006b1b9f180">
+  <children
+      xsi:type="canvas:CanvasModelImage"
+      id="id-b5dfe617ef134f0cb96eda3c27ab9fed"
+      name="Image"
+      imagePath="images/_ipamQNODEe-MW8dVt-mwdQ.png">
+    <bounds
+        y="-12"
+        width="1420"
+        height="1300"/>
+  </children>
+  <properties
+      key="IncluyeRelaciones"
+      value="false"/>
+  <properties
+      key="IncludeRutaCompleta"
+      value="false"/>
+  <properties
+      key="IncludeProperties"
+      value="false"/>
+  <properties
+      key="IncludeViewElements"
+      value="false"/>
+  <properties
+      key="IncludeProperties"
+      value="false"/>
+  <properties
+      key="IncludeDiagram"
+      value="true"/>
+</canvas:CanvasModel>

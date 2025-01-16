@@ -69,18 +69,6 @@
           xsi:type="archimate:ArchimateDiagramModel"
           href="ArchimateDiagramModel_id-dd2f1c1c1816447380fe900b66faa8bc.xml#id-dd2f1c1c1816447380fe900b66faa8bc"/>
     </children>
-    <children
-        xsi:type="archimate:DiagramModelReference"
-        id="id-7101809548824064a950c93a32bfb588">
-      <bounds
-          x="180"
-          y="36"
-          width="120"
-          height="55"/>
-      <referencedModel
-          xsi:type="canvas:CanvasModel"
-          href="CanvasModel_id-c25995aaf9a249059f91f586acdbec41.xml#id-c25995aaf9a249059f91f586acdbec41"/>
-    </children>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-bf5d3f7aa7754c2eab2ce7c6a9405e05.xml#id-bf5d3f7aa7754c2eab2ce7c6a9405e05"/>
@@ -90,6 +78,15 @@
       id="id-a43f68cdee1747829a78ebbc687bd26e"
       targetConnections="id-39a911cc4de84396af6a7f8d354fce6f"
       textAlignment="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-4b434faeec0a424e983cd49d8912bb34"
+        source="id-a43f68cdee1747829a78ebbc687bd26e"
+        target="id-f95d713690bf4f50a53cb8c9761279b8">
+      <archimateRelationship
+          xsi:type="archimate:TriggeringRelationship"
+          href="TriggeringRelationship_id-ec916ec263cb4ac29bcf77a4ff786c98.xml#id-ec916ec263cb4ac29bcf77a4ff786c98"/>
+    </sourceConnections>
     <bounds
         x="288"
         y="204"
@@ -98,6 +95,44 @@
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-5fc379c374114fb699ded822136c7472.xml#id-5fc379c374114fb699ded822136c7472"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-f95d713690bf4f50a53cb8c9761279b8"
+      targetConnections="id-4b434faeec0a424e983cd49d8912bb34"
+      textAlignment="1">
+    <bounds
+        x="288"
+        y="384"
+        width="433"
+        height="132"/>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-7101809548824064a950c93a32bfb588">
+      <bounds
+          x="24"
+          y="36"
+          width="120"
+          height="55"/>
+      <referencedModel
+          xsi:type="canvas:CanvasModel"
+          href="CanvasModel_id-c25995aaf9a249059f91f586acdbec41.xml#id-c25995aaf9a249059f91f586acdbec41"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-0dd980ea21364f9b9b90d4966b32b229">
+      <bounds
+          x="156"
+          y="36"
+          width="120"
+          height="55"/>
+      <referencedModel
+          xsi:type="canvas:CanvasModel"
+          href="CanvasModel_id-49930878d254405eba38b006b1b9f180.xml#id-49930878d254405eba38b006b1b9f180"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-72bfc497edde439dbdda31ed7aa1d3ef.xml#id-72bfc497edde439dbdda31ed7aa1d3ef"/>
   </children>
   <properties
       key="alias"
