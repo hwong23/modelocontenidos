@@ -1,7 +1,6 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    xmlns:canvas="http://www.archimatetool.com/archimate/canvas"
     name="Doc.1n. Trii Propuesta"
     id="id-9911022eb2494974941d85e81d79f3cc">
   <children
@@ -68,18 +67,6 @@
       <referencedModel
           xsi:type="archimate:ArchimateDiagramModel"
           href="ArchimateDiagramModel_id-dd2f1c1c1816447380fe900b66faa8bc.xml#id-dd2f1c1c1816447380fe900b66faa8bc"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelReference"
-        id="id-7101809548824064a950c93a32bfb588">
-      <bounds
-          x="180"
-          y="36"
-          width="120"
-          height="55"/>
-      <referencedModel
-          xsi:type="canvas:CanvasModel"
-          href="CanvasModel_id-c25995aaf9a249059f91f586acdbec41.xml#id-c25995aaf9a249059f91f586acdbec41"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"
