@@ -1,0 +1,5 @@
+<archimate:ArchimateDiagramModel
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="04.Escenarios"
+    id="id-aae91ac887ee428cbe442d56edc36bba"
+    documentation="Casos: &#xA;&#xA;- Token (load token): auth login, auth token&#xA;- Información usuarios (user info)&#xA;- Consujlta comisiones&#xA;- Órdenes&#xA;&#xA;&#xA;Técnica: &#xA;- Integral y por servicio&#xA;"/>
