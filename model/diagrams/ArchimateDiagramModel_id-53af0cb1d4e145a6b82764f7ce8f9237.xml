@@ -825,10 +825,6 @@
       key="devdoc"
       value="05.ambientes.md"/>
   <properties
-      key="gh-pages"/>
-  <properties
-      key="rutaMacMD"/>
-  <properties
       key="alias"
       value="contenedores"/>
   <properties
