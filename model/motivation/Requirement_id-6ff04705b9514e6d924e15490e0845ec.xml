@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RQ1. Transación"
+    id="id-6ff04705b9514e6d924e15490e0845ec"
+    documentation="número máximo de operaciones o transacciones que se podrán realizar por unidad de tiempo y dando cuenta de las pruebas de funcionamiento realizadas para verificar dicha capacidad.&#xA;"/>
