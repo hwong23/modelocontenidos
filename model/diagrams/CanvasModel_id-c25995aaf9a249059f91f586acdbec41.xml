@@ -31,4 +31,7 @@
   <properties
       key="IncludeDiagram"
       value="true"/>
+  <properties
+      key="titulo"
+      value="Cronograma Plan de Pruebas"/>
 </canvas:CanvasModel>

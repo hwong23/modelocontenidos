@@ -31,4 +31,7 @@
   <properties
       key="IncludeDiagram"
       value="true"/>
+  <properties
+      key="titulo"
+      value="Plan de Trabajo"/>
 </canvas:CanvasModel>
