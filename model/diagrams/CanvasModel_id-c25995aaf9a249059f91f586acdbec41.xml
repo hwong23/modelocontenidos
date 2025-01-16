@@ -13,4 +13,22 @@
         width="1420"
         height="1300"/>
   </children>
+  <properties
+      key="IncluyeRelaciones"
+      value="false"/>
+  <properties
+      key="IncludeRutaCompleta"
+      value="false"/>
+  <properties
+      key="IncludeProperties"
+      value="false"/>
+  <properties
+      key="IncludeViewElements"
+      value="false"/>
+  <properties
+      key="IncludeProperties"
+      value="true"/>
+  <properties
+      key="IncludeDiagram"
+      value="false"/>
 </canvas:CanvasModel>
