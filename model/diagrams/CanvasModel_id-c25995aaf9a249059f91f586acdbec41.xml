@@ -46,7 +46,4 @@
   <properties
       key="titulo"
       value="Cronograma de Trabajo"/>
-  <properties
-      key="ancho"
-      value="1"/>
 </canvas:CanvasModel>
