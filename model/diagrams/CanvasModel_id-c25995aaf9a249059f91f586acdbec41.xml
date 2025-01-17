@@ -13,18 +13,6 @@
         width="817"
         height="301"/>
   </children>
-  <children
-      xsi:type="canvas:CanvasModelSticky"
-      id="id-3b36e1f61dd34471adbeb54c5c6c9c6b"
-      fillColor="#ffffff"
-      borderColor="#C0C0C0"
-      textPosition="1">
-    <bounds
-        x="-12"
-        y="576"
-        width="75"
-        height="63"/>
-  </children>
   <properties
       key="IncluyeRelaciones"
       value="false"/>
