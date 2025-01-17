@@ -35,4 +35,7 @@
   <properties
       key="titulo"
       value="Plan de Trabajo"/>
+  <properties
+      key="ancho"
+      value="2"/>
 </canvas:CanvasModel>
