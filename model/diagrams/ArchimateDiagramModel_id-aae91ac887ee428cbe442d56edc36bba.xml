@@ -1,5 +1,19 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="04.Escenarios"
     id="id-aae91ac887ee428cbe442d56edc36bba"
-    documentation="Casos: &#xA;&#xA;- Token (load token): auth login, auth token&#xA;- Información usuarios (user info)&#xA;- Consujlta comisiones&#xA;- Órdenes&#xA;&#xA;&#xA;Técnica: &#xA;- Integral y por servicio&#xA;"/>
+    documentation="Casos: &#xA;&#xA;- Token (load token): auth login, auth token&#xA;- Información usuarios (user info)&#xA;- Consujlta comisiones&#xA;- Órdenes&#xA;&#xA;&#xA;Técnica: &#xA;- Integral y por servicio&#xA;">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-855c4c882a55445ab58455e8b8c224a3">
+    <bounds
+        x="106"
+        y="130"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Assessment"
+        href="Assessment_id-30764fa3bf644a3b826a572bf6392365.xml#id-30764fa3bf644a3b826a572bf6392365"/>
+  </children>
+</archimate:ArchimateDiagramModel>
