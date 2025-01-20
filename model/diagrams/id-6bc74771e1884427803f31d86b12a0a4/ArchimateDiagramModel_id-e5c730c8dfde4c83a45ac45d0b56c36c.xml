@@ -91,6 +91,18 @@
         y="204"
         width="433"
         height="132"/>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-c441334405454172bd3876583ff23d57">
+      <bounds
+          x="24"
+          y="36"
+          width="120"
+          height="55"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-a8474ef29210406a91779a5f0054d987.xml#id-a8474ef29210406a91779a5f0054d987"/>
+    </children>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-5fc379c374114fb699ded822136c7472.xml#id-5fc379c374114fb699ded822136c7472"/>

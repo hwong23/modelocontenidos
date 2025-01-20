@@ -1,0 +1,28 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="05.b.Resultados"
+    id="id-a8474ef29210406a91779a5f0054d987">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-caa44aca6ddc48a7bcb529f7f47e0afa">
+    <bounds
+        x="24"
+        y="36"
+        width="181"
+        height="85"/>
+    <archimateElement
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_id-a133df9e99ca4dbd84bfc01c0a6befd0.xml#id-a133df9e99ca4dbd84bfc01c0a6befd0"/>
+  </children>
+  <properties
+      key="alias"/>
+  <properties
+      key="devdoc"/>
+  <properties
+      key="titulo"
+      value="Análisis de Resultados del Rendimiento y Capacidad de la Plataforma Trii.co"/>
+  <properties
+      key="plantillaElm"
+      value="elementsimple-sintit-md,elementsimple-filatit-md"/>
+</archimate:ArchimateDiagramModel>
