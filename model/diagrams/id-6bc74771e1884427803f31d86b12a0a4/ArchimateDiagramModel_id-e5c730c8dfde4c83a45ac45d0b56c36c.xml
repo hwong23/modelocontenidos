@@ -24,7 +24,7 @@
         height="132"/>
     <children
         xsi:type="archimate:DiagramModelReference"
-        id="id-e2edd5b34e504a39b3646eec02e86916">
+        id="id-a649a02f84224b5a8fe471aefedd60e1">
       <bounds
           x="24"
           y="36"
@@ -32,7 +32,7 @@
           height="55"/>
       <referencedModel
           xsi:type="archimate:ArchimateDiagramModel"
-          href="ArchimateDiagramModel_id-1827a4b5e59448428adfb93b3ee5f4b4.xml#id-1827a4b5e59448428adfb93b3ee5f4b4"/>
+          href="ArchimateDiagramModel_id-33c042c0e3b24ba9b9157352386aa4cc.xml#id-33c042c0e3b24ba9b9157352386aa4cc"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"
