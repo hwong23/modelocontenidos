@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Referencias"
+    id="id-624b5cac91404647a14c08f55a7f9ca7"
+    documentation="&#xA;1. Google (2025). Machine families resource and comparison guide. (Web) https://cloud.google.com/compute/docs/machine-resource&#xA;1. Grafana Labs (2025). Technical documentation. Grafana Cloud. (Web) https://grafana.com/docs/k6/latest/&#xA;1. Heusser M. (Sep 2019). How to achieve speedy application response times. (Web) https://www.techtarget.com/searchsoftwarequality/tip/Acceptable-application-response-times-vs-industry-standard&#xA;1. Nielsen, J. (1993). Usability Engineering. Response Times: The 3 Important Limits. (Web) https://www.nngroup.com/articles/response-times-3-important-limits/&#xA;"/>
