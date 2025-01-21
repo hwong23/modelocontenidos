@@ -20,7 +20,8 @@
   <properties
       key="devdoc"/>
   <properties
-      key="titulo"/>
+      key="titulo"
+      value=" "/>
   <properties
       key="plantillaElm"
       value="elementsimple-sintit-md,elementsimple-filatit-md"/>
