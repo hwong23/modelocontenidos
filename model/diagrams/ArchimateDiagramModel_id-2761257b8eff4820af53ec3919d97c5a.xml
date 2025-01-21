@@ -20,8 +20,7 @@
   <properties
       key="devdoc"/>
   <properties
-      key="titulo"
-      value="Análisis de Resultados del Rendimiento y Capacidad"/>
+      key="titulo"/>
   <properties
       key="plantillaElm"
       value="elementsimple-sintit-md,elementsimple-filatit-md"/>
