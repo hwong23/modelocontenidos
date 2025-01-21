@@ -1,7 +1,32 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="07.c.Resultados "
     id="id-e5f8d3564a7140b681aab352ccdb3b2d">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-b3c1ba53bf0440a8ab4eae9cd4756aac">
+    <bounds
+        x="216"
+        y="36"
+        width="181"
+        height="85"/>
+    <archimateElement
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_id-a133df9e99ca4dbd84bfc01c0a6befd0.xml#id-a133df9e99ca4dbd84bfc01c0a6befd0"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-81a79502c5b646d69a789920d5844a02">
+    <bounds
+        x="24"
+        y="36"
+        width="181"
+        height="85"/>
+    <archimateElement
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_id-56ac8e8e236047ada622c64f59be7982.xml#id-56ac8e8e236047ada622c64f59be7982"/>
+  </children>
   <properties
       key="alias"/>
   <properties
