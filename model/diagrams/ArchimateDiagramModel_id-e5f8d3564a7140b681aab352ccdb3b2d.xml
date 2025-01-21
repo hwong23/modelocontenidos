@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="07.c.Resultados "
+    id="id-e5f8d3564a7140b681aab352ccdb3b2d">
+  <properties
+      key="alias"/>
+  <properties
+      key="devdoc"/>
+  <properties
+      key="titulo"
+      value="Análisis de Resultados del Rendimiento y Capacidad"/>
+  <properties
+      key="plantillaElm"
+      value="elementsimple-sintit-md,elementsimple-filatit-md"/>
+  <properties
+      key="IncludeDiagram"
+      value="false"/>
+</archimate:ArchimateDiagramModel>
