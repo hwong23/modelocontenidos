@@ -39,55 +39,9 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-4b6164083cdf401f9bd7e4f57d5dcc32"
-      targetConnections="id-9e09445df19b40398fb012ed52c9251e"
-      textAlignment="1">
-    <bounds
-        x="312"
-        y="360"
-        width="313"
-        height="132"/>
-    <archimateElement
-        xsi:type="archimate:Grouping"
-        href="Grouping_id-5adae889203d46758ccf700c0599c1ae.xml#id-5adae889203d46758ccf700c0599c1ae"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-3f22171e082845dd98cd1f0e7711acf0"
-      targetConnections="id-11b8061455e9474e961b9c198f264bb4"
-      textAlignment="1">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-9e09445df19b40398fb012ed52c9251e"
-        source="id-3f22171e082845dd98cd1f0e7711acf0"
-        target="id-4b6164083cdf401f9bd7e4f57d5dcc32">
-      <archimateRelationship
-          xsi:type="archimate:TriggeringRelationship"
-          href="TriggeringRelationship_id-d5ba56de883f48a68e87986784c98df5.xml#id-d5ba56de883f48a68e87986784c98df5"/>
-    </sourceConnections>
-    <bounds
-        x="312"
-        y="192"
-        width="313"
-        height="132"/>
-    <archimateElement
-        xsi:type="archimate:Grouping"
-        href="Grouping_id-b8f43e29c3a149e0aea15828c7f299dd.xml#id-b8f43e29c3a149e0aea15828c7f299dd"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="id-e18979714ba34b8c8a4da12db239a167"
       targetConnections="id-831639d6bbc042649a5f8509ec462ada"
       textAlignment="1">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-11b8061455e9474e961b9c198f264bb4"
-        source="id-e18979714ba34b8c8a4da12db239a167"
-        target="id-3f22171e082845dd98cd1f0e7711acf0">
-      <archimateRelationship
-          xsi:type="archimate:TriggeringRelationship"
-          href="TriggeringRelationship_id-4fbdb590f6d84b488fa9c09e98fb3139.xml#id-4fbdb590f6d84b488fa9c09e98fb3139"/>
-    </sourceConnections>
     <bounds
         x="312"
         y="24"
