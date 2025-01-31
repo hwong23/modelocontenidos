@@ -25,7 +25,7 @@ jobs:
             path: jarchi-hwo
       - name: MV jarchi-hwo
         run: |
-          mv ${{github.WORKSPACE}}/jarchi-hwo ~/jarchi-hwo
+          mv ${{github.WORKSPACE}}/jarchi-hwo $HOME/jarchi-hwo
     
       - name: Run model documentation
         id: devdoc
