@@ -11,10 +11,22 @@ jobs:
             echo "TRIGGERING_SHA_7=${TRIGGERING_SHA::7}" >> $GITHUB_ENV
             echo "TRIGGERING_SHA: $TRIGGERING_SHA"
             echo "COMPILATION_DATE=$(date +'%d %b %Y')" >> $GITHUB_ENV
-      - uses: actions/checkout@v4
-        # with:
-        #   ref: ${{ github.event.pull_request.head.sha }}
-        #   ref: ${{github.ref}}
+      - name: actions/checkout
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
+          fetch-depth: 0
+
+      - name: checkout devocscontd
+        uses: actions/checkout@v4
+        with:
+            repository: hwong23/devocs-contd
+            ref: ${{github.ref}}
+            path: devocs-contd
+      - name: mv devocscontd
+        run: |
+          mv ${{github.WORKSPACE}}/devocs-contd ~/devocs-contd
+    
       - name: Run model documentation
         id: devdoc
         uses: hwong23/git_hwo-action@v2
