@@ -21,7 +21,7 @@ jobs:
         uses: actions/checkout@v4
         with:
             repository: hwong23/jarchi-hwo
-            ref: ${{github.ref}}
+            ref: main
             path: jarchi-hwo
       - name: Mv jarchi-hwo
         run: |
