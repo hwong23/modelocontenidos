@@ -22,7 +22,7 @@ jobs:
         with:
             repository: hwong23/jarchi-hwo
             ref: ${{github.ref}}
-            path: devocs-contd
+            path: jarchi-hwo
       - name: Mv jarchi-hwo
         run: |
           mv ${{github.WORKSPACE}}/jarchi-hwo ~/jarchi-hwo
