@@ -2,7 +2,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     xmlns:canvas="http://www.archimatetool.com/archimate/canvas"
-    name="Doc.1n.Trii Propuesta"
+    name="Doc.1n.BMM Propuesta"
     id="id-9911022eb2494974941d85e81d79f3cc">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -136,11 +136,11 @@
   </children>
   <properties
       key="alias"
-      value="triipropuesta"/>
+      value="bmmpropuesta"/>
   <properties
       key="devdoc"
-      value="03.triipropuesta.md"/>
+      value="03.bmmpropuesta.md"/>
   <properties
       key="titulo"
-      value="Contenido"/>
+      value="Contenido de la Propuesta"/>
 </archimate:ArchimateDiagramModel>
