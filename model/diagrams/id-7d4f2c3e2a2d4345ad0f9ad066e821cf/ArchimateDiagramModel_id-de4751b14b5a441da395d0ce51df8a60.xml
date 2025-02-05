@@ -17,7 +17,8 @@
         href="BusinessObject_id-cc76cf0299424b5cb54aed8c08e5b388.xml#id-cc76cf0299424b5cb54aed8c08e5b388"/>
   </children>
   <properties
-      key="alias"/>
+      key="alias"
+      value="vista.propuesta"/>
   <properties
       key="devdoc"/>
   <properties
