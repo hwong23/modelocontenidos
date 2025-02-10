@@ -28,6 +28,30 @@
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-aecc3fd8671b48ddadd48bf98d8b7894.xml#id-aecc3fd8671b48ddadd48bf98d8b7894"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-ecb1acf46339408faa780895c7f587b3">
+    <bounds
+        x="276"
+        y="264"
+        width="241"
+        height="109"/>
+    <archimateElement
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_id-9eb3275c0989463daac5bbfedae4e457.xml#id-9eb3275c0989463daac5bbfedae4e457"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-b347d9e6f0e449eebf8456ac9e741272">
+    <bounds
+        x="276"
+        y="144"
+        width="241"
+        height="109"/>
+    <archimateElement
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_id-1f900c96c1be4a02b958b2ff87b4ff0b.xml#id-1f900c96c1be4a02b958b2ff87b4ff0b"/>
+  </children>
   <properties
       key="alias"
       value="vista.propuesta"/>

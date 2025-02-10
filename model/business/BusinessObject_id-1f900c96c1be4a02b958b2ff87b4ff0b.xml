@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resultados Etapa 1 y 2"
+    id="id-1f900c96c1be4a02b958b2ff87b4ff0b"
+    documentation="&#xA;1. Etapa de diagnóstico (6 meses)&#xA;&#x9;a. Entrega: resultados periodicos&#xA;&#x9;a. Resultado: estabilización de problemas diagnosticados&#xA;1. Etapa de proceso ingeniería (9 meses)&#xA;&#x9;a. Entrega: resultados programados&#xA;&#x9;a. Resultado: modernización tecnológica y procedimental&#xA;">
+  <properties
+      key="destino"
+      value="ppt"/>
+</archimate:BusinessObject>
