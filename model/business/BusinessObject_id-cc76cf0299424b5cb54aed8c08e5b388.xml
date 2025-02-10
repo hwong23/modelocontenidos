@@ -1,8 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Análisis Preliminar"
+    name="Análisis Previo"
     id="id-cc76cf0299424b5cb54aed8c08e5b388"
-    documentation="* Tipo de servicio: Desarrollo, Consultoría&#xA;* Enfoque: entender, innovación del ramo bancario, colaborar con sistemas actuales, legados, y proveedores.&#xA;">
+    documentation="* Tipo de servicio: Desarrollo, Consultoría&#xA;* Enfoque: entender, innovación del ramo bancario, colaborar con sistemas actuales, legados, y proveedores.&#xA;&#xA;## Capacidades Técnicas &#xA;* Experiencia en sector emprendimiento, agilismo&#xA;* Experiencia en sector banca, finanzas, seguros&#xA;* Experiencia en sector público privado, académico&#xA;">
   <properties
       key="destino"
       value="ppt"/>
