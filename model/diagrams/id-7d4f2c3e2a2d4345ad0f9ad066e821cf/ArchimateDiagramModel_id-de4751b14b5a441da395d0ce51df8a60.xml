@@ -3,37 +3,15 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="02.1c.Propuesta PPT"
     id="id-de4751b14b5a441da395d0ce51df8a60"
-    documentation="servicio: desarrollo, consultoría&#xA;enfoque: entender, innovar, sis legados, y proveedores&#xA;enfoque: reunión, qué problemas solucionar&#xA;presentación: escucha pero consultivo (propuesta solución)&#xA;propuesta: &#xA;1. diagnóstico (result. estabilización)&#xA;1. proceso ing. (result. modernización)&#xA;1. observabilidad (result. bucles de retroalimentación): medir, avance, estadística&#xA;&#xA;">
+    documentation="Tipo de servicio: Desarrollo, Consultoría&#xA;Enfoque: entender, innovación del ramo bancario, colaborar con sistemas actuales, legados, y proveedores&#xA;&#xA;Método: &#xA;1. Etapa de diagnóstico&#xA;&#x9;a. Resultado: estabilización de problemas diagnósticados&#xA;1. Etapa de proceso ingeniería&#xA;&#x9;a. Resultado: modernización tecnoleogica y procedimental&#xA;1. Construcción Plataforma de Observabilidad &#xA;&#x9;a. Resultado: bucles de retroalimentación reforzar, compensar y regular&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-a10c5d1386294675a9535fbcfe3ef632">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-885c3f0685804b019176dfba2646f97f"
-        source="id-a10c5d1386294675a9535fbcfe3ef632"
-        target="id-da213c3d481b4b38a3179c9265dcaf30">
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_id-8d0b079e32ec407c992187e4871b90bf.xml#id-8d0b079e32ec407c992187e4871b90bf"/>
-    </sourceConnections>
     <bounds
         x="12"
         y="24"
         width="241"
         height="109"/>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-da213c3d481b4b38a3179c9265dcaf30"
-        targetConnections="id-885c3f0685804b019176dfba2646f97f">
-      <bounds
-          x="72"
-          y="36"
-          width="145"
-          height="61"/>
-      <archimateElement
-          xsi:type="archimate:BusinessObject"
-          href="BusinessObject_id-9f81a7f800dc4665b46a6a4b80ae7a4e.xml#id-9f81a7f800dc4665b46a6a4b80ae7a4e"/>
-    </children>
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-cc76cf0299424b5cb54aed8c08e5b388.xml#id-cc76cf0299424b5cb54aed8c08e5b388"/>
@@ -49,4 +27,7 @@
   <properties
       key="plantillaElm"
       value="elementsimple-sintit-md,elementsimple-filatit-md"/>
+  <properties
+      key="IncludeDiagram"
+      value="false"/>
 </archimate:ArchimateDiagramModel>
