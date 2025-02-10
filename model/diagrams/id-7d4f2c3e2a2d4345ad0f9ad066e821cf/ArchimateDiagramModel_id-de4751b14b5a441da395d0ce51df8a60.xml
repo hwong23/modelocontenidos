@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="02.1c.Propuesta PPT"
     id="id-de4751b14b5a441da395d0ce51df8a60"
-    documentation="Tipo de servicio: Desarrollo, Consultoría&#xA;Enfoque: entender, innovación del ramo bancario, colaborar con sistemas actuales, legados, y proveedores&#xA;&#xA;Método: &#xA;1. Etapa de diagnóstico&#xA;&#x9;a. Resultado: estabilización de problemas diagnósticados&#xA;1. Etapa de proceso ingeniería&#xA;&#x9;a. Resultado: modernización tecnoleogica y procedimental&#xA;1. Construcción Plataforma de Observabilidad &#xA;&#x9;a. Resultado: bucles de retroalimentación reforzar, compensar y regular&#xA;">
+    documentation="Consultoría de ingeniería y desarrollo para el mejoramiento de la plataforma bancaria, extendida a los sistemas actuales, legados y a proveedores tecnológicos del Banco de la Mujer (BMM).&#xA;&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-a10c5d1386294675a9535fbcfe3ef632">
@@ -15,6 +15,18 @@
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-cc76cf0299424b5cb54aed8c08e5b388.xml#id-cc76cf0299424b5cb54aed8c08e5b388"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-7d6e25dabe4f43128937846eaa121b67">
+    <bounds
+        x="276"
+        y="24"
+        width="241"
+        height="109"/>
+    <archimateElement
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_id-aecc3fd8671b48ddadd48bf98d8b7894.xml#id-aecc3fd8671b48ddadd48bf98d8b7894"/>
   </children>
   <properties
       key="alias"

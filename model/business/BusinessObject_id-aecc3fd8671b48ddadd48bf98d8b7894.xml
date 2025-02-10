@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Método Propuesto"
+    id="id-aecc3fd8671b48ddadd48bf98d8b7894"
+    documentation="&#xA;1. Etapa de diagnóstico (6 meses)&#xA;&#x9;a. Entrega: resultados períodicos&#xA;&#x9;a. Resultado: estabilización de problemas diagnosticados&#xA;1. Etapa de proceso ingeniería (9 meses)&#xA;&#x9;a. Entrega: resultados programados&#xA;&#x9;a. Resultado: modernización tecnológica y procedimental&#xA;1. Construcción Plataforma de Observabilidad (4 meses)&#xA;&#x9;a. Entrega: resultados incrementales&#xA;&#x9;a. Resultado: bucles de retroalimentación reforzar, compensar y regular&#xA;">
+  <properties
+      key="destino"
+      value="ppt"/>
+</archimate:BusinessObject>

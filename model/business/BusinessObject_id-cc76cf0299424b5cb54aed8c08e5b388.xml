@@ -1,8 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Descripción de la Propuesta (copy)"
+    name="Análisis Preliminar"
     id="id-cc76cf0299424b5cb54aed8c08e5b388"
-    documentation="Consultoría de ingeniería y desarrollo para el mejoramiento de la plataforma bancaria, extendida a los sistemas actuales, legados y a proveedores tecnológicos del Banco de la Mjuer (BMM).&#xA;">
+    documentation="* Tipo de servicio: Desarrollo, Consultoría&#xA;* Enfoque: entender, innovación del ramo bancario, colaborar con sistemas actuales, legados, y proveedores.&#xA;">
   <properties
       key="destino"
       value="ppt"/>
