@@ -159,4 +159,7 @@
   <properties
       key="plantillaElm"
       value="elementsimple-sintit-md,elementsimple-filatit-md"/>
+  <properties
+      key="IncludeDiagram"
+      value="false"/>
 </archimate:ArchimateDiagramModel>
