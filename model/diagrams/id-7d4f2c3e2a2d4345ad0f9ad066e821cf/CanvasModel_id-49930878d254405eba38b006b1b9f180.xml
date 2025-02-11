@@ -5,12 +5,14 @@
     id="id-49930878d254405eba38b006b1b9f180">
   <children
       xsi:type="canvas:CanvasModelImage"
-      id="id-59b80e762b904a119d8cec968a7780bf"
+      id="id-0d14000bc32a4c91a721f97ef28001ef"
       name="Image"
-      imagePath="images/_ijV84NUXEe-MW8dVt-mwdQ.png">
+      imagePath="images/_p0daQOjEEe-b9Jh6cnrbiA.jpg">
     <bounds
-        width="630"
-        height="576"/>
+        x="12"
+        y="12"
+        width="155"
+        height="157"/>
   </children>
   <properties
       key="IncluyeRelaciones"
