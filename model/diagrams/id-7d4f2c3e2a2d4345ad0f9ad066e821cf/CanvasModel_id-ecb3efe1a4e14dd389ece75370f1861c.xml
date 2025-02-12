@@ -15,6 +15,20 @@
         width="1949"
         height="1468"/>
   </children>
+  <children
+      xsi:type="canvas:CanvasModelSticky"
+      id="id-35e515bfeb1e492b9b8329e5d28bd8c6"
+      fillColor="#ffffff"
+      content="texto contenido.&#xA;"
+      notes="texto indept.&#xA;"
+      borderColor="#C0C0C0"
+      textPosition="1">
+    <bounds
+        x="2028"
+        y="60"
+        width="291"
+        height="219"/>
+  </children>
   <properties
       key="IncluyeRelaciones"
       value="false"/>
