@@ -1,0 +1,38 @@
+<canvas:CanvasModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:canvas="http://www.archimatetool.com/archimate/canvas"
+    name="02.1c.Propuesta. Alcance"
+    id="id-ecb3efe1a4e14dd389ece75370f1861c">
+  <children
+      xsi:type="canvas:CanvasModelImage"
+      id="id-2c1e81f9ffcb41e280bc0715165b3c53"
+      name="Image"
+      imagePath="images/_ZYV9UOmZEe-JbYJ4oS6yig.png">
+    <bounds
+        x="12"
+        y="24"
+        width="1949"
+        height="1468"/>
+  </children>
+  <properties
+      key="IncluyeRelaciones"
+      value="false"/>
+  <properties
+      key="IncludeRutaCompleta"
+      value="false"/>
+  <properties
+      key="IncludeProperties"
+      value="false"/>
+  <properties
+      key="IncludeViewElements"
+      value="false"/>
+  <properties
+      key="IncludeProperties"
+      value="false"/>
+  <properties
+      key="IncludeDiagram"
+      value="true"/>
+  <properties
+      key="titulo"
+      value="Cronograma de Trabajo"/>
+</canvas:CanvasModel>
