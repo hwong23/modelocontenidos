@@ -1,0 +1,53 @@
+<canvas:CanvasModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:canvas="http://www.archimatetool.com/archimate/canvas"
+    name="02.1c.Propuesta. Plan"
+    id="id-650dca2ba0114dca99ad6302b8ed6dc7"
+    documentation="&#xA;1. Diagnóstico y evaluación de la arquitectura del $APP, incluye planificación, preparación, diagnóstico, documentación técnica, y divulgación: 20 días de trabajo.&#xA;&#xA;1. Transformación de la arquitectura del $APP, incluye diseño de hoja de ruta, ejecución transiciones, gestión de cambios, documentación técnica, divulgación: 60 días.&#xA;&#xA;">
+  <children
+      xsi:type="canvas:CanvasModelImage"
+      id="id-7264be42606c4a5db817316206795502"
+      name="Image"
+      imagePath="images/_C6dakOoTEe-zrvINtgIBuA.png">
+    <bounds
+        x="24"
+        y="756"
+        width="1732"
+        height="683"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelImage"
+      id="id-990bbac28fd9434f87e37f95477ae369"
+      name="Image"
+      imagePath="images/_C7DQcOoTEe-zrvINtgIBuA.png">
+    <bounds
+        x="24"
+        y="36"
+        width="1732"
+        height="683"/>
+  </children>
+  <properties
+      key="IncluyeRelaciones"
+      value="false"/>
+  <properties
+      key="IncludeRutaCompleta"
+      value="false"/>
+  <properties
+      key="IncludeProperties"
+      value="false"/>
+  <properties
+      key="IncludeViewElements"
+      value="false"/>
+  <properties
+      key="IncludeProperties"
+      value="false"/>
+  <properties
+      key="IncludeDiagram"
+      value="true"/>
+  <properties
+      key="titulo"
+      value="Plan de Trabajo"/>
+  <properties
+      key="plantilla"
+      value="documentation-vd-md"/>
+</canvas:CanvasModel>
