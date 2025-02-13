@@ -15,66 +15,6 @@
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-0a2ffe5b6c8648c9a4af1b58791c4a7b.xml#id-0a2ffe5b6c8648c9a4af1b58791c4a7b"/>
   </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-48d3499d1ab74c3ea035c90ae0bed389">
-    <bounds
-        x="180"
-        y="168"
-        width="157"
-        height="61"/>
-    <archimateElement
-        xsi:type="archimate:BusinessObject"
-        href="BusinessObject_id-c2e3dcd7a16f4ca7819b175277e7fe04.xml#id-c2e3dcd7a16f4ca7819b175277e7fe04"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-6b0c406d64974524812afd84270c56bd">
-    <bounds
-        x="24"
-        y="240"
-        width="145"
-        height="73"/>
-    <archimateElement
-        xsi:type="archimate:BusinessObject"
-        href="BusinessObject_id-4bb35f9a0f7e433bbdba9c4d8c6a98bb.xml#id-4bb35f9a0f7e433bbdba9c4d8c6a98bb"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-eed4c7b640d6454bbcf8f8d08242754b">
-    <bounds
-        x="180"
-        y="240"
-        width="157"
-        height="73"/>
-    <archimateElement
-        xsi:type="archimate:BusinessObject"
-        href="BusinessObject_id-40d348c7cd064cd285f5cf2649b490fc.xml#id-40d348c7cd064cd285f5cf2649b490fc"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-48a2c932ffb449e2a6ab287a4b014c28">
-    <bounds
-        x="348"
-        y="168"
-        width="145"
-        height="61"/>
-    <archimateElement
-        xsi:type="archimate:BusinessObject"
-        href="BusinessObject_id-2e993d642fc5427ab4009afeffbb2444.xml#id-2e993d642fc5427ab4009afeffbb2444"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-45e7a2830cc24569bc02bd317f99999f">
-    <bounds
-        x="348"
-        y="240"
-        width="145"
-        height="73"/>
-    <archimateElement
-        xsi:type="archimate:BusinessObject"
-        href="BusinessObject_id-22616146653643cd840676f6a2f0eabe.xml#id-22616146653643cd840676f6a2f0eabe"/>
-  </children>
   <properties
       key="alias"
       value="vista.propuesta"/>
