@@ -1,56 +1,8 @@
 <archimate:ArchimateDiagramModel
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="02.1f.Propuesta. Económica"
-    id="id-9523113a6864405a894476cdca6c39dd">
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-62576a374ed0457fb57679517803da32">
-    <bounds
-        x="24"
-        y="240"
-        width="145"
-        height="73"/>
-    <archimateElement
-        xsi:type="archimate:BusinessObject"
-        href="BusinessObject_id-4bb35f9a0f7e433bbdba9c4d8c6a98bb.xml#id-4bb35f9a0f7e433bbdba9c4d8c6a98bb"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-0f1f75e28d3644ec8fbab7b585378c34">
-    <bounds
-        x="180"
-        y="240"
-        width="157"
-        height="73"/>
-    <archimateElement
-        xsi:type="archimate:BusinessObject"
-        href="BusinessObject_id-40d348c7cd064cd285f5cf2649b490fc.xml#id-40d348c7cd064cd285f5cf2649b490fc"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-3fe5edbd3d5b45a291e8c1f65bf10085">
-    <bounds
-        x="348"
-        y="168"
-        width="145"
-        height="61"/>
-    <archimateElement
-        xsi:type="archimate:BusinessObject"
-        href="BusinessObject_id-2e993d642fc5427ab4009afeffbb2444.xml#id-2e993d642fc5427ab4009afeffbb2444"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-dc8f12d0150343f584d47e1c94ba850c">
-    <bounds
-        x="348"
-        y="240"
-        width="145"
-        height="73"/>
-    <archimateElement
-        xsi:type="archimate:BusinessObject"
-        href="BusinessObject_id-22616146653643cd840676f6a2f0eabe.xml#id-22616146653643cd840676f6a2f0eabe"/>
-  </children>
+    name="02.1f.Económica"
+    id="id-9523113a6864405a894476cdca6c39dd"
+    documentation="&#xA;A la presente propuesta, en los términos consignados aquí, le corresponde la siguiente oferta económica.&#xA;&#xA;&#xA;| Ítem                                            | Costo          | Impuestos |&#xA;|:------------------------------------------------|:---------------|:----------|&#xA;| Evaluación de la arquitectura del $APP $CLIENTE | $/.XXXXXXX COP | Sí        |&#xA;| Transformación de la arquitectura del $APP      | $/.XXXXXXX COP | Sí        |&#xA;&#xA;&#xA;Nota: los valores del costo de la propuesta se mantienen durante los siguientes 10 días laborales luego de su presentación a los interesados.&#xA;&#xA;&#xA;### Forma de Pago de la Propuesta&#xA;&#xA;| Pagos        | Fracción | Hito del Plan                                  |&#xA;|:-------------|:---------|:-----------------------------------------------|&#xA;| Primer pago  | 25%      | Inicio de la evaluación de la arquitectura     |&#xA;| Segundo pago | 25%      | Final de la evaluación                         |&#xA;| Tercer pago  | 25%      | Inicio de la transformación de la arquitectura |&#xA;| Cuarto pago  | 25%      | Fin de la transformación de la arquitectura    |&#xA;">
   <properties
       key="alias"
       value="vista.propuesta"/>

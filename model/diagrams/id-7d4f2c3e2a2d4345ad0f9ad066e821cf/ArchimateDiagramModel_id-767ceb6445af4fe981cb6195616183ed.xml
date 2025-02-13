@@ -1,0 +1,20 @@
+<archimate:ArchimateDiagramModel
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="02.1i.Resumen"
+    id="id-767ceb6445af4fe981cb6195616183ed"
+    documentation="&#xA;* XX (X) días de trabajo.&#xA;* Requiere apoyo de ingenieros y personal interno de la empresa, consignado en la tabla de equipo de trabajo.&#xA;* El resultado del proyecto son los cambios en la arquitectura del $APP y la divulgación de los cambios mediante documentación técnica&#xA;* No incluye: por restricciones de tiempo no incluye recomendaciones de diseño a otros sistemas de la empresa, ni plan de capacidad proyección de uso infraestructura.&#xA;* Costo es de $/.XXXXX COP, incluye impuestos.&#xA;">
+  <properties
+      key="alias"
+      value="vista.propuesta"/>
+  <properties
+      key="devdoc"/>
+  <properties
+      key="titulo"
+      value="Propuesta Económica"/>
+  <properties
+      key="plantillaElm"
+      value="elementsimple-sintit-md,elementsimple-filatit-md"/>
+  <properties
+      key="IncludeDiagram"
+      value="false"/>
+</archimate:ArchimateDiagramModel>

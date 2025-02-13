@@ -1,6 +1,6 @@
 <archimate:ArchimateDiagramModel
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="02.1d.Propuesta. Entregables"
+    name="02.1d.Entregables"
     id="id-fe20e99992234a3cb6af29d19555b72a"
     documentation="&#xA;1. Evaluación de la arquitectura del $APP del $CLIENTE. Listado de hallazgos relevantes y accionables de la arquitectura desde las perspectivas rendimiento, funcional-negocio, y operativa (esta perspectiva incluye a los métodos de construcción, pruebas y transición).&#xA;1. Hoja de ruta de las cambios requeridos y transformaciones para el mejoramiento de la arquitectura de $APP. Instrumento para la priorización y planeación de la entrega de las transición de la arquitectura de $APP del $CLIENTE.&#xA;">
   <properties

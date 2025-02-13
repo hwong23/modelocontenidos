@@ -1,5 +1,4 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Equipo de Trabajo"
-    id="id-4bb35f9a0f7e433bbdba9c4d8c6a98bb"
-    documentation="&#xA;| Recurso                                | Cant. | Participación | Observaciones   |&#xA;|:---------------------------------------|:------|:--------------|:----------------|&#xA;| Especialista encargado plan de pruebas | 1     | 100%          |                 |&#xA;| Ingeniero apoyo a las pruebas          | 1     | 2 días        | Interno cliente |&#xA;&#xA;&#xA;Nota: por las restricciones de ejecución conocidas al momento de la realización de esta propuesta es requerido un apoyo interno de la empresa cliente $APP con la participación indicada en la tabla.&#xA;&#xA;&#xA;"/>
+    id="id-4bb35f9a0f7e433bbdba9c4d8c6a98bb"/>

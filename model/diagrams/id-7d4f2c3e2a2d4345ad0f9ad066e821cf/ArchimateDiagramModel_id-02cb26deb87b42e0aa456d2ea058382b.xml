@@ -1,0 +1,33 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="02.1g.Equipo"
+    id="id-02cb26deb87b42e0aa456d2ea058382b"
+    documentation="&#xA;| Recurso                                | Cant. | Participación | Observaciones   |&#xA;|:---------------------------------------|:------|:--------------|:----------------|&#xA;| Especialista encargado plan de pruebas | 1     | 100%          |                 |&#xA;| Ingeniero apoyo a las pruebas          | 1     | 2 días        | Interno cliente |&#xA;&#xA;&#xA;Nota: por las restricciones de ejecución conocidas al momento de la realización de esta propuesta es requerido un apoyo interno de la empresa cliente $APP con la participación indicada en la tabla.&#xA;&#xA;&#xA;">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-0e5d425b0ec84699a839b1eb4c22584e">
+    <bounds
+        x="24"
+        y="240"
+        width="145"
+        height="73"/>
+    <archimateElement
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_id-4bb35f9a0f7e433bbdba9c4d8c6a98bb.xml#id-4bb35f9a0f7e433bbdba9c4d8c6a98bb"/>
+  </children>
+  <properties
+      key="alias"
+      value="vista.propuesta"/>
+  <properties
+      key="devdoc"/>
+  <properties
+      key="titulo"
+      value="Propuesta Económica"/>
+  <properties
+      key="plantillaElm"
+      value="elementsimple-sintit-md,elementsimple-filatit-md"/>
+  <properties
+      key="IncludeDiagram"
+      value="false"/>
+</archimate:ArchimateDiagramModel>
