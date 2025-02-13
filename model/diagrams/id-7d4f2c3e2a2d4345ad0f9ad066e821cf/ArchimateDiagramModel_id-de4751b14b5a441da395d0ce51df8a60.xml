@@ -1,52 +1,69 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="02.1c.Propuesta PPT"
+    name="02.2c.Propuesta PPT"
     id="id-de4751b14b5a441da395d0ce51df8a60"
-    documentation="servicio: desarrollo, consultoría&#xA;enfoque: entender, innovar, sis legados, y proveedores&#xA;enfoque: reunión, qué problemas solucionar&#xA;presentación: escucha pero consultivo (propuesta solución)&#xA;propuesta: &#xA;1. diagnóstico (result. estabilización)&#xA;1. proceso ing. (result. modernización)&#xA;1. observabilidad (result. bucles de retroalimentación): medir, avance, estadística&#xA;&#xA;">
+    documentation="Consultoría de ingeniería y desarrollo para el mejoramiento de la plataforma bancaria, extendida a los sistemas actuales, legados y a proveedores tecnológicos del Banco Mundo Mujer (BMM).&#xA;&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-a10c5d1386294675a9535fbcfe3ef632">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-885c3f0685804b019176dfba2646f97f"
-        source="id-a10c5d1386294675a9535fbcfe3ef632"
-        target="id-da213c3d481b4b38a3179c9265dcaf30">
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_id-8d0b079e32ec407c992187e4871b90bf.xml#id-8d0b079e32ec407c992187e4871b90bf"/>
-    </sourceConnections>
     <bounds
         x="12"
         y="24"
         width="241"
         height="109"/>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-da213c3d481b4b38a3179c9265dcaf30"
-        targetConnections="id-885c3f0685804b019176dfba2646f97f">
-      <bounds
-          x="72"
-          y="36"
-          width="145"
-          height="61"/>
-      <archimateElement
-          xsi:type="archimate:BusinessObject"
-          href="BusinessObject_id-9f81a7f800dc4665b46a6a4b80ae7a4e.xml#id-9f81a7f800dc4665b46a6a4b80ae7a4e"/>
-    </children>
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-cc76cf0299424b5cb54aed8c08e5b388.xml#id-cc76cf0299424b5cb54aed8c08e5b388"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-7d6e25dabe4f43128937846eaa121b67">
+    <bounds
+        x="264"
+        y="24"
+        width="241"
+        height="109"/>
+    <archimateElement
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_id-aecc3fd8671b48ddadd48bf98d8b7894.xml#id-aecc3fd8671b48ddadd48bf98d8b7894"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-ecb1acf46339408faa780895c7f587b3">
+    <bounds
+        x="12"
+        y="144"
+        width="241"
+        height="109"/>
+    <archimateElement
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_id-9eb3275c0989463daac5bbfedae4e457.xml#id-9eb3275c0989463daac5bbfedae4e457"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-b347d9e6f0e449eebf8456ac9e741272">
+    <bounds
+        x="516"
+        y="24"
+        width="241"
+        height="109"/>
+    <archimateElement
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_id-1f900c96c1be4a02b958b2ff87b4ff0b.xml#id-1f900c96c1be4a02b958b2ff87b4ff0b"/>
+  </children>
   <properties
       key="alias"
-      value="vista.propuesta"/>
+      value="vista.propuestappt"/>
   <properties
       key="devdoc"/>
   <properties
       key="titulo"
-      value="Componentes de la Propuesta"/>
+      value="Presentación del Entendimiento Preliminar"/>
   <properties
       key="plantillaElm"
       value="elementsimple-sintit-md,elementsimple-filatit-md"/>
+  <properties
+      key="IncludeDiagram"
+      value="false"/>
 </archimate:ArchimateDiagramModel>

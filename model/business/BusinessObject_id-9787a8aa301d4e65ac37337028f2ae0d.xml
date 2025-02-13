@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Metas de la Propuesta"
     id="id-9787a8aa301d4e65ac37337028f2ae0d"
-    documentation="&#xA;1. En cuanto al método de la propuesta: presentar un plan de pruebas de rendimiento suficiente y acotado a la corroboración operativa en términos de rendimiento exigida a la plataforma $APP&#xA;1. En cuanto a la necesidad: alinear el plan de pruebas de rendimiento con los condiciones requeridas de tiempo y entregables resultantes con las exigencias de los interesados de la propuesta&#xA;"/>
+    documentation="&#xA;1. **Hallazgos relevantes de la arquitectura del $APP**. Presentar hallazgos relevantes resultado del análisis de la arquitectura de solución actual del canal de banca Whatsapp (chat) del $CLIENTE categorizados en varias perspectivas, como la funcional, técnica y operativa.&#xA;1. **Hoja de ruta de la arquitectura y gestión de cambios del $APP**. Desarrollar la hoja de ruta de los cambios derivados del objetivo no. 1, Hallazgos relevantes de la arquitectura, con los proyectos priorizados mediante criterio críticos de factibilidad e impacto a $CLIENTE.&#xA;"/>
