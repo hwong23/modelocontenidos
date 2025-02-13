@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Alcance"
     id="id-6491017346534b1c8366eba914a829dd"
-    documentation="&#xA;1. Evalaución de arquitectura del $APP del $CLIENTE.&#xA;1. Transformación de la arquitectura del $APP.&#xA;&#xA;&#xA;### Exclusiones del Alcance&#xA;La presenta propuesta no incluye: &#xA;&#xA;1. Por restricciones de tiempo, la actual propuesta no incluye análisis ni recomendaciones de diseño/arquitectura&#xA;1. No incluye plan de capacidad / proyección de uso infraestructura futura&#xA;&#xA;"/>
+    documentation="&#xA;1. Evaluación de la arquitectura del $APP del $CLIENTE.&#xA;1. Transformación de la arquitectura del $APP.&#xA;&#xA;&#xA;### Exclusiones del Alcance&#xA;La presenta propuesta no incluye: &#xA;&#xA;1. Por restricciones de tiempo, la actual propuesta no incluye análisis ni recomendaciones de diseño/arquitectura de arquitecturas distintas a las del $APP.&#xA;1. No incluye plan de capacidad / proyección de uso infraestructura futura de la arquitectura del $APP.&#xA;1. No incljuye la provisión de infraestructura.&#xA;&#xA;"/>
