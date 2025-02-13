@@ -2,8 +2,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="02.1b.Propuesta. Descripción"
-    id="id-dd2f1c1c1816447380fe900b66faa8bc"
-    documentation="servicio: desarrollo, consultoría&#xA;enfoque: entender, innovar, sis legados, y proveedores&#xA;enfoque: reunión, qué problemas solucionar&#xA;presentación: escucha pero consultivo (propueta solución)&#xA;propuesta: &#xA;1. diagnóstico (result. estabilización)&#xA;1. proceso ing. (result. modernización)&#xA;1. observabilidad (result. bucles de retroalimentación): medir, avance, estadística&#xA;&#xA;">
+    id="id-dd2f1c1c1816447380fe900b66faa8bc">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-886dad29d789456cad4f0617ff79ff72">
@@ -59,7 +58,7 @@
       key="devdoc"/>
   <properties
       key="titulo"
-      value="Descripción y Metas de la Propuesta"/>
+      value="Descripción, Metas, y Alcance de la Propuesta"/>
   <properties
       key="plantillaElm"
       value="elementsimple-sintit-md,elementsimple-filatit-md"/>
