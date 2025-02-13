@@ -218,5 +218,5 @@
       value="Contenido de la Propuesta"/>
   <properties
       key="DocumentosIndividualesxVista"
-      value="true"/>
+      value="false"/>
 </archimate:ArchimateDiagramModel>
