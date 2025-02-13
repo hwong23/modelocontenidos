@@ -40,6 +40,18 @@
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-9787a8aa301d4e65ac37337028f2ae0d.xml#id-9787a8aa301d4e65ac37337028f2ae0d"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-874712a20fd241f4a82085df4d286e57">
+    <bounds
+        x="24"
+        y="96"
+        width="145"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_id-6491017346534b1c8366eba914a829dd.xml#id-6491017346534b1c8366eba914a829dd"/>
+  </children>
   <properties
       key="alias"
       value="vista.propuesta"/>
