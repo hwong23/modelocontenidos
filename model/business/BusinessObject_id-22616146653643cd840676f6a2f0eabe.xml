@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Resumen de Propuesta $TITULO"
     id="id-22616146653643cd840676f6a2f0eabe"
-    documentation="&#xA;* Cuatro (4) días de trabajo.&#xA;* Requiere apoyo de un ingeniero interno de la empresa, dedicado 2 (dos) días.&#xA;* El resultado son tres (3) informes: línea base, ejecutivo, y técnico.&#xA;* No incluye: por restricciones de tiempo no incluye recomendaciones de diseño/arquitectura, ni plan de capacidad proyección de uso infraestructura.&#xA;* Costo es de $/.4'945.000,oo COP, incluye impuestos.&#xA;"/>
+    documentation="&#xA;* XX (X) días de trabajo.&#xA;* Requiere apoyo de ingenieros y peronal interno de la empresa, consignado en la tabla de equipo de trabajo.&#xA;* El resultado del proyecto son los cambios en la arquitectura del $APP y la divulgación de los cambios mediante documentación técnica&#xA;* No incluye: por restricciones de tiempo no incluye recomendaciones de diseño a otros sistemas de la empresa, ni plan de capacidad proyección de uso infraestructura.&#xA;* Costo es de $/.XXXXX COP, incluye impuestos.&#xA;"/>
