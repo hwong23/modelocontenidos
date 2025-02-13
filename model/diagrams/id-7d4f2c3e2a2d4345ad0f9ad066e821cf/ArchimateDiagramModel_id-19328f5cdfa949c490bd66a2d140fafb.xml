@@ -1,20 +1,8 @@
 <archimate:ArchimateDiagramModel
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="02.1b2.Metas"
-    id="id-19328f5cdfa949c490bd66a2d140fafb">
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-fe92d33466914db3a93462c495670d50">
-    <bounds
-        x="336"
-        y="24"
-        width="145"
-        height="61"/>
-    <archimateElement
-        xsi:type="archimate:BusinessObject"
-        href="BusinessObject_id-9787a8aa301d4e65ac37337028f2ae0d.xml#id-9787a8aa301d4e65ac37337028f2ae0d"/>
-  </children>
+    id="id-19328f5cdfa949c490bd66a2d140fafb"
+    documentation="&#xA;1. **Hallazgos relevantes de la arquitectura del $APP**. Presentar puntos de cambios relevantes resultado del análisis de la arquitectura de solución actual del canal de banca Whatsapp (chat) del $CLIENTE categorizados en varias perspectivas, como la funcional, técnica y operativa.&#xA;1. **Hoja de ruta de la arquitectura y gestión de cambios del $APP**. Desarrollar la hoja de ruta de los cambios derivados del objetivo no. 1, Hallazgos relevantes de la arquitectura, con los proyectos priorizados mediante criterio críticos de factibilidad e impacto a $CLIENTE.&#xA;">
   <properties
       key="alias"
       value="vista.propuesta"/>

@@ -1,20 +1,8 @@
 <archimate:ArchimateDiagramModel
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="02.1d.Propuesta. Entregables"
-    id="id-fe20e99992234a3cb6af29d19555b72a">
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-4dc09ff9603f495db69e85e90a98dc28">
-    <bounds
-        x="348"
-        y="96"
-        width="145"
-        height="61"/>
-    <archimateElement
-        xsi:type="archimate:BusinessObject"
-        href="BusinessObject_id-0a2ffe5b6c8648c9a4af1b58791c4a7b.xml#id-0a2ffe5b6c8648c9a4af1b58791c4a7b"/>
-  </children>
+    id="id-fe20e99992234a3cb6af29d19555b72a"
+    documentation="&#xA;1. Evaluación de la arquitectura del $APP del $CLIENTE. Listado de hallazgos relevantes y accionables de la arquitectura desde las perspectivas rendimiento, funcional-negocio, y operativa (esta perspectiva incluye a los métodos de construcción, pruebas y transición).&#xA;1. Hoja de ruta de las cambios requeridos y transformaciones para el mejoramiento de la arquitectura de $APP. Instrumento para la priorización y planeación de la entrega de las transición de la arquitectura de $APP del $CLIENTE.&#xA;">
   <properties
       key="alias"
       value="vista.propuesta"/>

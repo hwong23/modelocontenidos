@@ -1,20 +1,8 @@
 <archimate:ArchimateDiagramModel
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="02.1b1.Detalles"
-    id="id-c9f92424c7bd41e6b20b83e818865bd8">
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-0dbf79bb9fae466a9367874b7d2a398b">
-    <bounds
-        x="180"
-        y="24"
-        width="145"
-        height="61"/>
-    <archimateElement
-        xsi:type="archimate:BusinessObject"
-        href="BusinessObject_id-ebe603f41b8141729fc1a86b133825ce.xml#id-ebe603f41b8141729fc1a86b133825ce"/>
-  </children>
+    id="id-c9f92424c7bd41e6b20b83e818865bd8"
+    documentation="Esta propuesta contienen los siguientes componentes técnicos.&#xA;&#xA;- Metas del proyecto e interesados&#xA;- Alcance&#xA;- Métodos&#xA;- Entregables&#xA;- Plan de Trabajo y cronograma propuesto&#xA;- Consideraciones, costos y restricciones&#xA;">
   <properties
       key="alias"
       value="vista.propuesta"/>
