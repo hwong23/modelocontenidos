@@ -1,12 +1,12 @@
 <canvas:CanvasModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:canvas="http://www.archimatetool.com/archimate/canvas"
-    name="02.1e1.Propuesta. Plan"
-    id="id-650dca2ba0114dca99ad6302b8ed6dc7"
+    name="02.1e2.Propuesta. Cronograma"
+    id="id-efde22120e4549489bf249a074b5b28e"
     documentation="&#xA;1. Diagnóstico y evaluación de la arquitectura del $APP, incluye planificación, preparación, diagnóstico, documentación técnica, y divulgación: 20 días de trabajo.&#xA;&#xA;1. Transformación de la arquitectura del $APP, incluye diseño de hoja de ruta, ejecución transiciones, gestión de cambios, documentación técnica, divulgación: 60 días.&#xA;&#xA;">
   <children
       xsi:type="canvas:CanvasModelImage"
-      id="id-7264be42606c4a5db817316206795502"
+      id="id-fa5177dba675490a9313ba45d2200ab2"
       name="Image"
       imagePath="images/_C6dakOoTEe-zrvINtgIBuA.png">
     <bounds
@@ -17,7 +17,7 @@
   </children>
   <children
       xsi:type="canvas:CanvasModelImage"
-      id="id-990bbac28fd9434f87e37f95477ae369"
+      id="id-24c943106e424eb685cff6d319632731"
       name="Image"
       imagePath="images/_C7DQcOoTEe-zrvINtgIBuA.png">
     <bounds
@@ -46,7 +46,7 @@
       value="true"/>
   <properties
       key="titulo"
-      value="Plan de Trabajo"/>
+      value="Cronograma"/>
   <properties
       key="plantilla"
       value="documentation-vd-md"/>
