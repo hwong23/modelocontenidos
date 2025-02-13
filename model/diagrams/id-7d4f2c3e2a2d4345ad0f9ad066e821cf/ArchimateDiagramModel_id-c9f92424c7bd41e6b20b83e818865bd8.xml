@@ -1,19 +1,19 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="02.1b.Descripción"
-    id="id-dd2f1c1c1816447380fe900b66faa8bc">
+    name="02.1b1.Detalles"
+    id="id-c9f92424c7bd41e6b20b83e818865bd8">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-886dad29d789456cad4f0617ff79ff72">
+      id="id-0dbf79bb9fae466a9367874b7d2a398b">
     <bounds
-        x="24"
+        x="180"
         y="24"
         width="145"
         height="61"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
-        href="BusinessObject_id-4ddf7e745a3d402bab18c4fa8f6d22b0.xml#id-4ddf7e745a3d402bab18c4fa8f6d22b0"/>
+        href="BusinessObject_id-ebe603f41b8141729fc1a86b133825ce.xml#id-ebe603f41b8141729fc1a86b133825ce"/>
   </children>
   <properties
       key="alias"
@@ -22,7 +22,7 @@
       key="devdoc"/>
   <properties
       key="titulo"
-      value="Descripción de la Propuesta"/>
+      value="Detalles Técnicos de la Propuesta"/>
   <properties
       key="plantillaElm"
       value="elementsimple-sintit-md,elementsimple-filatit-md"/>
