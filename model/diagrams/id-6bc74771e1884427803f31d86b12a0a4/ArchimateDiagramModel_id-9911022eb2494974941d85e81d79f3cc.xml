@@ -53,8 +53,8 @@
           href="TriggeringRelationship_id-8938b54db2f645a2a40c297cf2a6d80d.xml#id-8938b54db2f645a2a40c297cf2a6d80d"/>
     </sourceConnections>
     <bounds
-        x="288"
-        y="36"
+        x="24"
+        y="204"
         width="529"
         height="312"/>
     <children
@@ -199,8 +199,8 @@
       targetConnections="id-001bdd061da4494b9d0486b2b3e3bcf6"
       textAlignment="1">
     <bounds
-        x="300"
-        y="420"
+        x="36"
+        y="552"
         width="469"
         height="132"/>
     <archimateElement
