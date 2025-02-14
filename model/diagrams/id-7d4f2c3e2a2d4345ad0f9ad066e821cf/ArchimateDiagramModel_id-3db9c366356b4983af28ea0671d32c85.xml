@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="02.1h.Consideraciones"
     id="id-3db9c366356b4983af28ea0671d32c85"
-    documentation="&#xA;1. Forma de pago de la propuesta: 50% al inicio, 50% al final, contraentrega.&#xA;1. Por las restricciones propias de proyecto, requiere apoyo de un ingeniero interno de la empresa, dedicado el 50% de la duración del plan.&#xA;1. Las estimaciones de costo, esfuerzo, tiempo, y planeación son aproximadas, y representan la intención de la propuesta con la información conocida por las partes al momento de su realización.&#xA;1. Las extensiones en los entregables, o cambios a la propuesta se acordarán en definición y extensión por separado.&#xA;1. La tarifa de los controles de cambio de la propuesta es de $/. 120.000 COP la hora. Incluye impuestos.&#xA;&#xA;">
+    documentation="&#xA;1. Forma de pago de la propuesta: 50% al final del primer entregables, 50% al final del segundo entregable.&#xA;1. Por las restricciones propias de proyecto la ejecución de este proyecto requiere apoyo de un ingeniero interno de la empresa, dedicado el tiempo convenido entre las partes.&#xA;1. Las estimaciones de costo, esfuerzo, tiempo, y planeación son aproximadas, y representan la intención de la propuesta con la información conocida por las partes al momento de su realización.&#xA;1. Las extensiones en los entregables, o cambios a la propuesta se acordarán en definición y extensión por separado.&#xA;1. La tarifa de los controles de cambio de la propuesta es de $/. 120.000 COP la hora. Incluye impuestos.&#xA;&#xA;">
   <properties
       key="alias"
       value="vista.propuesta"/>
