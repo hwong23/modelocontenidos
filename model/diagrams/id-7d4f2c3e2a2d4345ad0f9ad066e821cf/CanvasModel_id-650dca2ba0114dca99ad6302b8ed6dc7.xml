@@ -3,7 +3,7 @@
     xmlns:canvas="http://www.archimatetool.com/archimate/canvas"
     name="02.1e1.Plan"
     id="id-650dca2ba0114dca99ad6302b8ed6dc7"
-    documentation="&#xA;1. Diagnóstico y evaluación de la arquitectura del $APP, incluye planificación, preparación, diagnóstico, documentación técnica, y divulgación: 20 días de trabajo.&#xA;&#xA;1. Transformación de la arquitectura del $APP, incluye diseño de hoja de ruta, ejecución transiciones, gestión de cambios, documentación técnica, divulgación: 60 días.&#xA;&#xA;">
+    documentation="El plan de trabajo propuesto consta de dos fases consecutivas iniciadas a partir de la aceptación de la propuesta: el diagnóstico y evaluación de la arquitectura, y la intervención de la arquitectura del $APP. En detalle cada una:&#xA;&#xA;1. Diagnóstico y evaluación de la arquitectura del $APP, incluye planificación, preparación, diagnóstico, documentación técnica, y divulgación: un (1) mes, equiivalente a 20 días de trabajo.&#xA;&#xA;1. Transformación de la arquitectura del $APP, incluye diseño de hoja de ruta, ejecución transiciones, gestión de cambios, documentación técnica, divulgación: tres (3) meses, equivalente a 60 días de trabajo.&#xA;&#xA;">
   <children
       xsi:type="canvas:CanvasModelImage"
       id="id-7264be42606c4a5db817316206795502"
@@ -47,7 +47,4 @@
   <properties
       key="titulo"
       value="Plan de Trabajo"/>
-  <properties
-      key="plantilla"
-      value="documentation-vd-md"/>
 </canvas:CanvasModel>
