@@ -3,7 +3,7 @@
     xmlns:canvas="http://www.archimatetool.com/archimate/canvas"
     name="02.1e1.Plan"
     id="id-650dca2ba0114dca99ad6302b8ed6dc7"
-    documentation="El plan de trabajo propuesto consta de dos fases consecutivas iniciadas a partir de la aceptación de la propuesta: el diagnóstico y evaluación de la arquitectura, y la intervención de la arquitectura del $APP. En detalle cada una:&#xA;&#xA;1. Diagnóstico y evaluación de la arquitectura del $APP, incluye planificación, preparación, diagnóstico, documentación técnica, y divulgación: un (1) mes, equiivalente a 20 días de trabajo.&#xA;&#xA;1. Transformación de la arquitectura del $APP, incluye diseño de hoja de ruta, ejecución transiciones, gestión de cambios, documentación técnica, divulgación: tres (3) meses, equivalente a 60 días de trabajo.&#xA;&#xA;">
+    documentation="El plan de trabajo propuesto consta de dos fases de trabajo consecutivas que inician a partir de la aceptación y formalización de la actual propuesta: Fase I, el diagnóstico y evaluación de la arquitectura; y Fase II, el diseño de la hoja de ruta de transfrmación de la arquitectura del $APP. &#xA;&#xA;En detalle cada una:&#xA;&#xA;1. Diagnóstico y evaluación de la arquitectura del $APP, incluye planificación, preparación, diagnóstico, documentación técnica, y divulgación: estimada en 15 días de trabajo.&#xA;&#xA;1. Diseño de hoja de ruta de transformación de la arquitectura del $APP, incluye diseño de hoja de ruta, ejecución transiciones, gestión de cambios, documentación técnica, divulgación: tres (3) meses: estimada en 5  días de trabajo.&#xA;&#xA;1. Por tanto, el total de la duración del proyecto es de un (1) mes laboral.&#xA;">
   <children
       xsi:type="canvas:CanvasModelImage"
       id="id-7264be42606c4a5db817316206795502"
