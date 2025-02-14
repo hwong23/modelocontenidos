@@ -38,7 +38,4 @@
   <properties
       key="titulo"
       value="Método Propuesto"/>
-  <properties
-      key="plantilla"
-      value="documentation-vd-md"/>
 </canvas:CanvasModel>
