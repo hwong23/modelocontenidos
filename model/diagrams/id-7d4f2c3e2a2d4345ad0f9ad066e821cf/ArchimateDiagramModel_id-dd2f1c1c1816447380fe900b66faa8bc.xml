@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="02.1b.Descripción"
     id="id-dd2f1c1c1816447380fe900b66faa8bc"
-    documentation="Consultoría de ingeniería y mejoramiento del canal bancario textual Whatsapp del Banco Mundo Mujer (BMM), con extensión a sistemas, legados y proveedores tecnológicos relacionados con su arquitectura.&#xA;&#xA;Para el mejoramiento del $APP, esta propuesta incluye los servicios de  desarrollo. &#xA;">
+    documentation="Consultoría de ingeniería y mejoramiento del canal bancario textual Whatsapp del Banco Mundo Mujer (BMM), con extensión a sistemas externos, legados y proveedores tecnológicos relacionados con la arquitectura del canal.&#xA;&#xA;">
   <properties
       key="alias"
       value="vista.propuesta"/>
