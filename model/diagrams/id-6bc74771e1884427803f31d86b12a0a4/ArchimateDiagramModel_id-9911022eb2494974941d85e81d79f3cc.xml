@@ -139,8 +139,8 @@
       targetConnections="id-f6cdeaae67c942a09c353449a93c4159"
       textAlignment="1">
     <bounds
-        x="36"
-        y="552"
+        x="24"
+        y="936"
         width="469"
         height="132"/>
     <children
@@ -174,8 +174,8 @@
           href="TriggeringRelationship_id-ca130bce870843e4a4b0358e9e6b78d1.xml#id-ca130bce870843e4a4b0358e9e6b78d1"/>
     </sourceConnections>
     <bounds
-        x="576"
-        y="204"
+        x="24"
+        y="564"
         width="529"
         height="312"/>
     <children
