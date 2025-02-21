@@ -27,9 +27,9 @@ jobs:
         with:
             repository: hwong23/devocs-contd
             ref: ${{github.ref}}
-            path: ~/devocs-contd
+            path: devocs-contd
       - name: workspace
-        run: ls ~/devocs-contd
+        run: ls devocs-contd
       - name: Run model documentation
         id: devdoc
         uses: hwong23/git_hwo-action@v2.1
