@@ -31,7 +31,7 @@ jobs:
             path: devocs-contd
       - name: Mv devocscontd
         run: |
-          mv ${{github.WORKSPACE}}/devocs-contd ~/devocs-contd
+          cp -R ${{github.WORKSPACE}}/devocs-contd ~/devocs-contd
           ls ~/devocs-contd
       - name: Run model documentation
         id: devdoc
@@ -44,5 +44,5 @@ jobs:
       - name: Add-and-commit
         uses: EndBug/add-and-commit@v9 # You can change this to use a specific version.
         with:
-          cwd: /home/runner/devocs-contd
+          cwd: ./devocs-contd
           message: 'MD output'
