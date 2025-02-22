@@ -40,7 +40,8 @@ jobs:
       # Use the output from the `hello` step
       - name: Get the output time
         run: echo "The time was ${{ steps.devdoc.outputs.time }}"
-      - name: add-and-commit
+      - name: Add-and-commit
         uses: EndBug/add-and-commit@v9 # You can change this to use a specific version.
         with:
+          cwd: $HOME/devocs-contd
           message: 'MD output'
