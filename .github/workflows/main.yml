@@ -1,5 +1,7 @@
 on: [push, workflow_dispatch]
-
+permissions:
+  contents: write
+  
 jobs:
   devdoc:
     runs-on: ubuntu-latest
