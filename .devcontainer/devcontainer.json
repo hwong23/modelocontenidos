@@ -22,9 +22,5 @@
 			}
 		}
 	  }
-	},
-	"features": {
-		"ghcr.io/rocker-org/devcontainer-features/pandoc:1": {},
-		"ghcr.io/devcontainers-extra/features/pandoc:1": {}
 	}
   }
