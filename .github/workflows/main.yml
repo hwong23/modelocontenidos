@@ -46,3 +46,4 @@ jobs:
         with:
           cwd: ./devocs-contd
           message: 'MD output'
+          github_token: ${{ secrets.GITHUB_TOKEN }}
