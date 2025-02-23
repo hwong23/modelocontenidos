@@ -1,32 +1,30 @@
+// For format details, see https://aka.ms/devcontainer.json. For config options, see the README at:
+// https://github.com/microsoft/vscode-dev-containers/tree/v0.205.2/containers/debian
 {
-    "image":"mcr.microsoft.com/devcontainers/universal:2",
+	"name": "Modelocontenidos",
 
-    "customizations": {
-        "vscode": {
-            "extensions": [
-                "alefragnani.Bookmarks",
-                "ritwickdey.LiveServer",
-                "mechatroner.rainbow-csv",,
-                "ShahilKumar.docxreader"
-            ]
-        },
-        "codespaces": {
-            "repositories": {
-                "hwong23/devocs-contd": {
-                    "permissions": {
-                        "issues": "write",
-                        "actions": "write",
-                        "contents": "write"
-                    }
-                },
-                "hwong23/hwo-academicTempl": {
-                    "permissions": {
-                        "issues": "write",
-                        "actions": "write",
-                        "contents": "write"
-                    }
-                }
-            }
-        }
-    }
-}
+	"customizations": {
+	  "codespaces": {
+		"repositories": {
+			"hwong23/devocs-contd": {
+				"permissions": {
+					"issues": "write",
+					"actions": "write",
+					"contents": "write"
+			    }
+			},
+			"hwong23/hwo-academicTempl": {
+				"permissions": {
+					"issues": "write",
+					"actions": "write",
+					"contents": "write"
+			    }
+			}
+		}
+	  }
+	},
+	"features": {
+		"ghcr.io/rocker-org/devcontainer-features/pandoc:1": {},
+		"ghcr.io/devcontainers-extra/features/pandoc:1": {}
+	}
+  }
