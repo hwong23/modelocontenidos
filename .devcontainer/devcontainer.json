@@ -1,0 +1,32 @@
+{
+    "image":"mcr.microsoft.com/devcontainers/universal:2",
+
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "alefragnani.Bookmarks",
+                "ritwickdey.LiveServer",
+                "mechatroner.rainbow-csv",,
+                "ShahilKumar.docxreader"
+            ]
+        },
+        "codespaces": {
+            "repositories": {
+                "hwong23/devocs-contd": {
+                    "permissions": {
+                        "issues": "write",
+                        "actions": "write",
+                        "contents": "write"
+                    }
+                },
+                "hwong23/hwo-academicTempl": {
+                    "permissions": {
+                        "issues": "write",
+                        "actions": "write",
+                        "contents": "write"
+                    }
+                }
+            }
+        }
+    }
+}
