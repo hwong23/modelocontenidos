@@ -1,7 +1,5 @@
 on: [push, workflow_dispatch]
-permissions:
-  contents: write
-  
+
 jobs:
   devdoc:
     runs-on: ubuntu-latest
@@ -44,15 +42,8 @@ jobs:
       - name: Get the output time
         run: echo "The time was ${{ steps.devdoc.outputs.time }}"
       - name: Add-and-commit
-        run: |
-          cd ${{github.WORKSPACE}}/devocs-contd
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add .
-          git commit -m updated
-          git push
-        # uses: EndBug/add-and-commit@v9 # You can change this to use a specific version.
-        # with:
-        #   cwd: ./devocs-contd
-        #   message: 'MD output'
-        #   # github_token: ${{ secrets.GITHUB_TOKEN }}
+        uses: EndBug/add-and-commit@v9 # You can change this to use a specific version.
+        with:
+          cwd: ./devocs-contd
+          message: 'MD output'
+
