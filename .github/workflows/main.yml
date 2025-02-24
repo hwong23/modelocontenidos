@@ -23,12 +23,12 @@ jobs:
             repository: hwong23/jarchi-hwo
             ref: main
             path: jarchi-hwo
-      - name: Checkout devocscontd
-        uses: actions/checkout@v4
-        with:
-            repository: hwong23/devocs-contd
-            ref: ${{github.ref}}
-            path: devocs-contd
+      # - name: Checkout devocscontd
+      #   uses: actions/checkout@v4
+      #   with:
+      #       repository: hwong23/devocs-contd
+      #       ref: ${{github.ref}}
+      #       path: devocs-contd
       # - name: Mv devocscontd
       #   run: |
       #     cp -R ${{github.WORKSPACE}}/devocs-contd ~/devocs-contd
@@ -44,6 +44,6 @@ jobs:
       - name: Add-and-commit
         uses: EndBug/add-and-commit@v9 # You can change this to use a specific version.
         with:
-          cwd: ./devocs-contd
+          # cwd: ./devocs-contd
           message: 'MD output'
 
