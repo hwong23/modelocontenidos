@@ -1,4 +1,4 @@
-on: [workflow_dispatch]
+on: [push,workflow_dispatch]
 
 jobs:
   devdoc:
@@ -23,9 +23,9 @@ jobs:
             repository: hwong23/jarchi-hwo
             ref: main
             path: jarchi-hwo
-      # - name: MV jarchi-hwo
-      #   run: |
-      #     mv ${{github.WORKSPACE}}/jarchi-hwo /tmp/jarchi-hwo
+      - name: MV jarchi-hwo
+        run: |
+          mv ${{github.WORKSPACE}}/jarchi-hwo /tmp/jarchi-hwo
     
       - name: Run model documentation
         id: devdoc
