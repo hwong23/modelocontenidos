@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Plan de Trabajo"
+    id="id-cf6c575abc504a4fae73c544e6167b05"
+    documentation="&#xA;1. Diagnóstico y evaluación de la arquitectura del $APP, incluye planificación, preparación, dignóstico, documentación técnica, y divulgación: 20 días de trabajo.&#xA;&#xA;1. Transformación de la arquitectura del $APP, incluye diseño de hoja de ruta, ejecución transiciones, gestión de cambios, documentación técnica, divulgación: 60 días.&#xA;&#xA;"/>

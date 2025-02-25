@@ -8,7 +8,6 @@ jobs:
       - name: Set environment variables
         run: | 
             TRIGGERING_SHA=${GITHUB_PULL_REQUEST_SHA:-$GITHUB_SHA}
-            echo "TMP_PATH=$HOME" >> $GITHUB_ENV
             echo "TRIGGERING_SHA_7=${TRIGGERING_SHA::7}" >> $GITHUB_ENV
             echo "TRIGGERING_SHA: $TRIGGERING_SHA"
             echo "COMPILATION_DATE=$(date +'%d %b %Y')" >> $GITHUB_ENV
@@ -17,22 +16,17 @@ jobs:
         with:
           ref: ${{ github.event.pull_request.head.sha }}
           fetch-depth: 0
+
       - name: Checkout jarchi-hwo
         uses: actions/checkout@v4
         with:
             repository: hwong23/jarchi-hwo
             ref: main
             path: jarchi-hwo
-      # - name: Checkout devocscontd
-      #   uses: actions/checkout@v4
-      #   with:
-      #       repository: hwong23/devocs-contd
-      #       ref: ${{github.ref}}
-      #       path: devocs-contd
-      # - name: Mv devocscontd
+      # - name: MV jarchi-hwo
       #   run: |
-      #     cp -R ${{github.WORKSPACE}}/devocs-contd ~/devocs-contd
-      #     ls ~/devocs-contd
+      #     mv ${{github.WORKSPACE}}/jarchi-hwo /tmp/jarchi-hwo
+    
       - name: Run model documentation
         id: devdoc
         uses: hwong23/git_hwo-action@v2.1
@@ -41,9 +35,7 @@ jobs:
       # Use the output from the `hello` step
       - name: Get the output time
         run: echo "The time was ${{ steps.devdoc.outputs.time }}"
-      - name: Add-and-commit
+      - name: add-and-commit
         uses: EndBug/add-and-commit@v9 # You can change this to use a specific version.
         with:
-          # cwd: ./devocs-contd
           message: 'MD output'
-

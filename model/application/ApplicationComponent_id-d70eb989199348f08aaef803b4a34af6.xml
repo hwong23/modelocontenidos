@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Consumidor"
+    id="id-d70eb989199348f08aaef803b4a34af6"
+    documentation="Aplicación o servicio consumidor. Emite mensajes de petición al proveedor de datos o comandos.&#xA;"/>

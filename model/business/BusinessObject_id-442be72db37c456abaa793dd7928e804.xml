@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MET.VEL"
+    id="id-442be72db37c456abaa793dd7928e804"
+    documentation="*Meta VEL*&#xA;&#xA;Nombre indicador&#x9;Velocidad de construcción&#xA;Uso&#x9;Capacidad interna de desarrollo&#xA;Proceso&#x9;DEV&#xA;Calculo de medición&#x9;Cantidad de puntos de HU ejecutadas / Horas habiles del mes de trabajo&#xA;Fuente&#x9;[Azure DevOps], [Calculo manual]&#xA;"/>

@@ -1,0 +1,9 @@
+<archimate:Value
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Comunicación Legali x Conti"
+    id="id-61a114eb1fb140edb2cba2c3ad234aad"
+    documentation="Valor: el requerimientos genera entregables de valor para la integración de aplicaciones de JEP.&#xA;">
+  <properties
+      key="destino"
+      value="doc, tex, pdf, html"/>
+</archimate:Value>

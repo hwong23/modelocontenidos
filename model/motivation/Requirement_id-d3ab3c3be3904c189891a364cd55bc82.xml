@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RQ1. Rendimiento"
+    id="id-d3ab3c3be3904c189891a364cd55bc82"
+    documentation="número máximo de operaciones o transacciones que se podrán realizar por unidad de tiempo y dando cuenta de las pruebas de funcionamiento realizadas para verificar dicha capacidad.&#xA;"/>

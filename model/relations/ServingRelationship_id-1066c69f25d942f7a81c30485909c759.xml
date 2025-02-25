@@ -1,0 +1,17 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="sirve"
+    id="id-1066c69f25d942f7a81c30485909c759">
+  <properties
+      key="destino"
+      value="doc, tex, ppt"/>
+  <properties
+      key="ide"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-291b20f9fdf94620b8d348250f845d23.xml#id-291b20f9fdf94620b8d348250f845d23"/>
+  <target
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_id-00290dbe8a9d4a7c8e8e5ac0771e1491.xml#id-00290dbe8a9d4a7c8e8e5ac0771e1491"/>
+</archimate:ServingRelationship>

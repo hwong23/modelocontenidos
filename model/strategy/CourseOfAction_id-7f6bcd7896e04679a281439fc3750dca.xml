@@ -1,0 +1,5 @@
+<archimate:CourseOfAction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ACC01. Planeación de Producción. OCT/23"
+    id="id-7f6bcd7896e04679a281439fc3750dca"
+    documentation="### Levantamiento y propuesta de solución&#xA;&#xA;* La mayoría de HU no tienen un anexo técnico resumen de las validaciones u objetos a modificar o crear&#xA;Propuesta de solución: Posterior al refinamiento de la HU, realizar el ajuste anexo de base de datos y tabla de validaciones tecnicas.&#xA;* El cambio del modelo de negocio del cliente genera que las HU no sean funcionales.&#xA;Propuesta de solución: Realizar refinamiento final y no permitir modificaciones adicionales.&#xA;"/>

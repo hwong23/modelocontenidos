@@ -1,0 +1,20 @@
+<archimate:ArchimateDiagramModel
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="02.1b3.Alcance"
+    id="id-bc1931cd933a4fecb4363c17460d12bb"
+    documentation="&#xA;1. Diagnóstico. Evaluación de la arquitectura del $APP del $CLIENTE que resulta en puntos de cambios accionables de la arquitectura del $APP. &#xA;1. Diseño de hoja de ruta de transformación. Planteamiento de transición de la arquitectura del $APP mediante lista de cambios priorizados sobre la arquitectura del canal.&#xA;&#xA;### Exclusiones del Alcance&#xA;La presenta propuesta no incluye: &#xA;&#xA;1. Por restricciones de tiempo, la actual propuesta no incluye análisis ni recomendaciones de diseño a arquitectura distintas a las del $APP.&#xA;1. No incluye plan de capacidad ni proyección de uso infraestructura futura de la arquitectura del $APP.&#xA;1. No incluye la provisión de infraestructura para las soluciones derivadas de este proyecto.&#xA;1. No incluye soporte ni mantenimiento posterior a la realización de este proyecto.&#xA;&#xA;">
+  <properties
+      key="alias"
+      value="vista.propuesta"/>
+  <properties
+      key="devdoc"/>
+  <properties
+      key="titulo"
+      value="Alcance"/>
+  <properties
+      key="plantillaElm"
+      value="elementsimple-sintit-md,elementsimple-filatit-md"/>
+  <properties
+      key="IncludeDiagram"
+      value="false"/>
+</archimate:ArchimateDiagramModel>

@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Método Propuesto"
+    id="id-aecc3fd8671b48ddadd48bf98d8b7894"
+    documentation="Etapas: &#xA;&#xA;1. Etapa de Diagnóstico y Acción (proyecto pequeño)&#xA;1. Etapa de Proceso Ingeniería (pry. mediano)&#xA;1. Etapa de Construcción Plataforma de Observabilidad (pry. pequeño)&#xA;">
+  <properties
+      key="destino"
+      value="ppt"/>
+</archimate:BusinessObject>

@@ -1,0 +1,11 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestión de Reclamos"
+    id="id-c27d0510c8e94e83952b88edffdcbdc7"
+    documentation="Gestión de Reclamaciones (Indemnización): Permite realizar la gestión, seguimiento y pago o negación de las diferentes reclamaciones de acuerdo a las coberturas y los productos que se encuentren dentro del portafolio del Asociado">
+  <properties
+      key="destino"
+      value="doc, tex, ppt"/>
+  <properties
+      key="ide"/>
+</archimate:ApplicationService>

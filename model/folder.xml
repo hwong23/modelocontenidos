@@ -1,0 +1,29 @@
+<archimate:ArchimateModel
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contenidos"
+    id="id-e61caa0dc3cc436aa918b17e0f565135"
+    version="4.9.0">
+  <properties
+      key="rutaMacMD"/>
+  <properties
+      key="devdoc"/>
+  <properties
+      key="rutaMacHTML"/>
+  <properties
+      key="gh-pages"/>
+  <properties
+      key="reporte"
+      value="IntegracionJEP.html"/>
+  <profiles
+      name="Specialization 1"
+      id="id-438ced40f7c24a91bfaaa9a1315e7d8f"
+      conceptType="Grouping"/>
+  <profiles
+      href="archive:file:////Users/hwo/gh/model/modelocontenidos/.git/temp.archimate!/org.archicontribs.modelrepository.tmp/model/other/folder.xml#id-438ced40f7c24a91bfaaa9a1315e7d8f"/>
+  <profiles
+      href="archive:file:////Users/hwo/gh/model/modelocontenidos/.git/temp.archimate!/org.archicontribs.modelrepository.tmp/model/other/folder.xml#id-438ced40f7c24a91bfaaa9a1315e7d8f"/>
+  <profiles
+      href="archive:file:////Users/hwo/gh/model/modelocontenidos/.git/temp.archimate!/org.archicontribs.modelrepository.tmp/model/other/folder.xml#id-438ced40f7c24a91bfaaa9a1315e7d8f"/>
+  <profiles
+      href="archive:file:////Users/hwo/gh/model/modelocontenidos/.git/temp.archimate!/org.archicontribs.modelrepository.tmp/model/other/folder.xml#id-438ced40f7c24a91bfaaa9a1315e7d8f"/>
+</archimate:ArchimateModel>

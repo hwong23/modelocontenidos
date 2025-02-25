@@ -1,0 +1,20 @@
+<archimate:ArchimateDiagramModel
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="02.1i.Resumen"
+    id="id-767ceb6445af4fe981cb6195616183ed"
+    documentation="&#xA;* El resultado del proyecto es el diagnóstico y la lista de cambios priorizados sobre la arquitectura del $APP, la divulgación de los cambios y la documentación técnica&#xA;* La duración del proyecto es de un (1) mes de trabajo (días laborales).&#xA;* El equipo de trabajo propuesto será provisto por el proponente.&#xA;* El valor en COP es de $62'000,000.oo, incluye impuestos.&#xA;* Esta propuesta no incluye recomendaciones de diseño, intervenciones a  sistemas distintos de los consignados en el alcance, ni servicios de infraestructura, ni soporte posterior al presente proyecto.&#xA;* Requiere apoyo de ingenieros y personal interno de la empresa, nivel de participación acordado entre las partes.&#xA;">
+  <properties
+      key="alias"
+      value="vista.propuesta"/>
+  <properties
+      key="devdoc"/>
+  <properties
+      key="titulo"
+      value=" "/>
+  <properties
+      key="plantillaElm"
+      value="elementsimple-sintit-md,elementsimple-filatit-md"/>
+  <properties
+      key="IncludeDiagram"
+      value="false"/>
+</archimate:ArchimateDiagramModel>

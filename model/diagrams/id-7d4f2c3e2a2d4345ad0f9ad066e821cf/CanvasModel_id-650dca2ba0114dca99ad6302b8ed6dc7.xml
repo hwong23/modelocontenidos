@@ -1,0 +1,39 @@
+<canvas:CanvasModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:canvas="http://www.archimatetool.com/archimate/canvas"
+    name="02.1e1.Plan"
+    id="id-650dca2ba0114dca99ad6302b8ed6dc7"
+    documentation="El plan de trabajo propuesto consta de dos fases consecutivas que inician a partir de la aceptación y formalización de la actual propuesta. La Fase I, llamada en esta propuesta el diagnóstico y evaluación de la arquitectura; y la Fase II, destinada al diseño de la hoja de ruta de transformación de la arquitectura del $APP. &#xA;&#xA;En detalle cada fase del proyecto:&#xA;&#xA;1. Día 1 al 15. Diagnóstico y evaluación de la arquitectura del $APP, incluye planificación, preparación, diagnóstico, documentación técnica, y divulgación: estimada en 15 días de trabajo.&#xA;&#xA;1. Día 16 al 20. Diseño de hoja de ruta de transformación de la arquitectura del $APP, incluye diseño de hoja de ruta, ejecución transiciones, gestión de cambios, documentación técnica, divulgación: estimada en 5 días de trabajo.&#xA;&#xA;## Plazo de Ejecución&#xA;Por lo anterior, el total de la duración del proyecto es de un (1) mes laboral.&#xA;&#xA;">
+  <children
+      xsi:type="canvas:CanvasModelImage"
+      id="id-8647fa5b351d4a6f8653650571217779"
+      name="Image"
+      imagePath="images/_AIAyIOsFEe-c-vs5SvIzWw.png">
+    <bounds
+        x="24"
+        y="36"
+        width="1588"
+        height="652"/>
+  </children>
+  <properties
+      key="IncluyeRelaciones"
+      value="false"/>
+  <properties
+      key="IncludeRutaCompleta"
+      value="false"/>
+  <properties
+      key="IncludeProperties"
+      value="false"/>
+  <properties
+      key="IncludeViewElements"
+      value="false"/>
+  <properties
+      key="IncludeProperties"
+      value="false"/>
+  <properties
+      key="IncludeDiagram"
+      value="true"/>
+  <properties
+      key="titulo"
+      value="Plan de Trabajo"/>
+</canvas:CanvasModel>

@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SINT26. Asociación de parte del proceso"
+    id="id-87729a7301eb4b9fb4a9993d02fd1b77"
+    documentation="Tareas de desarrollo&#xA;&#xA;* Interoperabilidad IOP1. Transporte / Entrega Consulta Negocio&#xA;* Modelo de datos (XML, RBDMS, …)&#xA;* Esquema de datos (XSD, DTD, JSON-E…)&#xA;* Contratos de interoperabilidad (WSDL, API…)&#xA;* Mensajes petición IN (API, XML…)&#xA;* Mensajes respuesta OUT (API, XML…)&#xA;* Mensajes excepción (API, XML…)&#xA;* Transporte (REST, SOAP)&#xA;* Función lógica (JEE, …)&#xA;* Registro y envío de actividad&#xA;">
+  <properties
+      key="destino"
+      value="doc, tex, pdf, html"/>
+</archimate:ApplicationService>

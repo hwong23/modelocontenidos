@@ -1,0 +1,31 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="05.b.Evaluacion"
+    id="id-91ed8659a7064206b455fae958dfda31">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-e282249158b94203b8e72b8fe17406dc">
+    <bounds
+        x="24"
+        y="24"
+        width="181"
+        height="85"/>
+    <archimateElement
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_id-c7f666172fa94298824ce12050dbd575.xml#id-c7f666172fa94298824ce12050dbd575"/>
+  </children>
+  <properties
+      key="alias"/>
+  <properties
+      key="devdoc"/>
+  <properties
+      key="titulo"
+      value="Método de Evaluación del Rendimiento Actual de $APP"/>
+  <properties
+      key="plantillaElm"
+      value="elementsimple-sintit-md,elementsimple-filatit-md"/>
+  <properties
+      key="IncludeDiagram"
+      value="false"/>
+</archimate:ArchimateDiagramModel>

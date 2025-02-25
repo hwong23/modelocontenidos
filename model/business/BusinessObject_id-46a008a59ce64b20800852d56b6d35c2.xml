@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Línea Base Servicio Get User Info de $APP"
+    id="id-46a008a59ce64b20800852d56b6d35c2"
+    documentation="El servicio Get User Info (user info) obtiene datos de trabajo del cliente previo a la orden. Requiere como mínimo actividades de autenticación, y es responsable de alimentar al servicio Órdenes.&#xA;&#xA;#### Valores Numéricos&#xA;&#xA;En condiciones operativas usuales, promedio por transacción, tiempo máximo, mínimo, y percentiles de las métricas. Tomado del mayor entre http_req_duration e iteration_duration.&#xA; &#xA;> Tiempo máximo de la transacción (iteración): max=1.638s&#xA;> &#xA;> Tiempo promedio: avg=460.499ms&#xA;> &#xA;> Tiempo mínimo: min=190.9895ms &#xA;> &#xA;> Percentil 90 duración iteración: p(90)=641.992ms&#xA;> &#xA;> Cantidad de transacciones/segundo (capacidad o throughput): 641.992/s&#xA;> &#xA;> Estabilidad o Tasa de éxito de transacción (promedio entre dos servicios, login y user_info): 100.00%&#xA;> &#xA;> Latencia promedio: avg=227.331ms &#xA;> &#xA;> Latencia máxima: max=1.5535s&#xA;> &#xA;"/>

@@ -1,0 +1,9 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Single Sign On (SSO)"
+    id="id-76ef2ff0b6874c1cbadd8d21dda1ab19"
+    documentation="1. Se debe contar con la característica de Single Sign On (SSO).&#xA;">
+  <properties
+      key="destino"
+      value="doc, tex, pdf, html"/>
+</archimate:TechnologyService>

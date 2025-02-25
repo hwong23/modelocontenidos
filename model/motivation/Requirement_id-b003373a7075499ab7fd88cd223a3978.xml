@@ -1,0 +1,9 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Requerimientos integración JEP"
+    id="id-b003373a7075499ab7fd88cd223a3978"
+    documentation="Del alcance del proyecto, &#xA;&#xA;1. Implementación de 20 o más servicios de integración al 31 de diciembre del 2024.&#xA;1. Soporte solución de integración a julio 2025.&#xA;&#xA;Establecemos las bases para el modelo de requerimientos de esta solución, el cual limita la demanda a:&#xA;&#xA;* Desarrollar únicamente nuevos servicios de integración con el patrón de integración empresarial (ESB, Camel K de Apache) propuesto en el modelo de interoperabilidad de esta solución.&#xA;* Implementar en esta solución de integración las condiciones tecnológicas JEP, entendidas como requerimientos no funcionales de arquitectura,  presentes en el Anexo Nro. 1.1 – Anexo técnico evolución plataforma de interoperabilidad – Ficha Técnica.&#xA;* No son requerimientos de este proyecto el implementar otro tipos de requerimientos no expresados aquí, como por ejemplo, migrar los servicios existentes de modelo integración directa (EIA) esta solución de integración empresarial, o implementar soluciones en las aplicaciones de software de la JEP.&#xA;">
+  <properties
+      key="destino"
+      value="doc, tex, ppt"/>
+</archimate:Requirement>

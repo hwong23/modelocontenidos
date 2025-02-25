@@ -1,0 +1,9 @@
+<archimate:Value
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Comunicación Legali x Protecti"
+    id="id-f261ac6ddf7d41d0b78e83580d12c32e"
+    documentation="Valor: el requerimientos genera entregables de valor para la integración de aplicaciones de JEP.">
+  <properties
+      key="destino"
+      value="doc, tex, pdf, html"/>
+</archimate:Value>
