@@ -1,5 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="MET.APRB"
-    id="id-6e6d55e35ac640d1b13098171dce8255"
-    documentation="*Meta APRB*&#xA;&#xA;Nombre indicador&#x9;Tasa de aprobación de HU por cliente&#xA;Uso&#x9;Estabildad de requerimientos. Contensión del flujo de trabajo inicio de desarrolo&#xA;Proceso&#x9;ANLS&#xA;Calculo de medición&#x9;Cantidad de HU refinadas y aprobadas por cliente / Total de cantidad de HU&#xA;Fuente&#x9;[Repo Sharepoint], [Azure DevOps])&#xA;"/>

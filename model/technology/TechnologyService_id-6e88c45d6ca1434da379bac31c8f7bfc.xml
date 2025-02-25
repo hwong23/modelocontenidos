@@ -1,9 +1,0 @@
-<archimate:TechnologyService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Métricas con Prometheus"
-    id="id-6e88c45d6ca1434da379bac31c8f7bfc"
-    documentation="1. La solución debería exponer métricas con integración nativa al software Prometheus.">
-  <properties
-      key="destino"
-      value="doc, tex, pdf, html"/>
-</archimate:TechnologyService>

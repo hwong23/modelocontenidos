@@ -1,9 +1,0 @@
-<archimate:Deliverable
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="EP03. Integración Conti-2"
-    id="id-d1c56f3ac98f449db6c8b894928efee1"
-    documentation="Épica de entrega de la solución de integración JEP, 2024, que contiene las iteraciones que realizarán la característica 'Integrar operaciones Conti'.&#xA;&#xA;">
-  <properties
-      key="destino"
-      value="doc, tex, pdf, html"/>
-</archimate:Deliverable>

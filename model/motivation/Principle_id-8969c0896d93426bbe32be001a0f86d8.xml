@@ -1,9 +1,0 @@
-<archimate:Principle
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Objeto Contractual Proyecto JEP"
-    id="id-8969c0896d93426bbe32be001a0f86d8"
-    documentation="Prestar los servicios de administración y monitoreo de la solución de interoperabilidad de los sistemas de información de la JEP; así como la implementación de nuevos desarrollos o parametrizaciones que esta solución requiera.">
-  <properties
-      key="destino"
-      value="doc, tex, ppt"/>
-</archimate:Principle>

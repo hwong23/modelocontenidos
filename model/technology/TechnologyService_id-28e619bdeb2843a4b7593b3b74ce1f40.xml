@@ -1,9 +1,0 @@
-<archimate:TechnologyService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Trazabilidad"
-    id="id-28e619bdeb2843a4b7593b3b74ce1f40"
-    documentation="1. La solución debe implementar un mecanismo de hacer la trazabilidad, uso y registro de actividades de los microservicios. &#xA;">
-  <properties
-      key="destino"
-      value="doc, tex, pdf, html"/>
-</archimate:TechnologyService>

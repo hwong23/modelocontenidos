@@ -1,9 +1,0 @@
-<archimate:Requirement
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="REQR17. Integración Conti - Comparecientes"
-    id="id-0f49813b8be04c52b83deb164e3635a8"
-    documentation="Atendiendo la necesidad de Justicia Digital, se requiere implementar la integración con el módjlos de comparecientes de Conti, como la exposición de las capacidades de Conti.&#xA;&#xA;Fuente: serviciosOami (pdf).&#xA;&#xA;&#xA;### Índice de la documentación (casos de uso)&#xA;&#xA;1. SINT80. Integrar getToken&#xA;1. SINT81. Integrar Consulta radicado&#xA;1. SINT82. Integrar Consulta acta&#xA;&#xA;Los casos de uso se detallan en anexo más adelante.&#xA;">
-  <properties
-      key="destino"
-      value="doc, tex, pdf, html"/>
-</archimate:Requirement>

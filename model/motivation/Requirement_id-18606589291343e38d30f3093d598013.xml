@@ -1,9 +1,0 @@
-<archimate:Requirement
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="REQR13. Integración envío de peticiones LEGALi x CONTi"
-    id="id-18606589291343e38d30f3093d598013"
-    documentation="Atendiendo la necesidad de Justicia Digital, se requiere implementar la integración de Legali como la exposición de las capacidades _Autenticación y Procesos de integración_.&#xA;&#xA;Fuente: Servicio de integración LEGALi - Envío de peticiones - v5 (pdf). José Carlos Schröder Júnior.&#xA;&#xA;&#xA;### Índice de la documentación (casos de uso)&#xA;&#xA;1. Caso de Uso 1. Integrar Autenticación&#xA;1. Caso de Uso 2. Integrar Procesos de integración&#xA;&#xA;Los casos de uso se detallan en anexo más adelante.&#xA;">
-  <properties
-      key="destino"
-      value="doc, tex, pdf, html"/>
-</archimate:Requirement>

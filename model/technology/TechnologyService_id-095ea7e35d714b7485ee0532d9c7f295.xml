@@ -1,9 +1,0 @@
-<archimate:TechnologyService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Conversión de mensajes"
-    id="id-095ea7e35d714b7485ee0532d9c7f295"
-    documentation="1. Debe poder convertir mensajes a / desde: XML, objetos Java, JSON, REST, CSV.">
-  <properties
-      key="destino"
-      value="doc, tex, pdf, html"/>
-</archimate:TechnologyService>
