@@ -32,7 +32,7 @@ jobs:
       - name: MV jarchi-hwo
         run: |
           mv ${{github.WORKSPACE}}/jarchi-hwo /tmp/jarchi-hwo
-          ls -l /home/runner/work/_temp/_github_home
+          ls -l /tmp/jarchi-hwo
       # - name: Get the output time
       #   run: echo "The time was ${{ steps.devdoc.outputs.time }}"
       - name: Add-and-commit
