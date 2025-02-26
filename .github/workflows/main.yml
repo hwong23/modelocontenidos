@@ -21,11 +21,11 @@ jobs:
         with:
             repository: hwong23/jarchi-hwo
             ref: main
-            path: ${{github.RUNNER_TEMP}}jarchi-hwo
+            path: ../jarchi-hwo
       - name: MV jarchi-hwo
         run: |
           # mv ${{github.WORKSPACE}}/jarchi-hwo ../jarchi-hwo
-          ls -l ${{github.RUNNER_TEMP}}
+          ls -l ..
     
       # - name: Run model documentation
       #   id: devdoc
