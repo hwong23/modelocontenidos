@@ -21,17 +21,17 @@ jobs:
         with:
             repository: hwong23/jarchi-hwo
             ref: main
-            path: ${{github.RUNNER}}jarchi-hwo
+            path: ${{github.RUNNER_TEMP}}jarchi-hwo
       - name: MV jarchi-hwo
         run: |
           # mv ${{github.WORKSPACE}}/jarchi-hwo ../jarchi-hwo
-          ls -l ${{github.RUNNER}}
+          ls -l ${{github.RUNNER_TEMP}}
     
-      - name: Run model documentation
-        id: devdoc
-        uses: hwong23/git_hwo-action@v2.3
-        with:
-          archi-args: 'archiapp -m ./ --pluginDir ./plugins --script /tmp/jarchi-hwo/scr/list_concepts.ajs'
+      # - name: Run model documentation
+      #   id: devdoc
+      #   uses: hwong23/git_hwo-action@v2.3
+      #   with:
+      #     archi-args: 'archiapp -m ./ --pluginDir ./plugins --script /tmp/jarchi-hwo/scr/list_concepts.ajs'
       # Use the output from the `hello` step
       - name: Get the output time
         run: echo "The time was ${{ steps.devdoc.outputs.time }}"
