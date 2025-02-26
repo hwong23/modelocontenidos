@@ -16,7 +16,6 @@ jobs:
         with:
           ref: ${{ github.event.pull_request.head.sha }}
           fetch-depth: 0
-
       - name: Checkout jarchi-hwo
         uses: actions/checkout@v4
         with:
@@ -26,6 +25,7 @@ jobs:
       - name: MV jarchi-hwo
         run: |
           mv ${{github.WORKSPACE}}/jarchi-hwo /tmp/jarchi-hwo
+          ls -l /tmp/jarchi-hwo
     
       - name: Run model documentation
         id: devdoc
