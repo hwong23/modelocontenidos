@@ -1,4 +1,4 @@
-on: [push, workflow_dispatch]
+on: [push,workflow_dispatch]
 
 jobs:
   devdoc:
@@ -16,26 +16,25 @@ jobs:
         with:
           ref: ${{ github.event.pull_request.head.sha }}
           fetch-depth: 0
-
       - name: Checkout jarchi-hwo
         uses: actions/checkout@v4
         with:
             repository: hwong23/jarchi-hwo
             ref: main
             path: jarchi-hwo
-      # - name: MV jarchi-hwo
-      #   run: |
-      #     mv ${{github.WORKSPACE}}/jarchi-hwo /tmp/jarchi-hwo
-    
+            
       - name: Run model documentation
         id: devdoc
-        uses: hwong23/git_hwo-action@v2.1
+        uses: hwong23/git_hwo-action@v2.3
         with:
-          archi-args: 'archiapp -m ./ --pluginDir ./plugins --script ./jarchi-hwo/scr/list_concepts.ajs --alias bmmpropuesta'
-      # Use the output from the `hello` step
-      - name: Get the output time
-        run: echo "The time was ${{ steps.devdoc.outputs.time }}"
-      - name: add-and-commit
+            archi-args: 'archiapp -m ./ --pluginDir ./plugins --script /tmp/jarchi-hwo/scr/list_concepts.ajs'
+
+      - name: MV jarchi-hwo
+        run: |
+          mv ${{github.WORKSPACE}}/jarchi-hwo /tmp/jarchi-hwo
+      # - name: Get the output time
+      #   run: echo "The time was ${{ steps.devdoc.outputs.time }}"
+      - name: Add-and-commit
         uses: EndBug/add-and-commit@v9 # You can change this to use a specific version.
         with:
           message: 'MD output'
