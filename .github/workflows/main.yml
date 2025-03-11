@@ -32,7 +32,7 @@ jobs:
       - name: Gestiona contenidos
         run: |
           cd jarchi-hwo/scr/sh
-          bash cpushcontd.sh . rutaMacMD
+          bash cpushcontd.sh . rutaMacMD rutaDeployContd
 
       - name: MV jarchi-hwo
         run: |
