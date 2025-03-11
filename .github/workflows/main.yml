@@ -23,13 +23,16 @@ jobs:
             ref: main
             path: jarchi-hwo
             
-      - name: Run model documentation
-        id: devdoc
-        uses: hwong23/git_hwo-action@v2.3
-        with:
-            archi-args: 'archiapp -m ./ --pluginDir ./plugins --script /tmp/jarchi-hwo/scr/list_concepts.ajs'
+      # - name: Run model documentation
+      #   id: devdoc
+      #   uses: hwong23/git_hwo-action@v2.3
+      #   with:
+      #       archi-args: 'archiapp -m ./ --pluginDir ./plugins --script /tmp/jarchi-hwo/scr/list_concepts.ajs'
 
-      - name: MV jarchi-hwo
+      - name: Gestiona contenidos
+        run: sh jarchi-hwo/scr/sh/cpushcontd.sh
+
+            - name: MV jarchi-hwo
         run: |
           mv ${{github.WORKSPACE}}/jarchi-hwo /tmp/jarchi-hwo
       # - name: Get the output time
