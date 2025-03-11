@@ -39,7 +39,7 @@ jobs:
       - name: Gestiona contenidos
         run: |
           cd jarchi-hwo/scr/sh
-          bash cpushcontd.sh . rutaMacMD ${{github.ref}}
+          bash cpushcontd.sh . rutaMacMD ${{github.ref.name}}
 
       - name: MV jarchi-hwo
         run: |
