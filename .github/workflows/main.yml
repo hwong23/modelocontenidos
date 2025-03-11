@@ -32,9 +32,9 @@ jobs:
       - name: Gestiona contenidos
         run: |
           cd jarchi-hwo/scr/sh
-          bash cpushcontd.sh
+          bash cpushcontd.sh . rutaMacMD
 
-      - name: MV jarchi-hwo . rutaMacMD
+      - name: MV jarchi-hwo
         run: |
           mv ${{github.WORKSPACE}}/jarchi-hwo /tmp/jarchi-hwo
       # - name: Get the output time
