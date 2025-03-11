@@ -39,7 +39,7 @@ jobs:
       - name: Gestiona contenidos
         run: |
           cd jarchi-hwo/scr/sh
-          bash cpushcontd.sh . ${{GITHUB_WORKSPACE}} ${{github.ref.name}} 
+          bash cpushcontd.sh . ${GITHUB_WORKSPACE} ${GITHUB_REF_NAME}
 
       - name: MV jarchi-hwo
         run: |
