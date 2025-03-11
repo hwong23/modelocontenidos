@@ -23,12 +23,12 @@ jobs:
             ref: main
             path: jarchi-hwo
 
-      - name: Checkout devocs-contd
-        uses: actions/checkout@v4
-        with:
-          repository: hwong23/devocs-contd
-          ref: ${{github.ref}}
-          path: $HOME/devocs-contd
+      # - name: Checkout devocs-contd
+      #   uses: actions/checkout@v4
+      #   with:
+      #     repository: hwong23/devocs-contd
+      #     ref: ${{github.ref}}
+      #     path: $HOME/devocs-contd
     
       # - name: Run model documentation
       #   id: devdoc
@@ -39,7 +39,7 @@ jobs:
       - name: Gestiona contenidos
         run: |
           cd jarchi-hwo/scr/sh
-          bash cpushcontd.sh . rutaMacMD 7-propuestabmm
+          bash cpushcontd.sh . rutaMacMD ${{github.ref}}
 
       - name: MV jarchi-hwo
         run: |
