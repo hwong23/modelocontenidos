@@ -34,7 +34,7 @@ jobs:
           cd jarchi-hwo/scr/sh
           bash cpushcontd.sh
 
-      - name: MV jarchi-hwo
+      - name: MV jarchi-hwo . rutaMacMD
         run: |
           mv ${{github.WORKSPACE}}/jarchi-hwo /tmp/jarchi-hwo
       # - name: Get the output time
