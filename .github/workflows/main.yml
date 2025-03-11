@@ -22,7 +22,14 @@ jobs:
             repository: hwong23/jarchi-hwo
             ref: main
             path: jarchi-hwo
-            
+
+      - name: Checkout devocs-contd
+        uses: actions/checkout@v4
+        with:
+          repository: hwong23/devocs-contd
+          ref: ${{github.ref}}
+          path: $HOME/devocs-contd
+    
       # - name: Run model documentation
       #   id: devdoc
       #   uses: hwong23/git_hwo-action@v2.3
