@@ -30,9 +30,10 @@ jobs:
       #       archi-args: 'archiapp -m ./ --pluginDir ./plugins --script /tmp/jarchi-hwo/scr/list_concepts.ajs'
 
       - name: Gestiona contenidos
-        run: sh jarchi-hwo/scr/sh/cpushcontd.sh
+        run: 
+          sh jarchi-hwo/scr/sh/cpushcontd.sh
 
-            - name: MV jarchi-hwo
+      - name: MV jarchi-hwo
         run: |
           mv ${{github.WORKSPACE}}/jarchi-hwo /tmp/jarchi-hwo
       # - name: Get the output time
