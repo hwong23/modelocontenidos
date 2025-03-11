@@ -32,7 +32,7 @@ jobs:
       - name: Gestiona contenidos
         run: |
           cd jarchi-hwo/scr/sh
-          sh cpushcontd.sh
+          bash cpushcontd.sh
 
       - name: MV jarchi-hwo
         run: |
