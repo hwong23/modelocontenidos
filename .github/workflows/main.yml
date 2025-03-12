@@ -1,4 +1,4 @@
-name: Emisión de contenidos desde modelo (de contenidos)
+name: Modelo de contenidos
 on: [push,workflow_dispatch]
 
 jobs:
@@ -12,7 +12,7 @@ jobs:
             echo "TRIGGERING_SHA_7=${TRIGGERING_SHA::7}" >> $GITHUB_ENV
             echo "TRIGGERING_SHA: $TRIGGERING_SHA"
             echo "COMPILATION_DATE=$(date +'%d %b %Y')" >> $GITHUB_ENV
-            echo "GHTOKEN=${{ secrets.GITHUB_TOKEN }}" >> $GITHUB_ENV
+            echo "GHTOKEN=${{ secrets.ACCIONTOKEN }}" >> $GITHUB_ENV
       - name: Actions/checkout
         uses: actions/checkout@v4
         with:
