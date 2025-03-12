@@ -21,9 +21,9 @@ jobs:
       - name: Checkout jarchi-hwo
         uses: actions/checkout@v4
         with:
-            repository: hwong23/jarchi-hwo
-            ref: main
-            path: jarchi-hwo
+          repository: hwong23/jarchi-hwo
+          ref: main
+          path: jarchi-hwo
 
       - name: Checkout devocs-contd
         uses: actions/checkout@v4
@@ -31,7 +31,7 @@ jobs:
           repository: hwong23/devocs-contd
           ref: ${{github.ref}}
           path: $HOME/devocs-contd
-          token: ${{ secrets.ACCIONTOKEN }}
+          # token: ${{ secrets.ACCIONTOKEN }}
       - name: Gestiona contenidos
         run: |
           ls $HOME/devocs-contd
