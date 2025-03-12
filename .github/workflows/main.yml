@@ -31,7 +31,7 @@ jobs:
         with:
           repository: hwong23/devocs-contd
           ref: ${{github.ref}}
-          # path: $HOME/devocs-contd
+          path: devocs-contd
           token: ${{ secrets.ACCIONTOKEN }}
       - name: Gestiona contenidos
         run: |
