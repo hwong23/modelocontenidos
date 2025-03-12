@@ -45,7 +45,7 @@ jobs:
           cd jarchi-hwo/scr/sh
           bash cpushcontd.sh . ${GITHUB_WORKSPACE}/main/contd ${GITHUB_WORKSPACE}/devocs-contd ${GITHUB_REF_NAME} 
 
-      - name: MV jarchi-hwo
+      - name: MV jarchi-hwo,contd
         run: |
           mv ${{github.WORKSPACE}}/jarchi-hwo /tmp/jarchi-hwo
           mv ${{github.WORKSPACE}}/devocs-contd /tmp/devocs-contd
