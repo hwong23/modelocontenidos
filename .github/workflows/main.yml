@@ -12,7 +12,7 @@ jobs:
             echo "TRIGGERING_SHA_7=${TRIGGERING_SHA::7}" >> $GITHUB_ENV
             echo "TRIGGERING_SHA: $TRIGGERING_SHA"
             echo "COMPILATION_DATE=$(date +'%d %b %Y')" >> $GITHUB_ENV
-            echo "GHTOKEN=${{ secrets.ACCIONTOKENZ }}" >> $GITHUB_ENV
+            echo "GHTOKEN=${{ secrets.ACCIONTOKEN }}" >> $GITHUB_ENV
       - name: Actions/checkout
         uses: actions/checkout@v4
         with:
@@ -25,12 +25,17 @@ jobs:
             ref: main
             path: jarchi-hwo
 
-      # - name: Checkout devocs-contd
-      #   uses: actions/checkout@v4
-      #   with:
-      #     repository: hwong23/devocs-contd
-      #     ref: ${{github.ref}}
-      #     path: $HOME/devocs-contd
+      - name: Checkout devocs-contd
+        uses: actions/checkout@v4
+        with:
+          repository: hwong23/devocs-contd
+          ref: ${{github.ref}}
+          path: $HOME/devocs-contd
+          token: ${{ secrets.ACCIONTOKEN }}
+      - name: Gestiona contenidos
+        run: |
+          ls $HOME/devocs-contd
+
     
       # - name: Run model documentation
       #   id: devdoc
@@ -38,10 +43,10 @@ jobs:
       #   with:
       #       archi-args: 'archiapp -m ./ --pluginDir ./plugins --script /tmp/jarchi-hwo/scr/list_concepts.ajs'
 
-      - name: Gestiona contenidos
-        run: |
-          cd jarchi-hwo/scr/sh
-          bash cpushcontd.sh . ${GITHUB_WORKSPACE} ${GITHUB_REF_NAME}
+      # - name: Gestiona contenidos
+      #   run: |
+      #     cd jarchi-hwo/scr/sh
+      #     bash cpushcontd.sh . ${GITHUB_WORKSPACE} ${GITHUB_REF_NAME}
 
       - name: MV jarchi-hwo
         run: |
