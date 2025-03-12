@@ -34,15 +34,11 @@ jobs:
           path: devocs-contd
           token: ${{ secrets.ACCIONTOKEN }}
 
-      - name: Gestiona contenidos
-        run: |
-          ls devocs-contd
-
       - name: Run model documentation
         id: devdoc
         uses: hwong23/git_hwo-action@v2.3
         with:
-            archi-args: 'archiapp -m ./ --pluginDir ./plugins --script /tmp/jarchi-hwo/scr/list_concepts.ajs'
+            archi-args: 'archiapp -m ./main --pluginDir ./main/plugins --script /tmp/jarchi-hwo/scr/list_concepts.ajs'
 
       - name: Gestiona contenidos
         run: |
