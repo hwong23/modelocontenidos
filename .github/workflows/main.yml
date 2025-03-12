@@ -46,7 +46,7 @@ jobs:
       - name: Gestiona contenidos
         run: |
           cd jarchi-hwo/scr/sh
-          bash cpushcontd.sh . ${GITHUB_WORKSPACE}/main/contd ${GITHUB_REF_NAME} devocs-contd
+          bash cpushcontd.sh . ${GITHUB_WORKSPACE}/main/contd devocs-contd ${GITHUB_REF_NAME} 
 
       - name: MV jarchi-hwo
         run: |
