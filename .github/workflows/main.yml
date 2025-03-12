@@ -33,9 +33,9 @@ jobs:
           ref: ${{github.ref}}
           path: devocs-contd
           token: ${{ secrets.ACCIONTOKEN }}
-      - name: Gestiona contenidos
-        run: |
-          ls devocs-contd
+      # - name: Gestiona contenidos
+      #   run: |
+      #     ls devocs-contd
 
       # - name: Run model documentation
       #   id: devdoc
@@ -43,10 +43,10 @@ jobs:
       #   with:
       #       archi-args: 'archiapp -m ./ --pluginDir ./plugins --script /tmp/jarchi-hwo/scr/list_concepts.ajs'
 
-      # - name: Gestiona contenidos
-      #   run: |
-      #     cd jarchi-hwo/scr/sh
-      #     bash cpushcontd.sh . ${GITHUB_WORKSPACE} ${GITHUB_REF_NAME}
+      - name: Gestiona contenidos
+        run: |
+          cd jarchi-hwo/scr/sh
+          bash cpushcontd.sh . ${GITHUB_WORKSPACE} ${GITHUB_REF_NAME}
 
       - name: MV jarchi-hwo
         run: |
