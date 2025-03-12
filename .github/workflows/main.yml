@@ -35,7 +35,7 @@ jobs:
           token: ${{ secrets.ACCIONTOKEN }}
       - name: Gestiona contenidos
         run: |
-          ls $HOME/devocs-contd
+          ls devocs-contd
 
     
       # - name: Run model documentation
