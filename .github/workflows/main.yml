@@ -37,7 +37,6 @@ jobs:
         run: |
           ls devocs-contd
 
-    
       # - name: Run model documentation
       #   id: devdoc
       #   uses: hwong23/git_hwo-action@v2.3
@@ -58,4 +57,5 @@ jobs:
       - name: Add-and-commit
         uses: EndBug/add-and-commit@v9 # You can change this to use a specific version.
         with:
+          cmd: main
           message: 'MD output'
