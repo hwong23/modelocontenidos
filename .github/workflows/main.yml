@@ -18,6 +18,7 @@ jobs:
         with:
           ref: ${{ github.event.pull_request.head.sha }}
           fetch-depth: 0
+          path: main
       - name: Checkout jarchi-hwo
         uses: actions/checkout@v4
         with:
@@ -30,8 +31,8 @@ jobs:
         with:
           repository: hwong23/devocs-contd
           ref: ${{github.ref}}
-          path: $HOME/devocs-contd
-          # token: ${{ secrets.ACCIONTOKEN }}
+          # path: $HOME/devocs-contd
+          token: ${{ secrets.ACCIONTOKEN }}
       - name: Gestiona contenidos
         run: |
           ls $HOME/devocs-contd
@@ -51,6 +52,7 @@ jobs:
       - name: MV jarchi-hwo
         run: |
           mv ${{github.WORKSPACE}}/jarchi-hwo /tmp/jarchi-hwo
+          mv ${{github.WORKSPACE}}/devocs-contd /tmp/devocs-contd
       # - name: Get the output time
       #   run: echo "The time was ${{ steps.devdoc.outputs.time }}"
       - name: Add-and-commit
