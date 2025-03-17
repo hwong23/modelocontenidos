@@ -38,6 +38,7 @@ jobs:
         id: devdoc
         uses: hwong23/git_hwo-action@v2.3
         with:
+            # archiapp es el puntoentrada a Make document (bash archi-ClI.sh)
             archi-args: 'archiapp -m ./main --pluginDir ./main/plugins --script /tmp/jarchi-hwo/scr/list_concepts.ajs'
 
       - name: Gestiona contenidos
