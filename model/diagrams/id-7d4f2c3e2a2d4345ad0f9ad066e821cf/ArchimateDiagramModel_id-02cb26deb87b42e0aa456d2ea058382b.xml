@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="02.1g.Equipo"
     id="id-02cb26deb87b42e0aa456d2ea058382b"
-    documentation="El equipo de trabajo requerido para el cumplimiento del alcance, metas y entregables de la actual propuesta será provisto por el proponente.&#xA;&#xA;Por las restricciones de ejecución usuales en este tipo de proyectos es requerido apoyo interno de la empresa cliente del $APP. &#xA;&#xA;El nivel de participación en el proyecto y el rol del recurso interno se acuerdan a conveniencia de las partes, cliente y proponente.&#xA;&#xA;">
+    documentation="El equipo de trabajo requerido para el cumplimiento del alcance, metas y entregables de la actual propuesta será provisto por el proponente.&#xA;&#xA;Nota Por las restricciones de ejecución usuales en este tipo de proyectos es requerido apoyo interno de la empresa cliente del $APP. El nivel de participación en el proyecto y el rol del recurso interno se acuerdan a conveniencia de las partes, cliente y proponente.&#xA;&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-0e5d425b0ec84699a839b1eb4c22584e">
