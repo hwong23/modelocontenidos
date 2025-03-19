@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Equipo de Trabajo"
-    id="id-4bb35f9a0f7e433bbdba9c4d8c6a98bb"/>
+    id="id-4bb35f9a0f7e433bbdba9c4d8c6a98bb"
+    documentation="El equipo de trabajo requerido para el cumplimiento del alcance, metas y entregables de la actual propuesta será provisto por el proponente.&#xA;">
+  <properties
+      key="ide"/>
+</archimate:BusinessObject>
