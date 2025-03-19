@@ -18,9 +18,10 @@
   </children>
   <properties
       key="alias"
-      value="vista.propuesta"/>
+      value="vistaEquipo"/>
   <properties
-      key="devdoc"/>
+      key="devdoc"
+      value="vwEquipo.nd"/>
   <properties
       key="titulo"
       value="Equipo de Trabajo"/>
