@@ -7,7 +7,8 @@
       key="alias"
       value="doctecnico.descripcion"/>
   <properties
-      key="devdoc"/>
+      key="devdoc"
+      value="02.1b.Descripcion.md"/>
   <properties
       key="titulo"
       value="Descripción de la Propuesta"/>
