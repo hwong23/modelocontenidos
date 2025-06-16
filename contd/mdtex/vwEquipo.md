@@ -23,11 +23,6 @@ El equipo de trabajo requerido para el cumplimiento del alcance, metas y entrega
 lang: en
 titlepage: true
 titlepage-rule-color: 360049
-### Equipo de Trabajo
-El equipo de trabajo requerido para el cumplimiento del alcance, metas y entregables de la actual propuesta será provisto por el proponente.
-
-
-
-
+todo: aun no está lista
 ...
 
