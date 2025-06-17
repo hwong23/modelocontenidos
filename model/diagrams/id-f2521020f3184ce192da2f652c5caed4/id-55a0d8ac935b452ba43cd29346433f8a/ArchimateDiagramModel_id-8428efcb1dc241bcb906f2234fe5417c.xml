@@ -1,12 +1,12 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="02.1b.ant.Descripcion"
-    id="id-dd2f1c1c1816447380fe900b66faa8bc"
-    documentation="Consultoría de ingeniería y mejoramiento del canal bancario textual Whatsapp del Banco Mundo Mujer (BMM), con extensión a sistemas externos, legados y proveedores tecnológicos relacionados con la arquitectura del canal.&#xA;&#xA;">
+    name="02.1b.Descripcion"
+    id="id-8428efcb1dc241bcb906f2234fe5417c"
+    documentation="Consultoría de ingeniería y mejoramiento del canal bancario textual Whatsapp del $CLIENTE, con extensión a sistemas externos, legados y proveedores tecnológicos relacionados con la arquitectura del canal.&#xA;&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-a25c3b8e062043e4887894f2bc223609">
+      id="id-61d2e1a178324b2994bd76e0d19b1a58">
     <bounds
         x="24"
         y="24"
