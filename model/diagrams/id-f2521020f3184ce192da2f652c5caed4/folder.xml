@@ -1,4 +1,5 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="02.Proceso"
-    id="id-f2521020f3184ce192da2f652c5caed4"/>
+    id="id-f2521020f3184ce192da2f652c5caed4"
+    documentation="## UP: unifica el todo&#xA;Proceso de desarrollo y entrega&#xA;* Proceso de desarrollo: Ciclo de Vida del Desarrollo de Sistemas -SDLC- (… planificar, analizar, diseñar, implementar, integrar, sistema)&#xA;* Fases, Trabajos (flujos / actividades)&#xA;* Ciclo del sistema: Fases, Trabajos (flujos / actividades)&#xA;* Método de desarrollo: structured design | RAD | Agile &#xA;* Enfoque: OOSAD&#xA;* Técnicas de composición: Iterativo | Incremental | Paralelo |  Use-case driven | Centrado arquitectura&#xA;* Lenguaje: UML&#xA;"/>
