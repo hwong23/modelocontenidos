@@ -56,3 +56,5 @@ jobs:
         with:
           cwd: main
           message: 'MD output'
+          committer_name: gh_action_cmmt
+          author_name: gh_action_authr
