@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-rel-serving-4">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-comp-generacion-llaves.xml#id-comp-generacion-llaves"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-serv-generar-llaves.xml#id-serv-generar-llaves"/>
+</archimate:ServingRelationship>
