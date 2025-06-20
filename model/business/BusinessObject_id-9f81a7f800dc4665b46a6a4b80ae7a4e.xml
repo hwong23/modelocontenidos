@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Descripción interna"
-    id="id-9f81a7f800dc4665b46a6a4b80ae7a4e"
-    documentation="Consultoría de ingeniería para el mejoramiento de la plataforma bancaria, sistemas legados y proveedores tecnológicos del Banco de la Mujer (BMM).&#xA;">
-  <properties
-      key="destino"
-      value="ppt"/>
-</archimate:BusinessObject>

@@ -1,21 +1,8 @@
 <archimate:ArchimateDiagramModel
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="02.1b.Descripcion"
     id="id-8428efcb1dc241bcb906f2234fe5417c"
     documentation="Consultoría de ingeniería y mejoramiento del canal bancario textual Whatsapp del $CLIENTE, con extensión a sistemas externos, legados y proveedores tecnológicos relacionados con la arquitectura del canal.&#xA;&#xA;">
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-61d2e1a178324b2994bd76e0d19b1a58">
-    <bounds
-        x="24"
-        y="24"
-        width="145"
-        height="73"/>
-    <archimateElement
-        xsi:type="archimate:BusinessObject"
-        href="BusinessObject_id-6e0bd2d301c742e489065caaba5cae7d.xml#id-6e0bd2d301c742e489065caaba5cae7d"/>
-  </children>
   <properties
       key="alias"
       value="doctecnico.descripcion"/>

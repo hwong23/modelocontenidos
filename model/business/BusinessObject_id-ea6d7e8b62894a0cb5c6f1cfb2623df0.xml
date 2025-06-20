@@ -1,5 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Resumen del Informe de Rendimiento $APP"
-    id="id-ea6d7e8b62894a0cb5c6f1cfb2623df0"
-    documentation="El Informe Técnico SoftProductiva.com certifica el rendimiento operativo de la plataforma de software $APP. Se evaluaron los servicios relevantes de la plataforma, inicio de sesión &quot;Login,&quot;, requisición de información de trabajo, &quot;Get User Info,&quot; y el de registro de órden &quot;Órdenes&quot;, mediante técnicas de pruebas de rendimiento con la herramienta K6 de Grafala Labs. Los resultados muestran una alta estabilidad y capacidad de procesamiento que supera los criterios de aceptación preestablecidos, con un margen de crecimiento significativo antes de alcanzar limitaciones operativas y sin requerir inversión en el plan de capacidad. El informe concluye que $APP tiene una holgura considerable en su capacidad actual.&#xA;"/>

@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Resultados Finales"
-    id="id-9eb3275c0989463daac5bbfedae4e457"
-    documentation="&#xA;3. Construcción Plataforma de Observabilidad (4 meses)&#xA;&#x9;a. Entrega: resultados incrementales&#xA;&#x9;a. Resultado: bucles de retroalimentación reforzar, compensar y regular&#xA;">
-  <properties
-      key="destino"
-      value="ppt"/>
-</archimate:BusinessObject>
