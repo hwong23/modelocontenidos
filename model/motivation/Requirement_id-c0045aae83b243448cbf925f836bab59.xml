@@ -1,9 +1,0 @@
-<archimate:Requirement
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="REQR12. Integración Legali x Protecti"
-    id="id-c0045aae83b243448cbf925f836bab59"
-    documentation="Documentación API de integración. Creación de documento técnico para el consumo de servicios web.&#xA;&#xA;Fuente: Documentación técnica - API Integración - Consulta de personas (pdf). Pedro Escobar, ing.&#xA;&#xA;&#xA;### Índice de la documentación (casos de uso)&#xA;&#xA;1. Personas&#xA;1. Persona&#xA;1. Dirección de la persona&#xA;1. Teléfono de la persona&#xA;1. Procesos de la persona&#xA;1. Detalles del proceso&#xA;1. Partes del proceso&#xA;1. Asociación de parte del proceso&#xA;1. Paginación&#xA;&#xA;">
-  <properties
-      key="destino"
-      value="doc, tex, pdf, html"/>
-</archimate:Requirement>

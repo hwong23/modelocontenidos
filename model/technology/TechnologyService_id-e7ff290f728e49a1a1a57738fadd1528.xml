@@ -1,9 +1,0 @@
-<archimate:TechnologyService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Transformación"
-    id="id-e7ff290f728e49a1a1a57738fadd1528"
-    documentation="1. Debe proporcionar componentes para la transformación utilizando modelos predefinidos (plantillas).">
-  <properties
-      key="destino"
-      value="doc, tex, pdf, html"/>
-</archimate:TechnologyService>

@@ -1,9 +1,0 @@
-<archimate:Driver
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Capacidad: Integrar operaciones  Conti x Legali"
-    id="id-1e65aec937a7460eb2577ef8cfb35691"
-    documentation="Característica de integración de Conti contenido en la solución de integración JEP, 2024.&#xA;">
-  <properties
-      key="destino"
-      value="doc, tex, pdf, html"/>
-</archimate:Driver>

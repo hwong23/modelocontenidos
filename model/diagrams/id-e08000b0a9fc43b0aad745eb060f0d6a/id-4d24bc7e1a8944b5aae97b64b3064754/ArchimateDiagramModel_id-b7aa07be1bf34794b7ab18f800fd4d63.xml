@@ -35,39 +35,11 @@
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_id-1da5776eb1584c139cdd12b4364e2953.xml#id-1da5776eb1584c139cdd12b4364e2953"/>
     </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-ceab4e48ec2d488e921cb8e549e60ec0"
-        source="id-518ee38512484460ab532eaa51285556"
-        target="id-c4d0c7242f5346109043b78d47a48587">
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_id-c485715719f24e66881335287a027db0.xml#id-c485715719f24e66881335287a027db0"/>
-    </sourceConnections>
     <bounds
         x="24"
         y="378"
         width="1068"
         height="276"/>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-c4d0c7242f5346109043b78d47a48587"
-        targetConnections="id-058f37552ad4466c994ed4a63df47f16 id-ceab4e48ec2d488e921cb8e549e60ec0"
-        textAlignment="1"
-        fillColor="#40bf60"
-        textPosition="1">
-      <features
-          name="labelExpression"
-          value="${name}&#xA;- avance: ${property:progreso}%&#xA;- proceso: ${property:proceso}"/>
-      <bounds
-          x="24"
-          y="36"
-          width="169"
-          height="79"/>
-      <archimateElement
-          xsi:type="archimate:Value"
-          href="Value_id-4069cd8a84034f0d940952259257d200.xml#id-4069cd8a84034f0d940952259257d200"/>
-    </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-b7bf51761e7145aa92feeff7d0cc7f77"
@@ -110,15 +82,6 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-e545902e52694b41970358fd881c5491"
         targetConnections="id-17e4af80aee74a588ef3e2a633331874 id-a69bef261cde4961ab5d9c8d7dfe93ef id-2f8f09e57ac3495aa0fe04f55b37cf88">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-058f37552ad4466c994ed4a63df47f16"
-          source="id-e545902e52694b41970358fd881c5491"
-          target="id-c4d0c7242f5346109043b78d47a48587">
-        <archimateRelationship
-            xsi:type="archimate:AssociationRelationship"
-            href="AssociationRelationship_id-4f8ad5c7159843d694e164dec01e5f74.xml#id-4f8ad5c7159843d694e164dec01e5f74"/>
-      </sourceConnections>
       <bounds
           x="24"
           y="138"

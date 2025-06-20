@@ -1,9 +1,0 @@
-<archimate:TechnologyService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Plataforma Openshift"
-    id="id-89d889bb0870408080077892abf39b3a"
-    documentation="1. Los servicios se deberán implementar bajo la plataforma Openshift de RedHat.">
-  <properties
-      key="destino"
-      value="doc, tex, pdf, html"/>
-</archimate:TechnologyService>

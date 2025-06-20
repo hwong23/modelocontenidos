@@ -1,9 +1,0 @@
-<archimate:Value
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Valor: Aceptación"
-    id="id-b6b64c9516274f2fbb6e41c650cefc9f"
-    documentation="Cumplimiento con condiciones técnicas de la solución.&#xA;">
-  <properties
-      key="destino"
-      value="doc, tex, pdf, html"/>
-</archimate:Value>

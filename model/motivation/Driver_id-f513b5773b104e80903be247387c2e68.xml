@@ -1,9 +1,0 @@
-<archimate:Driver
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Capacidad: Integrar operaciones módulo comparecientes"
-    id="id-f513b5773b104e80903be247387c2e68"
-    documentation="Característica de integración de Conti contenido en la solución de integración JEP, 2024.&#xA;">
-  <properties
-      key="destino"
-      value="doc, tex, pdf, html"/>
-</archimate:Driver>

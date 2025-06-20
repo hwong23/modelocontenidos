@@ -1,9 +1,0 @@
-<archimate:Goal
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Objetivo: Contractual"
-    id="id-94dc9f5040854de68b164fcb49ca654e"
-    documentation="El requerimiento tiene carácter contractual.&#xA;">
-  <properties
-      key="destino"
-      value="doc, tex, pdf, html"/>
-</archimate:Goal>

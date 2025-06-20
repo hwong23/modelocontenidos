@@ -1,9 +1,0 @@
-<archimate:Requirement
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="REQR16. Integración Radicar Externo Legali x Conti"
-    id="id-873e7eb842c948199a04e8d849ee40e3"
-    documentation="Atendiendo la necesidad de Justicia Digital, se requiere implementar la integración de (...) como la exposición de las capacidades de la Unidad de Tierras, JEP.&#xA;&#xA;Fuente: RadicarDocExternoV2Services (pdf).&#xA;&#xA;&#xA;### Índice de la documentación (casos de uso)&#xA;&#xA;1. Caso de Uso 1. Integrar Radicar externo.&#xA;&#xA;Los casos de uso se detallan en anexo más adelante.&#xA;">
-  <properties
-      key="destino"
-      value="doc, tex, pdf, html"/>
-</archimate:Requirement>
