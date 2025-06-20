@@ -1,9 +1,0 @@
-<archimate:Grouping
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Hoja ruta del producto / Plan de producto"
-    id="id-8cf9ca831cdc4f1ba3ad1785f6122e28"
-    documentation="Plan de producto de la solución (sistema).&#xA;">
-  <properties
-      key="modulo"
-      value="relatoria"/>
-</archimate:Grouping>
