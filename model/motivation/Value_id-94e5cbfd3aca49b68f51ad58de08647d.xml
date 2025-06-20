@@ -1,0 +1,14 @@
+<archimate:Value
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ciclo. Entrega 3"
+    id="id-94e5cbfd3aca49b68f51ad58de08647d"
+    documentation="Versión 2.1. Solución integración JEP.&#xA;">
+  <properties
+      key="destino"/>
+  <properties
+      key="proceso"
+      value="transición"/>
+  <properties
+      key="progreso"
+      value="75"/>
+</archimate:Value>

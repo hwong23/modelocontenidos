@@ -1,9 +1,0 @@
-<archimate:Deliverable
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="EP05. Integración Conti x Legali x Plani"
-    id="id-3d01b96ae2bc46db829cd36f96562e72"
-    documentation="Épica de entrega de la solución de integración JEP, 2024, que contiene las iteraciones que realizarán la característica 'Integrar operaciones Conti'.&#xA;&#xA;">
-  <properties
-      key="destino"
-      value="doc, tex, pdf, html"/>
-</archimate:Deliverable>
