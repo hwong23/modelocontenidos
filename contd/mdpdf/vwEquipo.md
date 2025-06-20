@@ -11,9 +11,6 @@ Nota Por las restricciones de ejecución usuales en este tipo de proyectos es re
 
 
 
-### Equipo de Trabajo
-El equipo de trabajo requerido para el cumplimiento del alcance, metas y entregables de la actual propuesta será provisto por el proponente.
-
 
 
 
