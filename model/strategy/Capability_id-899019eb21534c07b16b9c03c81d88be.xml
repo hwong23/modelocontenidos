@@ -1,9 +1,0 @@
-<archimate:Capability
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Ambientes y Herramientas"
-    id="id-899019eb21534c07b16b9c03c81d88be"
-    documentation="Esta solución de interoperabilidad usa las herramientas, librerías, ambientes, infraestructura productivo y no productivos (nodos, redes, almacenamientos, y otros) indicados por la JEP.&#xA;">
-  <properties
-      key="destino"
-      value="doc, tex, ppt"/>
-</archimate:Capability>

@@ -1,9 +1,0 @@
-<archimate:Capability
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Conectividad API"
-    id="id-9148b8c1d7e24fc9adad136c2b98c198"
-    documentation="Esta solución de interoperabilidad usa conectividad API REST provista por la infraestructura de conectividad de la JEP (Apache Camel).&#xA;">
-  <properties
-      key="destino"
-      value="doc, tex, ppt"/>
-</archimate:Capability>

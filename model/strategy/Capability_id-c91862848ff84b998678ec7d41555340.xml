@@ -1,8 +1,0 @@
-<archimate:Capability
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Proveedores y Consumidores"
-    id="id-c91862848ff84b998678ec7d41555340">
-  <properties
-      key="destino"
-      value="doc, tex, ppt"/>
-</archimate:Capability>
