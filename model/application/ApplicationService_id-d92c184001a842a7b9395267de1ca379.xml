@@ -1,9 +1,0 @@
-<archimate:ApplicationService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ENTG07 &lt;&lt;task>>"
-    id="id-d92c184001a842a7b9395267de1ca379"
-    documentation="Servicios de integración del proyecto desplegados en la infraestructura tecnológica JEP.&#xA;">
-  <properties
-      key="destino"
-      value="doc, tex, ppt"/>
-</archimate:ApplicationService>

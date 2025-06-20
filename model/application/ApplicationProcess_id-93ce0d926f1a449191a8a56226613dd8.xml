@@ -1,9 +1,0 @@
-<archimate:ApplicationProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ENTG05. Proceso &lt;&lt;worker>>"
-    id="id-93ce0d926f1a449191a8a56226613dd8"
-    documentation="Configuración de servicios de integración del proyecto dentro de la infraestructura tecnológica JEP.">
-  <properties
-      key="destino"
-      value="doc, tex, ppt"/>
-</archimate:ApplicationProcess>

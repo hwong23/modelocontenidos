@@ -1,9 +1,0 @@
-<archimate:ApplicationService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ENTG02. Servicios de Integración JEP"
-    id="id-58751839ecb344a3aace93c963cb9933"
-    documentation="Servicios ejecutables desplegados en los entornos de software JEP.&#xA;">
-  <properties
-      key="destino"
-      value="doc, tex, ppt"/>
-</archimate:ApplicationService>

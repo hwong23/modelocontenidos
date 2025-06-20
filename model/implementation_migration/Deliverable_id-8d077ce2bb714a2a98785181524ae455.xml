@@ -1,7 +1,8 @@
 <archimate:Deliverable
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Deliverable 1 (copy)"
-    id="id-8d077ce2bb714a2a98785181524ae455">
+    name="Deliverable 1"
+    id="id-8d077ce2bb714a2a98785181524ae455"
+    documentation="Definición de la Arquitectura de Referencia de la Entidad (situación actual del dominio aplicaciones, referencia cero).">
   <properties
       key="modulo"/>
 </archimate:Deliverable>

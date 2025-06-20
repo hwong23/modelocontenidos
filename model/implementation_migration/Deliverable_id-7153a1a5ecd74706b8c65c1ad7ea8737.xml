@@ -1,7 +1,8 @@
 <archimate:Deliverable
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Deliverable 2 [ver i+1] (copy)"
-    id="id-7153a1a5ecd74706b8c65c1ad7ea8737">
+    name="Deliverable 2 [ver i+1]"
+    id="id-7153a1a5ecd74706b8c65c1ad7ea8737"
+    documentation="(...) que contenga el modelo de alto nivel, en el cual se visualicen sistemas de información existentes y su interrelación.">
   <properties
       key="modulo"/>
 </archimate:Deliverable>
