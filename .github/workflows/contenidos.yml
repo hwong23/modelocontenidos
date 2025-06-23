@@ -26,6 +26,5 @@ jobs:
             -H "Accept: application/vnd.github+json" \
             -H "Authorization: Bearer ${{ secrets.ACCIONTOKEN }}" \
             -H "X-GitHub-Api-Version: 2022-11-28" \
-            -d '{"event_type":"dispatch-event", "client_payload": {"ref": "${{github.ref}}"}}' \
             https://api.github.com/repos/hwong23/tex-plantll-hv/dispatches \
-            
+            -d '{"event_type":"dispatch-event", "client_payload": {"ref": "${{github.ref}}"}}'
