@@ -19,12 +19,41 @@ jobs:
           ref: ${{ github.event.pull_request.head.sha }}
           fetch-depth: 0
           path: main
-      - name: llamada a trabajo TEX
+      - name: Checkout jarchi-hwo
+        uses: actions/checkout@v4
+        with:
+          repository: hwong23/jarchi-hwo
+          ref: main
+          path: jarchi-hwo
+      - name: Checkout devocs-contd
+        uses: actions/checkout@v4
+        with:
+          repository: hwong23/devocs-contd
+          ref: ${{github.ref}}
+          path: devocs-contd
+          token: ${{ secrets.ACCIONTOKEN }}
+
+      - name: Run model documentation
+        id: devdoc
+        uses: hwong23/git_hwo-action@v2.3
+        with:
+            # archiapp es el puntoentrada a Make document (bash archi-ClI.sh)
+            archi-args: 'archiapp -m ./main --pluginDir ./main/plugins --script /tmp/jarchi-hwo/scr/script.ajs'
+
+      - name: Gestiona contenidos-commit cntd
         run: |
-          curl -L \
-            -X POST \
-            -H "Accept: application/vnd.github+json" \
-            -H "Authorization: Bearer ${{ secrets.ACCIONTOKEN }}" \
-            -H "X-GitHub-Api-Version: 2022-11-28" \
-            https://api.github.com/repos/hwong23/tex-plantll-hv/dispatches \
-            -d '{"event_type":"dispatch-event", "client_payload": {"ref": "${{github.ref}}"}}'
+          cd jarchi-hwo/scr/sh
+          bash cpushcontd.sh . ${GITHUB_WORKSPACE}/main/contd ${GITHUB_WORKSPACE}/devocs-contd ${GITHUB_REF_NAME} 
+      - name: MV jarchi-hwo,contd
+        run: |
+          mv ${{github.WORKSPACE}}/jarchi-hwo /tmp/jarchi-hwo
+          mv ${{github.WORKSPACE}}/devocs-contd /tmp/devocs-contd
+      # - name: Get the output time
+      #   run: echo "The time was ${{ steps.devdoc.outputs.time }}"
+      - name: Add-and-commit
+        uses: EndBug/add-and-commit@v9 # You can change this to use a specific version.
+        with:
+          cwd: main
+          message: 'MD output'
+          committer_name: gh_action_cmmt
+          author_name: gh_action_authr
