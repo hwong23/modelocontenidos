@@ -58,7 +58,7 @@ jobs:
           committer_name: gh_action_cmmt
           author_name: gh_action_authr
 
-      - name: llamada a trabajo TEX
+      - name: Llamada a trabajo TEX
         run: |
           curl -L \
             -X POST \
