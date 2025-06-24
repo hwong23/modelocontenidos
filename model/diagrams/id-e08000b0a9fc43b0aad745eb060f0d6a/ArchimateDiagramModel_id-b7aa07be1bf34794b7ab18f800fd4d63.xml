@@ -373,4 +373,21 @@
         xsi:type="archimate:Grouping"
         href="Grouping_id-782eda47315341589720751f8251fc45.xml#id-782eda47315341589720751f8251fc45"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-6ecf94fa2a6043d89c597228660d94ac"
+      textAlignment="1"
+      content="Ingenium. &#xA;Modelo de Entregas. Dominio de Aplicación. AE. Secretaria Seneral Alcaldía Mayor de Bogotá.&#xA;">
+    <features
+        name="labelExpression"
+        value="Ingenium. &#xA;Modelo de Entregas. Dominio de Aplicación. AE. Secretaria Seneral Alcaldía Mayor de Bogotá.&#xA;&#xA;versión: ${property:versn}&#xA;"/>
+    <bounds
+        x="24"
+        y="192"
+        width="301"
+        height="128"/>
+    <properties
+        key="versn"
+        value="0.01"/>
+  </children>
 </archimate:ArchimateDiagramModel>
