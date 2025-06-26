@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Vista de Aplicaciones - AppTorn"
-    id="id-view-aplicaciones-torneos">
+    id="id-view-aplicaciones-torneos"
+    documentation="## Subsistemas Principales Propuestos&#xA;1. Gestión de Torneos (Tournament Management Subsystem): Responsable de la creación, configuración y ciclo de vida de los torneos.&#xA;1. Gestión de Participantes (Participant Management Subsystem): Maneja la información de jugadores, equipos y sus inscripciones.&#xA;1. Gestión de Partidos y Resultados (Match &amp; Results Management Subsystem): Se encarga de la generación de cuadros (draws), el registro de resultados y el cálculo de clasificaciones.&#xA;1. Gestión de Recursos y Logística (Resource &amp; Logistics Management Subsystem): Administra elementos como mesas de juego, árbitros y la programación de partidos.&#xA;1. Gestión de Usuarios y Acceso (User &amp; Access Management Subsystem): Maneja la autenticación, autorización y los diferentes roles de usuario en el sistema.&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="node-sistema"
