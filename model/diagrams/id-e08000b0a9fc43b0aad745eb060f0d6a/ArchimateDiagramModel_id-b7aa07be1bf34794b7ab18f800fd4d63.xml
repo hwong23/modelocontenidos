@@ -390,4 +390,7 @@
         key="versn"
         value="0.01"/>
   </children>
+  <properties
+      key="ancho"
+      value="5"/>
 </archimate:ArchimateDiagramModel>
