@@ -16,4 +16,16 @@
         xsi:type="archimate:Driver"
         href="Driver_id-93711d25c10d46a88afd8ba601e07793.xml#id-93711d25c10d46a88afd8ba601e07793"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-484cec1a65664e018eecfbbe83796bba">
+    <bounds
+        x="96"
+        y="169"
+        width="229"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Driver"
+        href="Driver_id-0efab5570b0744149fb043c917709765.xml#id-0efab5570b0744149fb043c917709765"/>
+  </children>
 </archimate:ArchimateDiagramModel>
