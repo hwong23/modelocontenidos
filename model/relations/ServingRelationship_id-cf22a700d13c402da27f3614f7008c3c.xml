@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="soporta"
+    id="id-cf22a700d13c402da27f3614f7008c3c">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-fb7278bb66ac4208b7604c3780e88ee0.xml#id-fb7278bb66ac4208b7604c3780e88ee0"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-067c9e7c7af14aeeb9f2ad1abea6efd2.xml#id-067c9e7c7af14aeeb9f2ad1abea6efd2"/>
+</archimate:ServingRelationship>
