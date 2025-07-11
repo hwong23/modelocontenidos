@@ -1,0 +1,5 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Uso de Apps de Terceros sin Integración"
+    id="id-362dfcd5a8954ff2aa13b5c78f608fca"
+    documentation="Debilidad en la arquitectura de integración, generando riesgos y reprocesos."/>
