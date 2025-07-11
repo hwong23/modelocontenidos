@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Expediente Digital"
+    id="id-5aa9932d7c5f46499ed6f9ea4e56cfa1"
+    documentation="Objeto de datos en la capa de aplicación que representa un expediente electrónico."/>

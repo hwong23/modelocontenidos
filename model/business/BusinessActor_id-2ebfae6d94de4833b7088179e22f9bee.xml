@@ -1,0 +1,5 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ciudadano"
+    id="id-2ebfae6d94de4833b7088179e22f9bee"
+    documentation="Actor externo que interactúa con los servicios de la Alcaldía."/>

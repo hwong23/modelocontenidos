@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API de Intercambio de Datos"
+    id="id-993b3ce5f9d74e7cb9786edc49a2957d"
+    documentation="Interfaz de aplicación para permitir la comunicación entre diferentes sistemas."/>
