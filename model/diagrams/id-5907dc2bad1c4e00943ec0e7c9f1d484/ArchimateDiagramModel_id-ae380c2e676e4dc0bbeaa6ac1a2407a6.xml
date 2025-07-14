@@ -1,0 +1,42 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="06.2n. Aplicaciones. Situación Acrtual SG"
+    id="id-ae380c2e676e4dc0bbeaa6ac1a2407a6">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-16ec7387aa304d1ba14afecc0a03b63a">
+    <bounds
+        x="12"
+        y="12"
+        width="155"
+        height="65"/>
+    <archimateElement
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_id-fcb114ec1cb74adeac9d3bd737aca69f.xml#id-fcb114ec1cb74adeac9d3bd737aca69f"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-a98c2ac728c54d978325378cca1668df">
+    <bounds
+        x="394"
+        y="12"
+        width="155"
+        height="65"/>
+    <archimateElement
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_id-24a0f4d014954ad4accd0c7f21ba019c.xml#id-24a0f4d014954ad4accd0c7f21ba019c"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-342dbcb959344814b6fef4c57331251f">
+    <bounds
+        x="178"
+        y="12"
+        width="205"
+        height="65"/>
+    <archimateElement
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_id-fa437dd4a7b24bd995877e36bda19b9b.xml#id-fa437dd4a7b24bd995877e36bda19b9b"/>
+  </children>
+</archimate:ArchimateDiagramModel>
