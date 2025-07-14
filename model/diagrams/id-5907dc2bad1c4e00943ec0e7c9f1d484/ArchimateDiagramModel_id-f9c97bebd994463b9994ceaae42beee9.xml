@@ -767,4 +767,28 @@
         xsi:type="archimate:Gap"
         href="Gap_id-d2962c375331418a942751bffd5e467f.xml#id-d2962c375331418a942751bffd5e467f"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-38e7574e7a4a46d0b477b8a8ceb12453">
+    <bounds
+        x="236"
+        y="548"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Principle"
+        href="Principle_id-e073a5e7baa645069c9ad23f7e6be908.xml#id-e073a5e7baa645069c9ad23f7e6be908"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-bfe9f7887cc4426aa6bc053a895ae181">
+    <bounds
+        x="240"
+        y="636"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Principle"
+        href="Principle_id-d13969545f0b402798ab8d567df2a755.xml#id-d13969545f0b402798ab8d567df2a755"/>
+  </children>
 </archimate:ArchimateDiagramModel>
