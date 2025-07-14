@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="06.2n. Aplicaciones. Situación Acrtual SG"
+    name="06.2n. Aplicaciones. Situación Actual SG"
     id="id-ae380c2e676e4dc0bbeaa6ac1a2407a6">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -39,4 +39,13 @@
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-fa437dd4a7b24bd995877e36bda19b9b.xml#id-fa437dd4a7b24bd995877e36bda19b9b"/>
   </children>
+  <properties
+      key="alias"
+      value="si-ppt-individual"/>
+  <properties
+      key="devdoc"
+      value="04.si-ppt-individual.md"/>
+  <properties
+      key="titulo"
+      value="Situación Actual Sistemas Información SG (view)"/>
 </archimate:ArchimateDiagramModel>
