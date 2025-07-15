@@ -460,18 +460,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-e754049071134891bb41d70e6237ccae">
-    <bounds
-        x="436"
-        y="648"
-        width="150"
-        height="70"/>
-    <archimateElement
-        xsi:type="archimate:Principle"
-        href="Principle_id-d13969545f0b402798ab8d567df2a755.xml#id-d13969545f0b402798ab8d567df2a755"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="id-a465183239fb48b8ab0beec252bc820c">
     <bounds
         x="236"
@@ -486,8 +474,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-0fd2d553897a48c28cea693466394466">
     <bounds
-        x="432"
-        y="736"
+        x="436"
+        y="648"
         width="150"
         height="70"/>
     <archimateElement
