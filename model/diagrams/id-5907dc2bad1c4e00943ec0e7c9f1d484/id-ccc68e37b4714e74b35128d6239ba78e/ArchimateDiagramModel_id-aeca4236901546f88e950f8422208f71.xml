@@ -23,6 +23,11 @@
         id="id-85a49243756f486faafa566180e223a6"
         source="id-ceaa3a32b7ba483a9ffbf0d1b056cb20"
         target="id-f23e45739fa14a7c97694cccf3b408a3">
+      <bendpoints
+          startX="85"
+          startY="-42"
+          endX="-231"
+          endY="-39"/>
       <archimateRelationship
           xsi:type="archimate:AccessRelationship"
           href="AccessRelationship_id-a4d910de0eda4bf4a1e9dbb0f19cebb7.xml#id-a4d910de0eda4bf4a1e9dbb0f19cebb7"/>
@@ -32,11 +37,6 @@
         id="id-b0f89fcf511844cc9b211c94b60a0159"
         source="id-ceaa3a32b7ba483a9ffbf0d1b056cb20"
         target="id-f23e45739fa14a7c97694cccf3b408a3">
-      <bendpoints
-          startX="186"
-          startY="-42"
-          endX="-267"
-          endY="-43"/>
       <archimateRelationship
           xsi:type="archimate:AccessRelationship"
           href="AccessRelationship_id-bfb83777258d4d029ed20f00d80fc670.xml#id-bfb83777258d4d029ed20f00d80fc670"/>
@@ -327,8 +327,8 @@
           href="CompositionRelationship_id-7a1b14e50cfb4809be464f39bdae46d3.xml#id-7a1b14e50cfb4809be464f39bdae46d3"/>
     </sourceConnections>
     <bounds
-        x="420"
-        y="51"
+        x="456"
+        y="48"
         width="414"
         height="272"/>
     <children
