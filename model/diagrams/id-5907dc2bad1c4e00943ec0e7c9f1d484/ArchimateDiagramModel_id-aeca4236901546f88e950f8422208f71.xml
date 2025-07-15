@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="06.3n. Aplicaciones. Levantamiento"
     id="id-aeca4236901546f88e950f8422208f71"
-    documentation="En particular, la arquitectura de sistemas de información de SG se plantea, dentro del alcance de la visión del ejercicio:&#xA;&#xA;* Definir la arquitectura de las aplicaciones (SI) necesarias para soportar los procesos de negocio de SG.&#xA;* Identificar las funciones de negocio que deben ser soportadas por las aplicaciones de SG.&#xA;* Establecer la interacción y el flujo de información entre las diferentes aplicaciones de SG.&#xA;* Considerar aspectos sistémicos como la escalabilidad, el rendimiento, la mantenibilidad y la seguridad de las aplicaciones de SG.&#xA;* Listar las capacidades de negocio (servicios de aplicación) relacionadas con las arquitecturas de aplicaciones de SG.&#xA;&#xA;">
+    documentation="En particular, la arquitectura de sistemas de información de SG se plantea, dentro del alcance de la visión del ejercicio:&#xA;&#xA;* Definir la arquitectura de las aplicaciones (SI) necesarias para soportar los procesos de negocio de SG.&#xA;* Identificar las funciones de negocio que deben ser soportadas por las aplicaciones de SG.&#xA;* Establecer la interacción y el flujo de información entre las diferentes aplicaciones de SG.&#xA;* Considerar aspectos sistémicos como la escalabilidad, el rendimiento, la mantenibilidad y la seguridad de las aplicaciones de SG.&#xA;* Listar las capacidades de negocio relacionadas con las arquitecturas de aplicaciones de SG.&#xA;&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-ceaa3a32b7ba483a9ffbf0d1b056cb20"
