@@ -155,7 +155,7 @@
     <bounds
         x="564"
         y="36"
-        width="167"
+        width="133"
         height="50"/>
     <archimateElement
         xsi:type="archimate:BusinessActor"
@@ -176,7 +176,7 @@
     <bounds
         x="564"
         y="106"
-        width="167"
+        width="133"
         height="50"/>
     <archimateElement
         xsi:type="archimate:BusinessActor"
@@ -197,7 +197,7 @@
     <bounds
         x="564"
         y="176"
-        width="167"
+        width="133"
         height="50"/>
     <archimateElement
         xsi:type="archimate:BusinessActor"
@@ -227,7 +227,7 @@
     <bounds
         x="564"
         y="246"
-        width="167"
+        width="133"
         height="50"/>
     <archimateElement
         xsi:type="archimate:BusinessActor"
@@ -246,7 +246,7 @@
           href="RealizationRelationship_id-1d00e2e474574c1abe952da0eb9990ab.xml#id-1d00e2e474574c1abe952da0eb9990ab"/>
     </sourceConnections>
     <bounds
-        x="774"
+        x="744"
         y="36"
         width="235"
         height="50"/>
@@ -267,7 +267,7 @@
           href="InfluenceRelationship_id-5b0e80c1968d4f58a2412ac6d326340a.xml#id-5b0e80c1968d4f58a2412ac6d326340a"/>
     </sourceConnections>
     <bounds
-        x="774"
+        x="744"
         y="106"
         width="235"
         height="50"/>
@@ -288,7 +288,7 @@
           href="InfluenceRelationship_id-f9648a8dae754bf89923dcac08c4db51.xml#id-f9648a8dae754bf89923dcac08c4db51"/>
     </sourceConnections>
     <bounds
-        x="774"
+        x="744"
         y="176"
         width="235"
         height="50"/>
@@ -318,7 +318,7 @@
           href="InfluenceRelationship_id-710befb6383f49c68c97abbd88d21511.xml#id-710befb6383f49c68c97abbd88d21511"/>
     </sourceConnections>
     <bounds
-        x="774"
+        x="744"
         y="246"
         width="235"
         height="50"/>
@@ -339,7 +339,7 @@
           href="RealizationRelationship_id-54b04110d37140b288796222798fe210.xml#id-54b04110d37140b288796222798fe210"/>
     </sourceConnections>
     <bounds
-        x="774"
+        x="744"
         y="316"
         width="235"
         height="50"/>
@@ -360,7 +360,7 @@
           href="InfluenceRelationship_id-750600ece674468eaf4acbb4c2989329.xml#id-750600ece674468eaf4acbb4c2989329"/>
     </sourceConnections>
     <bounds
-        x="774"
+        x="744"
         y="386"
         width="235"
         height="50"/>
