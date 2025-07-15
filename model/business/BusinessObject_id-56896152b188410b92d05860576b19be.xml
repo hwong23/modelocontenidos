@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TOGAF Standard"
+    id="id-56896152b188410b92d05860576b19be"
+    documentation="TOGAF Standard (The Open Group Architecture Framework). Esta metodología define la creación de artefactos como catálogos, matrices y diagramas para cada fase y dominio. El Architecture Repository es clave para almacenar estos artefactos y promover la reutilización de Building Blocks (ABBs y SBBs)."/>

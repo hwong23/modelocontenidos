@@ -711,7 +711,7 @@
           href="ServingRelationship_id-ad4833fd00524737864884968f12ff4f.xml#id-ad4833fd00524737864884968f12ff4f"/>
     </sourceConnections>
     <bounds
-        x="1486"
+        x="1440"
         y="248"
         width="150"
         height="70"/>
@@ -733,7 +733,7 @@
           href="ServingRelationship_id-f8a22dd36a3149b196b2e4cca66a7cf6.xml#id-f8a22dd36a3149b196b2e4cca66a7cf6"/>
     </sourceConnections>
     <bounds
-        x="1486"
+        x="1440"
         y="348"
         width="150"
         height="70"/>
@@ -754,7 +754,7 @@
           href="RealizationRelationship_id-a3f2f8a526494aa892d3d4b72b0d6505.xml#id-a3f2f8a526494aa892d3d4b72b0d6505"/>
     </sourceConnections>
     <bounds
-        x="1686"
+        x="1640"
         y="48"
         width="150"
         height="70"/>
@@ -775,7 +775,7 @@
           href="RealizationRelationship_id-e048c5978caa43d3a6a91eeab92e8f86.xml#id-e048c5978caa43d3a6a91eeab92e8f86"/>
     </sourceConnections>
     <bounds
-        x="1686"
+        x="1640"
         y="148"
         width="150"
         height="70"/>
@@ -787,7 +787,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-eaa4bafce70a449a9dbfaba5dc66074e">
     <bounds
-        x="1686"
+        x="1640"
         y="248"
         width="150"
         height="70"/>
@@ -801,8 +801,8 @@
     <bounds
         x="236"
         y="548"
-        width="120"
-        height="55"/>
+        width="150"
+        height="70"/>
     <archimateElement
         xsi:type="archimate:Principle"
         href="Principle_id-e073a5e7baa645069c9ad23f7e6be908.xml#id-e073a5e7baa645069c9ad23f7e6be908"/>
@@ -813,8 +813,8 @@
     <bounds
         x="240"
         y="636"
-        width="120"
-        height="55"/>
+        width="150"
+        height="70"/>
     <archimateElement
         xsi:type="archimate:Principle"
         href="Principle_id-d13969545f0b402798ab8d567df2a755.xml#id-d13969545f0b402798ab8d567df2a755"/>
@@ -825,8 +825,8 @@
     <bounds
         x="240"
         y="728"
-        width="120"
-        height="55"/>
+        width="150"
+        height="70"/>
     <archimateElement
         xsi:type="archimate:Principle"
         href="Principle_id-1be659777e43498aaa8c60c21f5da794.xml#id-1be659777e43498aaa8c60c21f5da794"/>
@@ -837,8 +837,8 @@
     <bounds
         x="240"
         y="816"
-        width="120"
-        height="55"/>
+        width="150"
+        height="70"/>
     <archimateElement
         xsi:type="archimate:Principle"
         href="Principle_id-d5fe2a26fda94e99990464640cee273f.xml#id-d5fe2a26fda94e99990464640cee273f"/>
