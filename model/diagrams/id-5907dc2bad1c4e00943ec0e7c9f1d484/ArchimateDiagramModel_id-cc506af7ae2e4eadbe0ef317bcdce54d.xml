@@ -73,7 +73,7 @@
     <bounds
         x="274"
         y="36"
-        width="250"
+        width="231"
         height="50"/>
     <archimateElement
         xsi:type="archimate:BusinessCollaboration"
@@ -86,7 +86,7 @@
     <bounds
         x="274"
         y="106"
-        width="250"
+        width="231"
         height="50"/>
     <archimateElement
         xsi:type="archimate:BusinessCollaboration"
@@ -99,7 +99,7 @@
     <bounds
         x="274"
         y="176"
-        width="250"
+        width="231"
         height="50"/>
     <archimateElement
         xsi:type="archimate:BusinessCollaboration"
@@ -112,7 +112,7 @@
     <bounds
         x="274"
         y="246"
-        width="250"
+        width="231"
         height="50"/>
     <archimateElement
         xsi:type="archimate:BusinessCollaboration"
@@ -125,7 +125,7 @@
     <bounds
         x="274"
         y="316"
-        width="250"
+        width="231"
         height="50"/>
     <archimateElement
         xsi:type="archimate:BusinessCollaboration"
@@ -153,9 +153,9 @@
           href="AssociationRelationship_id-6c55e3fd73564967a1055fe03572dcb1.xml#id-6c55e3fd73564967a1055fe03572dcb1"/>
     </sourceConnections>
     <bounds
-        x="554"
+        x="564"
         y="36"
-        width="200"
+        width="167"
         height="50"/>
     <archimateElement
         xsi:type="archimate:BusinessActor"
@@ -174,9 +174,9 @@
           href="AssociationRelationship_id-1adf764111994b3ba9ab3742ed7146c2.xml#id-1adf764111994b3ba9ab3742ed7146c2"/>
     </sourceConnections>
     <bounds
-        x="554"
+        x="564"
         y="106"
-        width="200"
+        width="167"
         height="50"/>
     <archimateElement
         xsi:type="archimate:BusinessActor"
@@ -195,9 +195,9 @@
           href="AssociationRelationship_id-5edadaaac5eb44529857001e2275586d.xml#id-5edadaaac5eb44529857001e2275586d"/>
     </sourceConnections>
     <bounds
-        x="554"
+        x="564"
         y="176"
-        width="200"
+        width="167"
         height="50"/>
     <archimateElement
         xsi:type="archimate:BusinessActor"
@@ -225,9 +225,9 @@
           href="AssociationRelationship_id-283625547e1144c3b30f697d696a9910.xml#id-283625547e1144c3b30f697d696a9910"/>
     </sourceConnections>
     <bounds
-        x="554"
+        x="564"
         y="246"
-        width="200"
+        width="167"
         height="50"/>
     <archimateElement
         xsi:type="archimate:BusinessActor"
@@ -248,7 +248,7 @@
     <bounds
         x="774"
         y="36"
-        width="280"
+        width="235"
         height="50"/>
     <archimateElement
         xsi:type="archimate:WorkPackage"
@@ -269,7 +269,7 @@
     <bounds
         x="774"
         y="106"
-        width="280"
+        width="235"
         height="50"/>
     <archimateElement
         xsi:type="archimate:WorkPackage"
@@ -290,7 +290,7 @@
     <bounds
         x="774"
         y="176"
-        width="280"
+        width="235"
         height="50"/>
     <archimateElement
         xsi:type="archimate:WorkPackage"
@@ -320,7 +320,7 @@
     <bounds
         x="774"
         y="246"
-        width="280"
+        width="235"
         height="50"/>
     <archimateElement
         xsi:type="archimate:WorkPackage"
@@ -341,7 +341,7 @@
     <bounds
         x="774"
         y="316"
-        width="280"
+        width="235"
         height="50"/>
     <archimateElement
         xsi:type="archimate:WorkPackage"
@@ -362,7 +362,7 @@
     <bounds
         x="774"
         y="386"
-        width="280"
+        width="235"
         height="50"/>
     <archimateElement
         xsi:type="archimate:WorkPackage"
