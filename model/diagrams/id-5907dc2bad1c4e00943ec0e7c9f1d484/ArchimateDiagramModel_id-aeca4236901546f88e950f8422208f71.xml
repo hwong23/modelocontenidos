@@ -73,15 +73,10 @@
         source="id-ceaa3a32b7ba483a9ffbf0d1b056cb20"
         target="id-f23e45739fa14a7c97694cccf3b408a3">
       <bendpoints
-          startX="98"
-          startY="42"
-          endX="-218"
-          endY="46"/>
-      <bendpoints
-          startX="97"
+          startX="120"
           startY="42"
           endX="-219"
-          endY="45"/>
+          endY="44"/>
       <archimateRelationship
           xsi:type="archimate:AccessRelationship"
           href="AccessRelationship_id-ffc9d1f3115441cdbfccad612d2356b2.xml#id-ffc9d1f3115441cdbfccad612d2356b2"/>
@@ -89,16 +84,23 @@
     <bounds
         x="12"
         y="24"
-        width="148"
+        width="169"
         height="325"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-faff9fbad64342bc929cb95274c550b8"
-        targetConnections="id-1ed3e24941fa4b428476509f76415a69">
+        targetConnections="id-1ed3e24941fa4b428476509f76415a69"
+        imagePath="images/_LZvGsGE1EfCmGot1MaQiqg.png">
+      <features
+          name="imageSource"
+          value="1"/>
+      <features
+          name="labelExpression"
+          value="Ejercicios previos &#xA;AE en SG"/>
       <bounds
           x="12"
           y="228"
-          width="120"
+          width="144"
           height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessObject"
@@ -107,11 +109,18 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-7ea9e0fedbdb4e1a93ee6e3b048914a8"
-        targetConnections="id-044469ad601f41dc8f98929b218656b6">
+        targetConnections="id-044469ad601f41dc8f98929b218656b6"
+        imagePath="images/_LZvGsGE1EfCmGot1MaQiqg.png">
+      <features
+          name="imageSource"
+          value="1"/>
+      <features
+          name="labelExpression"
+          value="PETI &#xA;2022-2024"/>
       <bounds
           x="12"
           y="48"
-          width="120"
+          width="144"
           height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessObject"
@@ -120,11 +129,18 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-e16acc32d505475382edd1a34154daaf"
-        targetConnections="id-594713dcb18841db8adfe36a5f39dcd7">
+        targetConnections="id-594713dcb18841db8adfe36a5f39dcd7"
+        imagePath="images/_LZvGsGE1EfCmGot1MaQiqg.png">
+      <features
+          name="imageSource"
+          value="1"/>
+      <features
+          name="labelExpression"
+          value="Análisis Entorno &#xA;2024"/>
       <bounds
           x="12"
           y="168"
-          width="120"
+          width="144"
           height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessObject"
@@ -133,11 +149,18 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-a955c70fe44c409598b01f27ec72dbca"
-        targetConnections="id-e3b44b222a324fe5a2e4764210b4f615">
+        targetConnections="id-e3b44b222a324fe5a2e4764210b4f615"
+        imagePath="images/_LZvGsGE1EfCmGot1MaQiqg.png">
+      <features
+          name="imageSource"
+          value="1"/>
+      <features
+          name="labelExpression"
+          value="Anexo Técnico &#xA;2025"/>
       <bounds
           x="12"
           y="108"
-          width="120"
+          width="144"
           height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessObject"
@@ -190,8 +213,8 @@
           href="CompositionRelationship_id-7a1b14e50cfb4809be464f39bdae46d3.xml#id-7a1b14e50cfb4809be464f39bdae46d3"/>
     </sourceConnections>
     <bounds
-        x="195"
-        y="47"
+        x="228"
+        y="48"
         width="414"
         height="272"/>
     <children
