@@ -38,6 +38,7 @@ jobs:
         uses: hwong23/git_hwo-action@v2.3
         with:
             # archiapp es el puntoentrada a Make document (bash archi-ClI.sh)
+            # archiapp: símbolo a archi-wrapper.sh en el contexto de la action
             archi-args: 'archiapp -m ./main --pluginDir ./main/plugins --script /tmp/jarchi-hwo/scr/script.ajs'
 
       - name: Gestiona contenidos-commit cntd
