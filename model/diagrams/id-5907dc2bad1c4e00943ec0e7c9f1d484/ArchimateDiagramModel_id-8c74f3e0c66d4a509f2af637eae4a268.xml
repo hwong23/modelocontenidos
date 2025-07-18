@@ -825,8 +825,8 @@
       id="id-2c98b00fb5a44bdd8adb1dc7b89f5ec4"
       targetConnections="id-302fff036c5445f58e08d6ef0b0c5a00 id-df7d431a3c4d439994741634f9f94f9a id-a7bee520a5b046bb841e1878a371b71f id-4683f9044d0e4974a3409e5442041f41 id-199759924de14dd6bbfe51ee27a7643d">
     <bounds
-        x="1416"
-        y="486"
+        x="1380"
+        y="60"
         width="250"
         height="50"/>
     <archimateElement
@@ -838,8 +838,8 @@
       id="id-66e607a48eab407bb050a3c2919df249"
       targetConnections="id-f989e728e66e44b6b00bcf0985b3a7c7 id-2bfcc8a282344135911776faef692a3f">
     <bounds
-        x="1416"
-        y="556"
+        x="1380"
+        y="130"
         width="250"
         height="50"/>
     <archimateElement
@@ -851,8 +851,8 @@
       id="id-7e609f66e2024fdd98e6f70155a9e78b"
       targetConnections="id-bb1768e7d60c42bdaf34de1878681455 id-2c2cfcf9f5ae4406b221f3c152d1d088 id-faea689c612949d0a4629e1df9f5b7eb">
     <bounds
-        x="1416"
-        y="626"
+        x="1380"
+        y="200"
         width="250"
         height="50"/>
     <archimateElement
