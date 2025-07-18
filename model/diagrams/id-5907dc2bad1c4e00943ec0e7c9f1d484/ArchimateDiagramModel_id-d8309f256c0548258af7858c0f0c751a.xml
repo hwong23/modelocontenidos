@@ -3,6 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="06.1na.BMM. Motivaciones"
     id="id-d8309f256c0548258af7858c0f0c751a"
+    documentation="* Debilidades (Weaknesses) se usarían como Assessment elementos con el estereotipo de debilidad o marcados apropiadamente.&#xA;* Los Outcomes representarían las consecuencias directas de esas debilidades.&#xA;* Las relaciones de Influence (flecha punteada) irían desde las Weaknesses y Outcomes hacia los Goals y Requirements, indicando cómo las debilidades influyen en la definición de lo que se quiere lograr y lo que se necesita hacer.&#xA;* Las relaciones de Realization (flecha con triángulo vacío) irían desde los Requirements hacia los Goals, mostrando cómo los requisitos concretan las metas.&#xA;&#xA;Esta representación en ArchiMate permite visualizar el &quot;por qué&quot; detrás de las iniciativas de arquitectura, conectando directamente los problemas identificados (debilidades) con las metas estratégicas y los requisitos que buscan resolverlos.&#xA;"
     viewpoint="motivation">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
