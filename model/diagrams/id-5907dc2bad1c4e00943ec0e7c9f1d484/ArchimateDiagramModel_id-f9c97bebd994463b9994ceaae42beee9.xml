@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="06.1nc. Negocio. Necesidades"
+    name="06.Negocio.n1. Necesidades"
     id="id-f9c97bebd994463b9994ceaae42beee9">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

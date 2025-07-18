@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Agendamiento Citas RedCADE"
+    id="id-01855dcb325c4b7691a6dc6bec28117f"
+    documentation="Sub-servicio de negocio que facilita la programación de citas en la RedCADE desde casa."/>
