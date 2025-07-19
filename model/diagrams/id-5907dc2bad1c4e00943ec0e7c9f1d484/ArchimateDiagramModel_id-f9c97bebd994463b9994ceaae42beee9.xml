@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="06.Negocio.n1. Necesidades"
-    id="id-f9c97bebd994463b9994ceaae42beee9">
+    id="id-f9c97bebd994463b9994ceaae42beee9"
+    documentation="La Secretaría General de la Alcaldía Mayor de Bogotá D.C. está impulsando un ejercicio de Arquitectura Empresarial (AE) con el propósito de fortalecer su gestión pública y alcanzar sus objetivos estratégicos. &#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-9954bb14be03483d97bf64447a5bef27">
