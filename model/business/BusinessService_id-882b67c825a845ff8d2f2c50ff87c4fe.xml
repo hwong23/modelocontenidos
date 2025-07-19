@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Atención al Ciudadano (Virtual)"
+    id="id-882b67c825a845ff8d2f2c50ff87c4fe"
+    documentation="Servicio de negocio para la atención a través de canales virtuales como SuperCADE Virtual, chat, chat-Bot y videollamadas."/>

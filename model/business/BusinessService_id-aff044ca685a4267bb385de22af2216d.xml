@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestión de Trámites y Servicios"
+    id="id-aff044ca685a4267bb385de22af2216d"
+    documentation="Servicio de negocio que permite el acceso y realización de trámites y servicios públicos."/>

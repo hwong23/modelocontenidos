@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Pago de Servicios en Línea"
+    id="id-cf4c093201764591b4e8e737cf5dc7a2"
+    documentation="Sub-servicio de negocio que permite realizar pagos no tributarios en línea."/>
