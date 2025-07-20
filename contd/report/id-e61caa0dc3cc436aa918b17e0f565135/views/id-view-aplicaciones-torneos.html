@@ -1,0 +1,295 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html class="frame" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+	<title>Vista de Aplicaciones - AppTorn</title>
+
+	<!-- JQUERY (use 1.x branch to be compatible with IE 6/7/8) -->
+	<script type="text/javascript" src="../../lib/jquery/js/jquery-1.11.2.min.js"></script>
+	<!-- BOOTSTRAP -->
+	<link type="text/css" rel="stylesheet" href="../../lib/bootstrap/css/bootstrap.min.yeti.css">
+	<script type="text/javascript" src="../../lib/bootstrap/js/bootstrap-3.3.2.min.js"></script>
+	<!-- REPORT SPECIFIC -->
+	<link type="text/css" rel="stylesheet" href="../../css/model.css">
+	<link type="text/css" rel="stylesheet" href="../../css/i18n.css">
+	<script type="text/javascript" src="../../js/frame.js"></script>
+	<script type="text/javascript" src="../../js/imageMapResizer.min.js"></script>
+</head>
+
+<body>
+	<div class="panel panel-default root-panel">
+
+		<div class="panel-heading root-panel-heading">
+            <!-- Name -->
+               <b>Vista de Aplicaciones - AppTorn</b>
+
+            <!-- If a View with Viewpoint -->
+			   (<span class="i18n-viewpoint-"></span>)
+			   <a class="glyphicon glyphicon-info-sign" id="hint-viewpoint_" target="hint"></a>
+            <!-- Or if a model (i.e has Purpose method) -->
+		</div>
+
+		<div class="panel-body root-panel-body">
+		    <!-- If this is a digram model (has children and no bounds) show the image -->
+			   <img class="diagram" src="../images/id-view-aplicaciones-torneos.png" alt="Vista de Aplicaciones - AppTorn" usemap="#id-view-aplicaciones-torneosmap"/>
+			   <map name="id-view-aplicaciones-torneosmap">
+				  				<area shape="rect" coords="532,172,652,222" href="../elements/id-serv-configurar-grupos.html"  target="element">
+				  				<area shape="rect" coords="532,322,652,372" href="../elements/id-serv-publicar-podio.html"  target="element">
+				  				<area shape="rect" coords="282,82,462,152" href="../elements/id-comp-gestion-jugadores.html"  target="element">
+				  				<area shape="rect" coords="132,172,252,222" href="../elements/id-serv-organizar-torneo.html"  target="element">
+				  				<area shape="rect" coords="132,322,252,372" href="../elements/id-serv-generar-llaves.html"  target="element">
+				  				<area shape="rect" coords="82,232,262,302" href="../elements/id-comp-generacion-llaves.html"  target="element">
+				  				<area shape="rect" coords="82,82,262,152" href="../elements/id-comp-gestion-torneos.html"  target="element">
+				  				<area shape="rect" coords="482,232,662,302" href="../elements/id-comp-visualizacion-podio.html"  target="element">
+				  				<area shape="rect" coords="282,232,462,302" href="../elements/id-comp-registro-resultados.html"  target="element">
+				  				<area shape="rect" coords="332,322,452,372" href="../elements/id-serv-registrar-resultados.html"  target="element">
+				  				<area shape="rect" coords="482,82,662,152" href="../elements/id-comp-gestion-grupos.html"  target="element">
+				  				<area shape="rect" coords="332,172,452,222" href="../elements/id-serv-gestionar-jugadores.html"  target="element">
+
+				  		<area shape="rect" coords="10,10,810,510" href="../elements/id-comp-sistema.html"  target="element">
+
+			   </map>
+
+			<div role="tabpanel">
+				<!-- Nav tabs -->
+				<ul class="nav nav-tabs" role="tablist">
+                    <!-- Purpose / Documentation / Content -->
+					   <li role="presentation" class="active"><a href="#documentation" aria-controls="documentation" role="tab" data-toggle="tab" class="i18n-documentation"></a></li>
+
+                    <!-- Properties -->
+                    <li role="presentation"><a href="#properties" aria-controls="properties" role="tab" data-toggle="tab" class="i18n-properties"></a></li>
+
+						<li role="presentation"><a href="#elements" aria-controls="elements" role="tab" data-toggle="tab" class="i18n-elements"></a></li>
+						<li role="presentation"><a href="#relationships" aria-controls="relationships" role="tab" data-toggle="tab" class="i18n-relationships"></a></li>
+                    <!-- Model, Query Tab -->
+				</ul>
+
+				<!-- Tab panes -->
+				<div class="tab-content">
+					<div role="tabpanel" class="tab-pane active" id="documentation">
+						<div class="convertlinks documentation" style="white-space:pre-wrap">## Subsistemas Principales Propuestos
+1. Gesti&#243;n de Torneos (Tournament Management Subsystem): Responsable de la creaci&#243;n, configuraci&#243;n y ciclo de vida de los torneos.
+1. Gesti&#243;n de Participantes (Participant Management Subsystem): Maneja la informaci&#243;n de jugadores, equipos y sus inscripciones.
+1. Gesti&#243;n de Partidos y Resultados (Match &amp; Results Management Subsystem): Se encarga de la generaci&#243;n de cuadros (draws), el registro de resultados y el c&#225;lculo de clasificaciones.
+1. Gesti&#243;n de Recursos y Log&#237;stica (Resource &amp; Logistics Management Subsystem): Administra elementos como mesas de juego, &#225;rbitros y la programaci&#243;n de partidos.
+1. Gesti&#243;n de Usuarios y Acceso (User &amp; Access Management Subsystem): Maneja la autenticaci&#243;n, autorizaci&#243;n y los diferentes roles de usuario en el sistema.
+</div>
+					</div>
+					<div role="tabpanel" class="tab-pane" id="properties">
+						<table class="table table-striped table-hover table-condensed">
+							<thead>
+								<tr>
+									<th class="i18n-key"></th>
+									<th class="i18n-value"></th>
+								</tr>
+							</thead>
+							<tbody>
+							</tbody>
+						</table>
+					</div>
+						<div role="tabpanel" class="tab-pane" id="elements">
+							<table class="table table-striped table-hover table-condensed">
+								<thead>
+									<tr>
+										<th class="i18n-name"></th>
+										<th class="i18n-type"></th>
+									</tr>
+								</thead>
+								<tbody>
+											<tr>
+											    <td> <a href="../elements/id-comp-sistema.html" target="element"> Sistema de Gesti&#243;n </a> </td>
+											    <td> <a href="../elements/id-comp-sistema.html" target="element" class="i18n-elementtype-ApplicationComponent">
+											    </a> </td>
+											</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-serv-gestionar-jugadores.html" target="element"> Gestionar Jugadores </a> </td>
+													    <td> <a href="../elements/id-serv-gestionar-jugadores.html" target="element" class="i18n-elementtype-ApplicationService">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-comp-gestion-grupos.html" target="element"> M&#243;dulo de Gesti&#243;n de Grupos </a> </td>
+													    <td> <a href="../elements/id-comp-gestion-grupos.html" target="element" class="i18n-elementtype-ApplicationComponent">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-serv-registrar-resultados.html" target="element"> Registrar Resultados de Partidos </a> </td>
+													    <td> <a href="../elements/id-serv-registrar-resultados.html" target="element" class="i18n-elementtype-ApplicationService">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-comp-registro-resultados.html" target="element"> M&#243;dulo de Registro de Resultados </a> </td>
+													    <td> <a href="../elements/id-comp-registro-resultados.html" target="element" class="i18n-elementtype-ApplicationComponent">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-comp-visualizacion-podio.html" target="element"> M&#243;dulo de Visualizaci&#243;n de Podio </a> </td>
+													    <td> <a href="../elements/id-comp-visualizacion-podio.html" target="element" class="i18n-elementtype-ApplicationComponent">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-comp-gestion-torneos.html" target="element"> M&#243;dulo de Gesti&#243;n de Torneos </a> </td>
+													    <td> <a href="../elements/id-comp-gestion-torneos.html" target="element" class="i18n-elementtype-ApplicationComponent">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-comp-generacion-llaves.html" target="element"> M&#243;dulo de Generaci&#243;n de Llaves </a> </td>
+													    <td> <a href="../elements/id-comp-generacion-llaves.html" target="element" class="i18n-elementtype-ApplicationComponent">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-serv-generar-llaves.html" target="element"> Generar Llaves de Eliminatorias </a> </td>
+													    <td> <a href="../elements/id-serv-generar-llaves.html" target="element" class="i18n-elementtype-ApplicationService">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-serv-organizar-torneo.html" target="element"> Organizar Torneo </a> </td>
+													    <td> <a href="../elements/id-serv-organizar-torneo.html" target="element" class="i18n-elementtype-ApplicationService">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-comp-gestion-jugadores.html" target="element"> M&#243;dulo de Gesti&#243;n de Jugadores </a> </td>
+													    <td> <a href="../elements/id-comp-gestion-jugadores.html" target="element" class="i18n-elementtype-ApplicationComponent">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-serv-publicar-podio.html" target="element"> Publicar Podio </a> </td>
+													    <td> <a href="../elements/id-serv-publicar-podio.html" target="element" class="i18n-elementtype-ApplicationService">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-serv-configurar-grupos.html" target="element"> Configurar Grupos </a> </td>
+													    <td> <a href="../elements/id-serv-configurar-grupos.html" target="element" class="i18n-elementtype-ApplicationService">
+													    </a> </td>
+													</tr>
+
+											
+
+								</tbody>
+							</table>
+						</div>
+						<div role="tabpanel" class="tab-pane" id="relationships">
+							<table class="table table-striped table-hover table-condensed">
+								<thead>
+									<tr>
+										<th class="i18n-name"></th>
+										<th class="i18n-type"></th>
+										<th class="i18n-source"></th>
+										<th class="i18n-target"></th>
+									</tr>
+								</thead>
+								<tbody>
+																	<tr>
+																		<td> <a href="../elements/id-rel-comp-2.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-rel-comp-2.html" target="element" class="i18n-elementtype-CompositionRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-comp-sistema.html" target="element"> Sistema de Gesti&#243;n </a> </td>
+																		<td> <a href="../elements/id-comp-gestion-jugadores.html" target="element"> M&#243;dulo de Gesti&#243;n de Jugadores </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-rel-comp-1.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-rel-comp-1.html" target="element" class="i18n-elementtype-CompositionRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-comp-sistema.html" target="element"> Sistema de Gesti&#243;n </a> </td>
+																		<td> <a href="../elements/id-comp-gestion-torneos.html" target="element"> M&#243;dulo de Gesti&#243;n de Torneos </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-rel-comp-4.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-rel-comp-4.html" target="element" class="i18n-elementtype-CompositionRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-comp-sistema.html" target="element"> Sistema de Gesti&#243;n </a> </td>
+																		<td> <a href="../elements/id-comp-generacion-llaves.html" target="element"> M&#243;dulo de Generaci&#243;n de Llaves </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-rel-comp-5.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-rel-comp-5.html" target="element" class="i18n-elementtype-CompositionRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-comp-sistema.html" target="element"> Sistema de Gesti&#243;n </a> </td>
+																		<td> <a href="../elements/id-comp-registro-resultados.html" target="element"> M&#243;dulo de Registro de Resultados </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-rel-comp-6.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-rel-comp-6.html" target="element" class="i18n-elementtype-CompositionRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-comp-sistema.html" target="element"> Sistema de Gesti&#243;n </a> </td>
+																		<td> <a href="../elements/id-comp-visualizacion-podio.html" target="element"> M&#243;dulo de Visualizaci&#243;n de Podio </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-rel-comp-3.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-rel-comp-3.html" target="element" class="i18n-elementtype-CompositionRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-comp-sistema.html" target="element"> Sistema de Gesti&#243;n </a> </td>
+																		<td> <a href="../elements/id-comp-gestion-grupos.html" target="element"> M&#243;dulo de Gesti&#243;n de Grupos </a> </td>
+																	</tr>
+
+																			<tr>
+																				<td> <a href="../elements/id-rel-serving-3.html" target="element">  </a> </td>
+																				<td> <a href="../elements/id-rel-serving-3.html" target="element" class="i18n-elementtype-ServingRelationship">
+																				</a> </td>
+																				<td> <a href="../elements/id-comp-gestion-grupos.html" target="element"> M&#243;dulo de Gesti&#243;n de Grupos </a> </td>
+																				<td> <a href="../elements/id-serv-configurar-grupos.html" target="element"> Configurar Grupos </a> </td>
+																			</tr>
+
+																			<tr>
+																				<td> <a href="../elements/id-rel-serving-5.html" target="element">  </a> </td>
+																				<td> <a href="../elements/id-rel-serving-5.html" target="element" class="i18n-elementtype-ServingRelationship">
+																				</a> </td>
+																				<td> <a href="../elements/id-comp-registro-resultados.html" target="element"> M&#243;dulo de Registro de Resultados </a> </td>
+																				<td> <a href="../elements/id-serv-registrar-resultados.html" target="element"> Registrar Resultados de Partidos </a> </td>
+																			</tr>
+
+																			<tr>
+																				<td> <a href="../elements/id-rel-serving-6.html" target="element">  </a> </td>
+																				<td> <a href="../elements/id-rel-serving-6.html" target="element" class="i18n-elementtype-ServingRelationship">
+																				</a> </td>
+																				<td> <a href="../elements/id-comp-visualizacion-podio.html" target="element"> M&#243;dulo de Visualizaci&#243;n de Podio </a> </td>
+																				<td> <a href="../elements/id-serv-publicar-podio.html" target="element"> Publicar Podio </a> </td>
+																			</tr>
+
+																			<tr>
+																				<td> <a href="../elements/id-rel-serving-1.html" target="element">  </a> </td>
+																				<td> <a href="../elements/id-rel-serving-1.html" target="element" class="i18n-elementtype-ServingRelationship">
+																				</a> </td>
+																				<td> <a href="../elements/id-comp-gestion-torneos.html" target="element"> M&#243;dulo de Gesti&#243;n de Torneos </a> </td>
+																				<td> <a href="../elements/id-serv-organizar-torneo.html" target="element"> Organizar Torneo </a> </td>
+																			</tr>
+
+																			<tr>
+																				<td> <a href="../elements/id-rel-serving-4.html" target="element">  </a> </td>
+																				<td> <a href="../elements/id-rel-serving-4.html" target="element" class="i18n-elementtype-ServingRelationship">
+																				</a> </td>
+																				<td> <a href="../elements/id-comp-generacion-llaves.html" target="element"> M&#243;dulo de Generaci&#243;n de Llaves </a> </td>
+																				<td> <a href="../elements/id-serv-generar-llaves.html" target="element"> Generar Llaves de Eliminatorias </a> </td>
+																			</tr>
+
+																			<tr>
+																				<td> <a href="../elements/id-rel-serving-2.html" target="element">  </a> </td>
+																				<td> <a href="../elements/id-rel-serving-2.html" target="element" class="i18n-elementtype-ServingRelationship">
+																				</a> </td>
+																				<td> <a href="../elements/id-comp-gestion-jugadores.html" target="element"> M&#243;dulo de Gesti&#243;n de Jugadores </a> </td>
+																				<td> <a href="../elements/id-serv-gestionar-jugadores.html" target="element"> Gestionar Jugadores </a> </td>
+																			</tr>
+
+											
+
+								</tbody>
+							</table>
+						</div>
+			  </div>
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript">imageMapResize();</script>
+</body>
+</html>
