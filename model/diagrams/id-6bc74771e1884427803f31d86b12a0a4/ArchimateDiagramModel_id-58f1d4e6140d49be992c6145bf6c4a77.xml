@@ -6,7 +6,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-9f48b45b10d84989a6e1bd630fa99981"
-      textAlignment="1">
+      textAlignment="1"
+      type="1">
     <bounds
         x="396"
         y="203"
@@ -19,7 +20,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-1210a686b72e4b98800a8102e04cb41c"
-      textAlignment="1">
+      textAlignment="1"
+      type="1">
     <bounds
         x="396"
         y="36"

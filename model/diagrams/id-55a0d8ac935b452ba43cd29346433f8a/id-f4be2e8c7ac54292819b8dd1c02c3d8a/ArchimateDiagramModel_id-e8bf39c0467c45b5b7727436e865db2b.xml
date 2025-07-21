@@ -9,7 +9,8 @@
       font="1|Lucida Grande|14.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
-      fillColor="#c8e6ff">
+      fillColor="#c8e6ff"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-da8fc24bcfc147ad9048cde67cf442b5"
@@ -33,7 +34,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-244116f9b095400aa1ddf011155a46b1"
       targetConnections="id-da8fc24bcfc147ad9048cde67cf442b5"
-      fillColor="#ffffc8">
+      fillColor="#ffffc8"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-d1003d5432084e008214802d43c56c7e"

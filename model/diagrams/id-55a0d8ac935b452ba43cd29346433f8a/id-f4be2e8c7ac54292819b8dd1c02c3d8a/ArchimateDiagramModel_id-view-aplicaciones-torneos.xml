@@ -10,7 +10,8 @@
       font="1|Lucida Grande|14.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
-      fillColor="#c8e6ff">
+      fillColor="#c8e6ff"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="conn-comp-2"
@@ -94,7 +95,8 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="node-gestion-grupos"
         targetConnections="conn-comp-3"
-        fillColor="#ffffc8">
+        fillColor="#ffffc8"
+        type="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="conn-serving-3"
@@ -132,7 +134,8 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="node-registro-resultados"
         targetConnections="conn-comp-5"
-        fillColor="#ffffc8">
+        fillColor="#ffffc8"
+        type="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="conn-serving-5"
@@ -156,7 +159,8 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="node-visualizacion-podio"
         targetConnections="conn-comp-6"
-        fillColor="#ffffc8">
+        fillColor="#ffffc8"
+        type="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="conn-serving-6"
@@ -180,7 +184,8 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="node-gestion-torneos"
         targetConnections="conn-comp-1"
-        fillColor="#ffffc8">
+        fillColor="#ffffc8"
+        type="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="conn-serving-1"
@@ -204,7 +209,8 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="node-generacion-llaves"
         targetConnections="conn-comp-4"
-        fillColor="#ffffc8">
+        fillColor="#ffffc8"
+        type="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="conn-serving-4"
@@ -256,7 +262,8 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="node-gestion-jugadores"
         targetConnections="conn-comp-2"
-        fillColor="#ffffc8">
+        fillColor="#ffffc8"
+        type="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="conn-serving-2"

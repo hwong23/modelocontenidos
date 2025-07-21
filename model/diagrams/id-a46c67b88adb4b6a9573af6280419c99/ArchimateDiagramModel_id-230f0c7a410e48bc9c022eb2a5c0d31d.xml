@@ -6,8 +6,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-0411adcbe6d94f1db62c164e9598dd35"
-      textAlignment="1"
-      type="1">
+      textAlignment="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-a94edaca9e374a01985a505008a41d98"
@@ -55,7 +54,8 @@
         targetConnections="id-75f119d756414e4181474231a260cd90 id-e498cf79c47a4803b6434dedfc280f3a"
         textAlignment="1"
         fillColor="#40bf60"
-        textPosition="1">
+        textPosition="1"
+        type="1">
       <features
           name="labelExpression"
           value="${name}: &#xA;avance: ${property:progreso}%&#xA;proceso: ${property:proceso}"/>
@@ -74,7 +74,8 @@
         targetConnections="id-a94edaca9e374a01985a505008a41d98"
         textAlignment="1"
         fillColor="#e61a0d"
-        textPosition="1">
+        textPosition="1"
+        type="1">
       <features
           name="labelExpression"
           value="${name}: &#xA;avance: ${property:progreso}%&#xA;proceso: ${property:proceso}"/>
@@ -93,7 +94,8 @@
         targetConnections="id-bef1e7164e0b4df2a091f7e80fcf7182"
         textAlignment="1"
         fillColor="#40bf60"
-        textPosition="1">
+        textPosition="1"
+        type="1">
       <features
           name="labelExpression"
           value="${name}: &#xA;avance: ${property:progreso}%&#xA;proceso: ${property:proceso}"/>
@@ -178,8 +180,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-e6f21ab5d45246938b7c72b84724a9c1"
-      textAlignment="1"
-      type="1">
+      textAlignment="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-00afc6e5f56d4de791459f130ed84462"
@@ -251,7 +252,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-82910884961b4c5ea69c29f174f71edc"
-          targetConnections="id-4faddecce1804976b12ac1897e4302cd">
+          targetConnections="id-4faddecce1804976b12ac1897e4302cd"
+          type="1">
         <bounds
             x="12"
             y="24"
@@ -264,7 +266,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-d8601f0d0484454695ea0103b34bd327"
-          targetConnections="id-6ab353901cea408bacf69648d7f09d39">
+          targetConnections="id-6ab353901cea408bacf69648d7f09d39"
+          type="1">
         <features
             name="labelExpression"
             value="Deliverable 2&#xA;[ver i+1]"/>
@@ -311,7 +314,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-a2cbd84ca8ae4161b0bbaf4477257576"
-          targetConnections="id-b2199793e5f6423bbaf2a37fa27b33e6">
+          targetConnections="id-b2199793e5f6423bbaf2a37fa27b33e6"
+          type="1">
         <bounds
             x="131"
             y="24"
@@ -324,7 +328,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-cf4de4798b9e46bea7c48fa62650c817"
-          targetConnections="id-7d4566127a4e4bc38f46661445ee1de5">
+          targetConnections="id-7d4566127a4e4bc38f46661445ee1de5"
+          type="1">
         <features
             name="labelExpression"
             value="Deliverable 2&#xA;[ver i+1]"/>
@@ -384,8 +389,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-d79e7b9dd79d4cfaaeee333932fe8271"
-      textAlignment="1"
-      type="1">
+      textAlignment="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-53e6059e54ec4b19bd1b64f5468d263a"
@@ -465,7 +469,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-6b70481a06c6404b9c987fe06b84c276"
-        targetConnections="id-3b0824aaa816496fad938efef77f4105 id-fc25a57f7dd6498886af7af50bd090dc">
+        targetConnections="id-3b0824aaa816496fad938efef77f4105 id-fc25a57f7dd6498886af7af50bd090dc"
+        type="1">
       <bounds
           x="228"
           y="60"

@@ -6,8 +6,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-518ee38512484460ab532eaa51285556"
-      textAlignment="1"
-      type="1">
+      textAlignment="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-a69bef261cde4961ab5d9c8d7dfe93ef"
@@ -46,7 +45,8 @@
         targetConnections="id-ff849002ae674c60b11cabd8738d1df8"
         textAlignment="1"
         fillColor="#e61a0d"
-        textPosition="1">
+        textPosition="1"
+        type="1">
       <features
           name="labelExpression"
           value="${name}: &#xA;avance: ${property:progreso}%&#xA;proceso: ${property:proceso}"/>
@@ -65,7 +65,8 @@
         targetConnections="id-47424f8450d3485c8053faf60b80ac85"
         textAlignment="1"
         fillColor="#40bf60"
-        textPosition="1">
+        textPosition="1"
+        type="1">
       <features
           name="labelExpression"
           value="${name}: &#xA;avance: ${property:progreso}%&#xA;proceso: ${property:proceso}"/>
@@ -141,8 +142,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-868d1e40b812421186f8fb647b8512c8"
-      textAlignment="1"
-      type="1">
+      textAlignment="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-adcbefd2fdba40428eda22e8ca4ef48c"
@@ -205,7 +205,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-508fea2cbdb54ab28da1e7ce98eeb2b9"
-          targetConnections="id-028752b33ff24e3fa322572f0f4189fb">
+          targetConnections="id-028752b33ff24e3fa322572f0f4189fb"
+          type="1">
         <bounds
             x="12"
             y="24"
@@ -218,7 +219,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-0e9c423153c74090999ec9a03e08ee83"
-          targetConnections="id-bac637af22aa4756bdd7fb13677a3567">
+          targetConnections="id-bac637af22aa4756bdd7fb13677a3567"
+          type="1">
         <features
             name="labelExpression"
             value="Deliverable 2&#xA;[ver i+1]"/>
@@ -278,8 +280,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-6261c75b02fb4ad1a7a2859d84107171"
-      textAlignment="1"
-      type="1">
+      textAlignment="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-793331e2c6d04b6f93b83747abec27ae"
@@ -359,7 +360,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-9f606b29e646402db3f5e0f7cad0a8c2"
-        targetConnections="id-8477e34609e34e6f83d01f59f17568cb id-dd68c514d3a24dd587123788ec89aa3b">
+        targetConnections="id-8477e34609e34e6f83d01f59f17568cb id-dd68c514d3a24dd587123788ec89aa3b"
+        type="1">
       <bounds
           x="228"
           y="60"
