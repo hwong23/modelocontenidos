@@ -7,8 +7,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-db6ac482a12b430ca01f353dd75a89f2"
-      textAlignment="1"
-      type="1">
+      textAlignment="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-91a19c00c0c8429e97ec1ea25cf52496"
@@ -101,7 +100,8 @@
         targetConnections="id-ff853e0078994943b6f6396e4aefb749 id-91a19c00c0c8429e97ec1ea25cf52496"
         textAlignment="1"
         fillColor="#40bf60"
-        textPosition="1">
+        textPosition="1"
+        type="1">
       <features
           name="labelExpression"
           value="${name}: &#xA;avance: ${property:progreso}%&#xA;proceso: ${property:proceso}"/>
@@ -142,7 +142,8 @@
         targetConnections="id-593f3b3a8a9f435dbf744012d3bc9cd5 id-485040f762284231a49a56f9773c7459"
         textAlignment="1"
         fillColor="#40bf60"
-        textPosition="1">
+        textPosition="1"
+        type="1">
       <features
           name="labelExpression"
           value="${name}: &#xA;avance: ${property:progreso}%&#xA;proceso: ${property:proceso}"/>
@@ -192,7 +193,8 @@
         targetConnections="id-f56efc7977944c9385672ed872e0c7a7"
         textAlignment="1"
         fillColor="#e61a0d"
-        textPosition="1">
+        textPosition="1"
+        type="1">
       <features
           name="labelExpression"
           value="${name}: &#xA;avance: ${property:progreso}%&#xA;proceso: ${property:proceso}"/>
@@ -220,7 +222,8 @@
         targetConnections="id-80cca3ae72f945bc81bb69bb301e8666"
         textAlignment="1"
         fillColor="#40bf60"
-        textPosition="1">
+        textPosition="1"
+        type="1">
       <features
           name="labelExpression"
           value="${name}: &#xA;avance: ${property:progreso}%&#xA;proceso: ${property:proceso}"/>
@@ -248,7 +251,8 @@
         targetConnections="id-581a0462fda24a8eabb38b1e89ec50b0"
         textAlignment="1"
         fillColor="#e61a0d"
-        textPosition="1">
+        textPosition="1"
+        type="1">
       <features
           name="labelExpression"
           value="${name}: &#xA;avance: ${property:progreso}%&#xA;proceso: ${property:proceso}"/>
@@ -350,8 +354,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-b6137a8839d8436ea5d398c95e7148eb"
-      textAlignment="1"
-      type="1">
+      textAlignment="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-b682767032c74e90986069c5d12709cd"
@@ -459,7 +462,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-69f5d42058a04ca1a4f30f7893736588"
-        targetConnections="id-b682767032c74e90986069c5d12709cd">
+        targetConnections="id-b682767032c74e90986069c5d12709cd"
+        type="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-7e9533a10e8f4fbb90808972e6b69bc6"
@@ -503,7 +507,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-2378044e35684ec5a36f92517e7e402a"
-        targetConnections="id-8f79c2f9fbfb4315927a70d98a5bd0c6 id-84b0187031644fb8ae6f90b83d84554a">
+        targetConnections="id-8f79c2f9fbfb4315927a70d98a5bd0c6 id-84b0187031644fb8ae6f90b83d84554a"
+        type="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-c97492fc8a214315a83841325d60ad28"
@@ -577,7 +582,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-06110977715a4457a33583a18d6452b2"
-        targetConnections="id-5ee5eff186bd4a6da633440697656cdb id-abb8ae0110124aad9ee63708b0ba99d3">
+        targetConnections="id-5ee5eff186bd4a6da633440697656cdb id-abb8ae0110124aad9ee63708b0ba99d3"
+        type="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-fdf6a422ead041439e1ae24ebf694701"
@@ -599,7 +605,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-ba615b6fbed048a88a8abbe7dc1ed646"
-        targetConnections="id-9be866b5cf9a405b8b19daeba1acc146 id-9dbb6b3b5713435699c0cb01863539ab">
+        targetConnections="id-9be866b5cf9a405b8b19daeba1acc146 id-9dbb6b3b5713435699c0cb01863539ab"
+        type="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-1e11ec5ea4354e36b3307ba25f8a05f8"
@@ -634,7 +641,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-a886c8c787094656bb1b4d9515f0fbc4"
-        targetConnections="id-8ea1ddc7786e483bac98116f415e24aa">
+        targetConnections="id-8ea1ddc7786e483bac98116f415e24aa"
+        type="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-474e331d52ca439487172daa82ccd9d6"
@@ -705,7 +713,8 @@
       id="id-bae7e5ac6eef43eb9ee785ccaffbed06"
       textAlignment="1"
       fillColor="#00ff80"
-      textPosition="1">
+      textPosition="1"
+      type="1">
     <bounds
         x="732"
         y="132"
@@ -720,7 +729,8 @@
       id="id-9fb52a9011cd4f56922bf329d60e9c83"
       textAlignment="1"
       fillColor="#40bf60"
-      textPosition="1">
+      textPosition="1"
+      type="1">
     <bounds
         x="852"
         y="132"
@@ -735,7 +745,8 @@
       id="id-ff9fcb8577434436b82a2a860c1dfbc9"
       textAlignment="1"
       fillColor="#ff0000"
-      textPosition="1">
+      textPosition="1"
+      type="1">
     <bounds
         x="972"
         y="132"

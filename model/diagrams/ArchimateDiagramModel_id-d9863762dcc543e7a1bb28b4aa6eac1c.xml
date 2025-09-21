@@ -6,7 +6,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-ddc48526fa7445eba732cf539cd1993e"
-      textAlignment="1">
+      textAlignment="1"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-b87d4057d07b4a19a64c8dbf9fec64b3"
@@ -51,7 +52,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-e4e437768fdd4dfaada453921675cb56"
-        targetConnections="id-e076eee002df4b5b93b2827e9322ee58 id-7bacb5a60795495fadf86bfbd96516ee id-7fa497ab61d54d8c85e6db69ae966921">
+        targetConnections="id-e076eee002df4b5b93b2827e9322ee58 id-7bacb5a60795495fadf86bfbd96516ee id-7fa497ab61d54d8c85e6db69ae966921"
+        type="1">
       <bounds
           x="47"
           y="108"
@@ -134,7 +136,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-9095a8e9ab7f474ab0cc835aba0480ed"
-      textAlignment="1">
+      textAlignment="1"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-ec878518102247d3b3a3e1bb36bb8d22"
@@ -214,7 +217,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-027a7953352a4c2cbc3e880f41168b3c"
-        targetConnections="id-ec878518102247d3b3a3e1bb36bb8d22 id-9b9986a49d874be9b06e5e45b57d0181">
+        targetConnections="id-ec878518102247d3b3a3e1bb36bb8d22 id-9b9986a49d874be9b06e5e45b57d0181"
+        type="1">
       <bounds
           x="265"
           y="60"
@@ -231,7 +235,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-14968a60a99343b497a0192f091e7a68"
-      textAlignment="1">
+      textAlignment="1"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-35cc2ecb12e940f3a89cf22baa0bc58c"
@@ -298,7 +303,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-9b776b24c5a14aad92784fd6f3be8a27"
-        targetConnections="id-e056440d6efd4732920ec6fef31e92c7 id-d1ab574ef7354f64ab91eba5fb23bc37">
+        targetConnections="id-e056440d6efd4732920ec6fef31e92c7 id-d1ab574ef7354f64ab91eba5fb23bc37"
+        type="1">
       <bounds
           x="204"
           y="204"

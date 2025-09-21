@@ -31,7 +31,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-d62fce81df834d9ebe09125bb4698e77"
-      textAlignment="1">
+      textAlignment="1"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-0b0d73cdadf148f98532f479e3348c98"
@@ -118,7 +119,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-7bd69bce7ddf460bb5c16e44810fc008">
+      id="id-7bd69bce7ddf460bb5c16e44810fc008"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-70e8a80577ad45bfb3308f9ab61b9135"
@@ -139,7 +141,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-4f39efb5369745879679249eeaa9d34a">
+      id="id-4f39efb5369745879679249eeaa9d34a"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-99875ee0445a43fea614bebad5835195"
@@ -160,7 +163,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-8cea7a3988724d83b3dfd8980b33e348">
+      id="id-8cea7a3988724d83b3dfd8980b33e348"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-97488fd671ae4c1bbbf4ccf71b2b5c0e"
