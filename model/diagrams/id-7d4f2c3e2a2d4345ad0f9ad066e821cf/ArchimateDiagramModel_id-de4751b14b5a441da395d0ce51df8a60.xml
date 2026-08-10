@@ -6,7 +6,8 @@
     documentation="Consultoría de ingeniería y desarrollo para el mejoramiento de la plataforma bancaria, extendida a los sistemas actuales, legados y a proveedores tecnológicos del Banco Mundo Mujer (BMM).&#xA;&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-a10c5d1386294675a9535fbcfe3ef632">
+      id="id-a10c5d1386294675a9535fbcfe3ef632"
+      type="1">
     <bounds
         x="12"
         y="24"
@@ -18,7 +19,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-7d6e25dabe4f43128937846eaa121b67">
+      id="id-7d6e25dabe4f43128937846eaa121b67"
+      type="1">
     <bounds
         x="264"
         y="24"
@@ -30,7 +32,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-ecb1acf46339408faa780895c7f587b3">
+      id="id-ecb1acf46339408faa780895c7f587b3"
+      type="1">
     <bounds
         x="12"
         y="144"
@@ -42,7 +45,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-b347d9e6f0e449eebf8456ac9e741272">
+      id="id-b347d9e6f0e449eebf8456ac9e741272"
+      type="1">
     <bounds
         x="516"
         y="24"
