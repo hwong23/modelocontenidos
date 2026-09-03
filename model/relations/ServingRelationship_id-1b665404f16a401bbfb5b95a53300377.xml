@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="registra"
+    id="id-1b665404f16a401bbfb5b95a53300377">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-b196c2f02cb8416c8dfa0f3f785c8616.xml#id-b196c2f02cb8416c8dfa0f3f785c8616"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-aa9634e19db94fd68878647704c0abc1.xml#id-aa9634e19db94fd68878647704c0abc1"/>
+</archimate:ServingRelationship>
