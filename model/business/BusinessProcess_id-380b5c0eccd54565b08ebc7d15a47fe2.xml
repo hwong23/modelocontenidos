@@ -1,0 +1,7 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ING.Sistema"
+    id="id-380b5c0eccd54565b08ebc7d15a47fe2">
+  <profiles
+      href="folder.xml#id-9bded1ead5d34a45874004225069b717"/>
+</archimate:BusinessProcess>
