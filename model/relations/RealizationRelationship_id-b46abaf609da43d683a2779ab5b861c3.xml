@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ejecuta"
+    id="id-b46abaf609da43d683a2779ab5b861c3">
+  <source
+      xsi:type="archimate:Plateau"
+      href="Plateau_id-bfea23a56b3a46eba287aa2d77cb81fc.xml#id-bfea23a56b3a46eba287aa2d77cb81fc"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-17ddbcc4545a413d85fc227684d27f86.xml#id-17ddbcc4545a413d85fc227684d27f86"/>
+</archimate:RealizationRelationship>
